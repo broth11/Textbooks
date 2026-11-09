@@ -13732,8 +13732,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13746,8 +13746,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13760,8 +13760,8 @@ window.SITE = {
      ],
      "q": "ex03_q_reviewed.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13775,8 +13775,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13789,8 +13789,8 @@ window.SITE = {
      ],
      "q": "ex05_q_reviewed.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13803,8 +13803,8 @@ window.SITE = {
      ],
      "q": "ex06_q_reviewed.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13817,8 +13817,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13831,8 +13831,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -13845,8 +13845,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -13892,8 +13892,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13907,8 +13907,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13922,8 +13922,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13937,8 +13937,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13952,8 +13952,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13966,8 +13966,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13980,8 +13980,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -13995,8 +13995,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14010,8 +14010,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14025,8 +14025,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14040,8 +14040,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14055,8 +14055,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14069,8 +14069,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -14117,8 +14117,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14132,8 +14132,8 @@ window.SITE = {
      ],
      "q": "ex02_q_reviewed.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14146,8 +14146,8 @@ window.SITE = {
      ],
      "q": "ex03_q_reviewed.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14160,8 +14160,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14174,8 +14174,8 @@ window.SITE = {
      ],
      "q": "ex05_q_reviewed.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14188,8 +14188,8 @@ window.SITE = {
      ],
      "q": "ex06_q_reviewed.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14202,8 +14202,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14216,8 +14216,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14230,8 +14230,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14244,8 +14244,8 @@ window.SITE = {
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14258,8 +14258,8 @@ window.SITE = {
      ],
      "q": "ex11_q_reviewed.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14272,8 +14272,8 @@ window.SITE = {
      ],
      "q": "ex12_q_reviewed.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14286,8 +14286,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14300,8 +14300,8 @@ window.SITE = {
      ],
      "q": "ex14_q_reviewed.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14317,8 +14317,8 @@ window.SITE = {
      ],
      "q": "ex15_q_reviewed.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14334,8 +14334,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14351,8 +14351,8 @@ window.SITE = {
      ],
      "q": "ex17_q_reviewed.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14368,8 +14368,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14385,8 +14385,8 @@ window.SITE = {
      ],
      "q": "ex19_q_reviewed.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14402,8 +14402,8 @@ window.SITE = {
      ],
      "q": "ex20_q_reviewed.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14419,8 +14419,8 @@ window.SITE = {
      ],
      "q": "ex21_q_reviewed.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14436,8 +14436,8 @@ window.SITE = {
      ],
      "q": "ex22_q_reviewed.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14453,8 +14453,8 @@ window.SITE = {
      ],
      "q": "ex23_q_reviewed.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14470,8 +14470,8 @@ window.SITE = {
      ],
      "q": "ex24_q_reviewed.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14487,8 +14487,8 @@ window.SITE = {
      ],
      "q": "ex25_q_reviewed.webp",
      "w": "ex25_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14501,8 +14501,8 @@ window.SITE = {
      ],
      "q": "ex26_q_reviewed.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14515,8 +14515,8 @@ window.SITE = {
      ],
      "q": "ex27_q_reviewed.webp",
      "w": "ex27_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14529,8 +14529,8 @@ window.SITE = {
      ],
      "q": "ex28_q_reviewed.webp",
      "w": "ex28_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14543,8 +14543,8 @@ window.SITE = {
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -14588,8 +14588,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14604,8 +14604,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14620,8 +14620,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14636,8 +14636,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14652,8 +14652,8 @@ window.SITE = {
      ],
      "q": "ex05_q_reviewed.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14666,8 +14666,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 62.931,
+     "qw": 76.18,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14680,8 +14680,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14694,8 +14694,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14708,8 +14708,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 62.931,
+     "qw": 76.18,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14723,8 +14723,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14738,8 +14738,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14753,8 +14753,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14768,8 +14768,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14783,8 +14783,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14798,8 +14798,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14812,8 +14812,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14826,8 +14826,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14840,8 +14840,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14854,8 +14854,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -14868,8 +14868,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14882,8 +14882,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -14929,8 +14929,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14943,8 +14943,8 @@ window.SITE = {
      ],
      "q": "ex02_q_reviewed.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14957,8 +14957,8 @@ window.SITE = {
      ],
      "q": "ex03_q_reviewed.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14971,8 +14971,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14985,8 +14985,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -14999,8 +14999,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15013,8 +15013,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15027,8 +15027,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15041,8 +15041,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15055,8 +15055,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15069,8 +15069,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15083,8 +15083,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15098,8 +15098,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 64.4303,
-     "ww": 62.931,
+     "qw": 77.85,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15113,8 +15113,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15128,8 +15128,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15142,8 +15142,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15156,8 +15156,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15170,8 +15170,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15184,8 +15184,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15198,8 +15198,8 @@ window.SITE = {
      ],
      "q": "ex20_q_reviewed.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.5307,
-     "ww": 62.931,
+     "qw": 76.77,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15212,8 +15212,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -15259,8 +15259,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15273,8 +15273,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15287,8 +15287,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15301,8 +15301,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15315,8 +15315,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15329,8 +15329,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15343,8 +15343,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15357,8 +15357,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15371,8 +15371,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15386,8 +15386,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15401,8 +15401,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15415,8 +15415,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15429,8 +15429,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15443,8 +15443,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15457,8 +15457,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15471,8 +15471,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15485,8 +15485,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15499,8 +15499,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15513,8 +15513,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -15527,8 +15527,8 @@ window.SITE = {
      ],
      "q": "ex20_q_reviewed.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -15574,8 +15574,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15588,8 +15588,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15602,8 +15602,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15616,8 +15616,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15630,8 +15630,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15644,8 +15644,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15658,8 +15658,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15672,8 +15672,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15686,8 +15686,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15700,8 +15700,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15714,8 +15714,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15728,8 +15728,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15742,8 +15742,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15756,8 +15756,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15770,8 +15770,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15784,8 +15784,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15798,8 +15798,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15812,8 +15812,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15826,8 +15826,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15840,8 +15840,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15854,8 +15854,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15868,8 +15868,8 @@ window.SITE = {
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15882,8 +15882,8 @@ window.SITE = {
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15896,8 +15896,8 @@ window.SITE = {
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15910,8 +15910,8 @@ window.SITE = {
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15924,8 +15924,8 @@ window.SITE = {
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15938,8 +15938,8 @@ window.SITE = {
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15952,8 +15952,8 @@ window.SITE = {
      ],
      "q": "ex28_q.webp",
      "w": "ex28_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15966,8 +15966,8 @@ window.SITE = {
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15980,8 +15980,8 @@ window.SITE = {
      ],
      "q": "ex30_q.webp",
      "w": "ex30_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -15994,8 +15994,8 @@ window.SITE = {
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16008,8 +16008,8 @@ window.SITE = {
      ],
      "q": "ex32_q.webp",
      "w": "ex32_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16022,8 +16022,8 @@ window.SITE = {
      ],
      "q": "ex33_q.webp",
      "w": "ex33_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16036,8 +16036,8 @@ window.SITE = {
      ],
      "q": "ex34_q.webp",
      "w": "ex34_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -16083,8 +16083,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16097,8 +16097,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16111,8 +16111,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16125,8 +16125,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16139,8 +16139,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16153,8 +16153,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16167,8 +16167,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16181,8 +16181,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16195,8 +16195,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16209,8 +16209,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16223,8 +16223,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16237,8 +16237,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16251,8 +16251,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16265,8 +16265,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16279,8 +16279,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16293,8 +16293,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -16345,8 +16345,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16360,8 +16360,8 @@ window.SITE = {
      ],
      "q": "ex02_q_reviewed.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16375,8 +16375,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16390,8 +16390,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16405,8 +16405,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16420,8 +16420,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 86.9565,
-     "ww": 86.9565,
+     "qw": 100.0,
+     "ww": 100.0,
      "codesSource": "section-table"
     },
     {
@@ -16435,8 +16435,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16450,8 +16450,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16465,8 +16465,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16481,8 +16481,8 @@ window.SITE = {
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16497,8 +16497,8 @@ window.SITE = {
      ],
      "q": "ex11_q_reviewed.webp",
      "w": "ex11_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16513,8 +16513,8 @@ window.SITE = {
      ],
      "q": "ex12_q_reviewed.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16529,8 +16529,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16544,8 +16544,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16559,8 +16559,8 @@ window.SITE = {
      ],
      "q": "ex15_q_reviewed.webp",
      "w": "ex15_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16573,8 +16573,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16587,8 +16587,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16601,8 +16601,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16615,8 +16615,8 @@ window.SITE = {
      ],
      "q": "ex19_q_reviewed.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16629,8 +16629,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16643,8 +16643,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16658,8 +16658,8 @@ window.SITE = {
      ],
      "q": "ex22_q_reviewed.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16673,8 +16673,8 @@ window.SITE = {
      ],
      "q": "ex23_q_reviewed.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16688,8 +16688,8 @@ window.SITE = {
      ],
      "q": "ex24_q_reviewed.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -16727,8 +16727,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16741,8 +16741,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16755,8 +16755,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16769,8 +16769,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16783,8 +16783,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16797,8 +16797,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16811,8 +16811,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16825,8 +16825,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16839,8 +16839,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16853,8 +16853,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16867,8 +16867,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16881,8 +16881,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -16895,8 +16895,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -16934,8 +16934,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16948,8 +16948,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16962,8 +16962,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16976,8 +16976,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -16990,8 +16990,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17004,8 +17004,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17018,8 +17018,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17032,8 +17032,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17046,8 +17046,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17060,8 +17060,8 @@ window.SITE = {
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17074,8 +17074,8 @@ window.SITE = {
      ],
      "q": "ex11_q_reviewed.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17088,8 +17088,8 @@ window.SITE = {
      ],
      "q": "ex12_q_reviewed.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17102,8 +17102,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17116,8 +17116,8 @@ window.SITE = {
      ],
      "q": "ex14_q_reviewed.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17130,8 +17130,8 @@ window.SITE = {
      ],
      "q": "ex15_q_reviewed.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17144,8 +17144,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17158,8 +17158,8 @@ window.SITE = {
      ],
      "q": "ex17_q_reviewed.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -17209,8 +17209,8 @@ window.SITE = {
      ],
      "q": "ex01_q_reviewed.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17223,8 +17223,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17237,8 +17237,8 @@ window.SITE = {
      ],
      "q": "ex03_q_reviewed.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17251,8 +17251,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17265,8 +17265,8 @@ window.SITE = {
      ],
      "q": "ex05_q_reviewed.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17279,8 +17279,8 @@ window.SITE = {
      ],
      "q": "ex06_q_reviewed.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17293,8 +17293,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17307,8 +17307,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17321,8 +17321,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17335,8 +17335,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17350,8 +17350,8 @@ window.SITE = {
      ],
      "q": "ex11_q_reviewed.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17365,8 +17365,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17380,8 +17380,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17395,8 +17395,8 @@ window.SITE = {
      ],
      "q": "ex14_q_reviewed.webp",
      "w": "ex14_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17410,8 +17410,8 @@ window.SITE = {
      ],
      "q": "ex15_q_reviewed.webp",
      "w": "ex15_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17425,8 +17425,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17440,8 +17440,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17455,8 +17455,8 @@ window.SITE = {
      ],
      "q": "ex18_q_reviewed.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17470,8 +17470,8 @@ window.SITE = {
      ],
      "q": "ex19_q_reviewed.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17484,8 +17484,8 @@ window.SITE = {
      ],
      "q": "ex20_q_reviewed.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17498,8 +17498,8 @@ window.SITE = {
      ],
      "q": "ex21_q_reviewed.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17512,8 +17512,8 @@ window.SITE = {
      ],
      "q": "ex22_q_reviewed.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17526,8 +17526,8 @@ window.SITE = {
      ],
      "q": "ex23_q_reviewed.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17540,8 +17540,8 @@ window.SITE = {
      ],
      "q": "ex24_q_reviewed.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17554,8 +17554,8 @@ window.SITE = {
      ],
      "q": "ex25_q_reviewed.webp",
      "w": "ex25_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17568,8 +17568,8 @@ window.SITE = {
      ],
      "q": "ex26_q_reviewed.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17582,8 +17582,8 @@ window.SITE = {
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17596,8 +17596,8 @@ window.SITE = {
      ],
      "q": "ex28_q_reviewed.webp",
      "w": "ex28_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17610,8 +17610,8 @@ window.SITE = {
      ],
      "q": "ex29_q_reviewed.webp",
      "w": "ex29_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17624,8 +17624,8 @@ window.SITE = {
      ],
      "q": "ex30_q_reviewed.webp",
      "w": "ex30_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17639,8 +17639,8 @@ window.SITE = {
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17654,8 +17654,8 @@ window.SITE = {
      ],
      "q": "ex32_q_reviewed.webp",
      "w": "ex32_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17669,8 +17669,8 @@ window.SITE = {
      ],
      "q": "ex33_q_reviewed.webp",
      "w": "ex33_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17683,8 +17683,8 @@ window.SITE = {
      ],
      "q": "ex34_q.webp",
      "w": "ex34_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17697,8 +17697,8 @@ window.SITE = {
      ],
      "q": "ex35_q_reviewed.webp",
      "w": "ex35_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17711,8 +17711,8 @@ window.SITE = {
      ],
      "q": "ex36_q_reviewed.webp",
      "w": "ex36_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17725,8 +17725,8 @@ window.SITE = {
      ],
      "q": "ex37_q_reviewed.webp",
      "w": "ex37_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17739,8 +17739,8 @@ window.SITE = {
      ],
      "q": "ex38_q_reviewed.webp",
      "w": "ex38_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17753,8 +17753,8 @@ window.SITE = {
      ],
      "q": "ex39_q.webp",
      "w": "ex39_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17767,8 +17767,8 @@ window.SITE = {
      ],
      "q": "ex40_q_reviewed.webp",
      "w": "ex40_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17781,8 +17781,8 @@ window.SITE = {
      ],
      "q": "ex41_q_reviewed.webp",
      "w": "ex41_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17795,8 +17795,8 @@ window.SITE = {
      ],
      "q": "ex42_q_reviewed.webp",
      "w": "ex42_w_masked.webp",
-     "qw": 87.1064,
-     "ww": 87.1064,
+     "qw": 100.0,
+     "ww": 100.0,
      "codesSource": "section-table"
     },
     {
@@ -17809,8 +17809,8 @@ window.SITE = {
      ],
      "q": "ex43_q_reviewed.webp",
      "w": "ex43_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17823,8 +17823,8 @@ window.SITE = {
      ],
      "q": "ex44_q_reviewed.webp",
      "w": "ex44_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17837,8 +17837,8 @@ window.SITE = {
      ],
      "q": "ex45_q_reviewed.webp",
      "w": "ex45_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17851,8 +17851,8 @@ window.SITE = {
      ],
      "q": "ex46_q_reviewed.webp",
      "w": "ex46_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17865,8 +17865,8 @@ window.SITE = {
      ],
      "q": "ex47_q_reviewed.webp",
      "w": "ex47_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17879,8 +17879,8 @@ window.SITE = {
      ],
      "q": "ex48_q_reviewed.webp",
      "w": "ex48_w_masked_reviewed.webp",
-     "qw": 63.3808,
-     "ww": 63.0435,
+     "qw": 76.59,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -17893,8 +17893,8 @@ window.SITE = {
      ],
      "q": "ex49_q_reviewed.webp",
      "w": "ex49_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -17940,8 +17940,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17954,8 +17954,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17968,8 +17968,8 @@ window.SITE = {
      ],
      "q": "ex03_q_reviewed.webp",
      "w": "ex03_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17982,8 +17982,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -17996,8 +17996,8 @@ window.SITE = {
      ],
      "q": "ex05_q_reviewed.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18010,8 +18010,8 @@ window.SITE = {
      ],
      "q": "ex06_q_reviewed.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18024,8 +18024,8 @@ window.SITE = {
      ],
      "q": "ex07_q_reviewed.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18038,8 +18038,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18052,8 +18052,8 @@ window.SITE = {
      ],
      "q": "ex09_q_reviewed.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18066,8 +18066,8 @@ window.SITE = {
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18080,8 +18080,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18094,8 +18094,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18108,8 +18108,8 @@ window.SITE = {
      ],
      "q": "ex13_q_reviewed.webp",
      "w": "ex13_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18122,8 +18122,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18136,8 +18136,8 @@ window.SITE = {
      ],
      "q": "ex15_q_reviewed.webp",
      "w": "ex15_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18150,8 +18150,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18164,8 +18164,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18178,8 +18178,8 @@ window.SITE = {
      ],
      "q": "ex18_q_reviewed.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18192,8 +18192,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18206,8 +18206,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18220,8 +18220,8 @@ window.SITE = {
      ],
      "q": "ex21_q_reviewed.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18234,8 +18234,8 @@ window.SITE = {
      ],
      "q": "ex22_q_reviewed.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18248,8 +18248,8 @@ window.SITE = {
      ],
      "q": "ex23_q_reviewed.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18262,8 +18262,8 @@ window.SITE = {
      ],
      "q": "ex24_q_reviewed.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -18307,8 +18307,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18323,8 +18323,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18339,8 +18339,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18355,8 +18355,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18371,8 +18371,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18387,8 +18387,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18403,8 +18403,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18419,8 +18419,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18435,8 +18435,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18451,8 +18451,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18467,8 +18467,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18481,8 +18481,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18495,8 +18495,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18509,8 +18509,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18523,8 +18523,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18537,8 +18537,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18551,8 +18551,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18565,8 +18565,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18579,8 +18579,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18593,8 +18593,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18608,8 +18608,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18623,8 +18623,8 @@ window.SITE = {
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18638,8 +18638,8 @@ window.SITE = {
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18653,8 +18653,8 @@ window.SITE = {
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18668,8 +18668,8 @@ window.SITE = {
      ],
      "q": "ex25_q_reviewed.webp",
      "w": "ex25_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18683,8 +18683,8 @@ window.SITE = {
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -18734,8 +18734,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18748,8 +18748,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18762,8 +18762,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18776,8 +18776,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18790,8 +18790,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18804,8 +18804,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18818,8 +18818,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked_reviewed.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18833,8 +18833,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18848,8 +18848,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18863,8 +18863,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18878,8 +18878,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18893,8 +18893,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18908,8 +18908,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18922,8 +18922,8 @@ window.SITE = {
      ],
      "q": "ex14_q_final.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.1559,
-     "ww": 62.931,
+     "qw": 76.31,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -18936,8 +18936,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     }
    ],
@@ -18984,8 +18984,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -18999,8 +18999,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19014,8 +19014,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 69.6027,
-     "ww": 69.6027,
+     "qw": 84.1,
+     "ww": 84.1,
      "codesSource": "section-table"
     },
     {
@@ -19029,8 +19029,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19044,8 +19044,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19059,8 +19059,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19074,8 +19074,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19090,8 +19090,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19106,8 +19106,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19122,8 +19122,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19138,8 +19138,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19154,8 +19154,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19170,8 +19170,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_final.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19186,8 +19186,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19202,8 +19202,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19218,8 +19218,8 @@ window.SITE = {
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19233,8 +19233,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19248,8 +19248,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19263,8 +19263,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19278,8 +19278,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19293,8 +19293,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19308,8 +19308,8 @@ window.SITE = {
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19323,8 +19323,8 @@ window.SITE = {
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19337,8 +19337,8 @@ window.SITE = {
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19351,8 +19351,8 @@ window.SITE = {
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19365,8 +19365,8 @@ window.SITE = {
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19379,8 +19379,8 @@ window.SITE = {
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19393,8 +19393,8 @@ window.SITE = {
      ],
      "q": "ex28_q.webp",
      "w": "ex28_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19407,8 +19407,8 @@ window.SITE = {
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19421,8 +19421,8 @@ window.SITE = {
      ],
      "q": "ex30_q.webp",
      "w": "ex30_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19435,8 +19435,8 @@ window.SITE = {
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19449,8 +19449,8 @@ window.SITE = {
      ],
      "q": "ex32_q.webp",
      "w": "ex32_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19463,8 +19463,8 @@ window.SITE = {
      ],
      "q": "ex33_q.webp",
      "w": "ex33_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19477,8 +19477,8 @@ window.SITE = {
      ],
      "q": "ex34_q.webp",
      "w": "ex34_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -19520,8 +19520,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19534,8 +19534,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19548,8 +19548,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19562,8 +19562,8 @@ window.SITE = {
      ],
      "q": "ex04_q_reviewed.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 54.8726,
-     "ww": 54.8726,
+     "qw": 66.3,
+     "ww": 66.3,
      "codesSource": "section-table"
     },
     {
@@ -19576,8 +19576,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19590,8 +19590,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19604,8 +19604,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19618,8 +19618,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -19669,8 +19669,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19683,8 +19683,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19697,8 +19697,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19711,8 +19711,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19725,8 +19725,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19739,8 +19739,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19753,8 +19753,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19767,8 +19767,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19781,8 +19781,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19795,8 +19795,8 @@ window.SITE = {
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -19838,8 +19838,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19852,8 +19852,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19867,8 +19867,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19882,8 +19882,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19897,8 +19897,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19912,8 +19912,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 87.1064,
-     "ww": 87.1064,
+     "qw": 100.0,
+     "ww": 100.0,
      "codesSource": "section-table"
     },
     {
@@ -19926,8 +19926,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19940,8 +19940,8 @@ window.SITE = {
      ],
      "q": "ex08_q_reviewed.webp",
      "w": "ex08_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19954,8 +19954,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19968,8 +19968,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19982,8 +19982,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -19996,8 +19996,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],
@@ -20039,8 +20039,8 @@ window.SITE = {
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w_masked.webp",
-     "qw": 62.931,
-     "ww": 62.931,
+     "qw": 76.04,
+     "ww": 76.04,
      "codesSource": "section-table"
     },
     {
@@ -20053,8 +20053,8 @@ window.SITE = {
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20067,8 +20067,8 @@ window.SITE = {
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20081,8 +20081,8 @@ window.SITE = {
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20095,8 +20095,8 @@ window.SITE = {
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20109,8 +20109,8 @@ window.SITE = {
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20123,8 +20123,8 @@ window.SITE = {
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20137,8 +20137,8 @@ window.SITE = {
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20151,8 +20151,8 @@ window.SITE = {
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20165,8 +20165,8 @@ window.SITE = {
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20179,8 +20179,8 @@ window.SITE = {
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20193,8 +20193,8 @@ window.SITE = {
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20207,8 +20207,8 @@ window.SITE = {
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20221,8 +20221,8 @@ window.SITE = {
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20235,8 +20235,8 @@ window.SITE = {
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20249,8 +20249,8 @@ window.SITE = {
      ],
      "q": "ex16_q_reviewed.webp",
      "w": "ex16_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20263,8 +20263,8 @@ window.SITE = {
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20277,8 +20277,8 @@ window.SITE = {
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20291,8 +20291,8 @@ window.SITE = {
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20305,8 +20305,8 @@ window.SITE = {
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20320,8 +20320,8 @@ window.SITE = {
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20335,8 +20335,8 @@ window.SITE = {
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20350,8 +20350,8 @@ window.SITE = {
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20365,8 +20365,8 @@ window.SITE = {
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20380,8 +20380,8 @@ window.SITE = {
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20395,8 +20395,8 @@ window.SITE = {
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20410,8 +20410,8 @@ window.SITE = {
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w_masked_reviewed.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20425,8 +20425,8 @@ window.SITE = {
      ],
      "q": "ex28_q.webp",
      "w": "ex28_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20440,8 +20440,8 @@ window.SITE = {
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20455,8 +20455,8 @@ window.SITE = {
      ],
      "q": "ex30_q.webp",
      "w": "ex30_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20470,8 +20470,8 @@ window.SITE = {
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20485,8 +20485,8 @@ window.SITE = {
      ],
      "q": "ex32_q.webp",
      "w": "ex32_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20500,8 +20500,8 @@ window.SITE = {
      ],
      "q": "ex33_q.webp",
      "w": "ex33_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20515,8 +20515,8 @@ window.SITE = {
      ],
      "q": "ex34_q.webp",
      "w": "ex34_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     },
     {
@@ -20530,8 +20530,8 @@ window.SITE = {
      ],
      "q": "ex35_q.webp",
      "w": "ex35_w_masked.webp",
-     "qw": 63.0435,
-     "ww": 63.0435,
+     "qw": 76.18,
+     "ww": 76.18,
      "codesSource": "section-table"
     }
    ],

@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   var S = window.SITE, $ = function (id) { return document.getElementById(id); };
-  var state = { rail: 'chapters', book: 'all', sel: null, cur: null, collapsed: window.innerWidth < 1100 };
+  var state = { rail: 'books', book: 'all', sel: null, cur: null, collapsed: window.innerWidth < 1100 };
   var view = null;
 
   // ---------- helpers
