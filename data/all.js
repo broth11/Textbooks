@@ -13691,6 +13691,6851 @@ window.SITE = {
     }
    ],
    "dir": "img/AI-HL_ch31"
+  },
+  {
+   "id": "PE-AI-HL_ch01",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 1,
+   "title": "Number and algebra basics",
+   "scan_dir": "chapters/PE-AI-HL_ch01/scan",
+   "sections": [
+    {
+     "id": "1.1",
+     "title": "Estimation and approximation"
+    },
+    {
+     "id": "1.2",
+     "title": "Rules of exponents"
+    },
+    {
+     "id": "1.3",
+     "title": "Scientific notation"
+    },
+    {
+     "id": "1.4",
+     "title": "Exponents and logarithms"
+    },
+    {
+     "id": "1.5",
+     "title": "Rules of logarithms"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1.1",
+     "printedLabel": "1.1",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "1.2",
+     "printedLabel": "1.2",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "1.3",
+     "printedLabel": "1.3",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "1.4",
+     "printedLabel": "1.4",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5",
+      "AHL 1.10"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "1.5",
+     "printedLabel": "1.5",
+     "section": "1.3",
+     "codes": [
+      "SL 1.1"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "1.6",
+     "printedLabel": "1.6",
+     "section": "1.3",
+     "codes": [
+      "SL 1.1"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "1.7",
+     "printedLabel": "1.7",
+     "section": "1.4",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "1.8",
+     "printedLabel": "1.8",
+     "section": "1.4",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "1.9",
+     "printedLabel": "1.9",
+     "section": "1.5",
+     "codes": [
+      "AHL 1.9"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch01"
+  },
+  {
+   "id": "PE-AI-HL_ch02",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 2,
+   "title": "Functions",
+   "scan_dir": "chapters/PE-AI-HL_ch02/scan",
+   "sections": [
+    {
+     "id": "2.1",
+     "title": "Concept of a function, domain and range"
+    },
+    {
+     "id": "2.2",
+     "title": "Linear and piecewise functions"
+    },
+    {
+     "id": "2.3",
+     "title": "Composite functions"
+    },
+    {
+     "id": "2.4",
+     "title": "Inverse functions"
+    },
+    {
+     "id": "2.5",
+     "title": "Transformations of graphs"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "2.1",
+     "printedLabel": "2.1",
+     "section": "2.1",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2.2",
+     "printedLabel": "2.2",
+     "section": "2.2",
+     "codes": [
+      "SL 2.1",
+      "SL 2.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "2.3",
+     "printedLabel": "2.3",
+     "section": "2.2",
+     "codes": [
+      "SL 2.1",
+      "SL 2.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "2.4",
+     "printedLabel": "2.4",
+     "section": "2.2",
+     "codes": [
+      "SL 2.1",
+      "SL 2.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "2.5",
+     "printedLabel": "2.5",
+     "section": "2.2",
+     "codes": [
+      "SL 2.1",
+      "SL 2.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "2.6",
+     "printedLabel": "2.6",
+     "section": "2.3",
+     "codes": [
+      "AHL 2.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "2.7",
+     "printedLabel": "2.7",
+     "section": "2.3",
+     "codes": [
+      "AHL 2.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "2.8",
+     "printedLabel": "2.8",
+     "section": "2.4",
+     "codes": [
+      "SL 2.2",
+      "AHL 2.7"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "2.9",
+     "printedLabel": "2.9",
+     "section": "2.4",
+     "codes": [
+      "SL 2.2",
+      "AHL 2.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "2.10",
+     "printedLabel": "2.10",
+     "section": "2.4",
+     "codes": [
+      "SL 2.2",
+      "AHL 2.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "2.11",
+     "printedLabel": "2.11",
+     "section": "2.4",
+     "codes": [
+      "SL 2.2",
+      "AHL 2.7"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "2.12",
+     "printedLabel": "2.12",
+     "section": "2.4",
+     "codes": [
+      "SL 2.2",
+      "AHL 2.7"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "2.13",
+     "printedLabel": "2.13",
+     "section": "2.5",
+     "codes": [
+      "AHL 2.8"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch02"
+  },
+  {
+   "id": "PE-AI-HL_ch03",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 3,
+   "title": "Sequences and series",
+   "scan_dir": "chapters/PE-AI-HL_ch03/scan",
+   "sections": [
+    {
+     "id": "3.1",
+     "title": "Sequences"
+    },
+    {
+     "id": "3.2",
+     "title": "Arithmetic sequences"
+    },
+    {
+     "id": "3.3",
+     "title": "Geometric sequences"
+    },
+    {
+     "id": "3.4",
+     "title": "Series"
+    },
+    {
+     "id": "3.5",
+     "title": "Annuities and amortisation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "3.1",
+     "printedLabel": "3.1",
+     "section": "3.1",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "3.2",
+     "printedLabel": "3.2",
+     "section": "3.1",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3.3",
+     "printedLabel": "3.3",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "3.4",
+     "printedLabel": "3.4",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "3.5",
+     "printedLabel": "3.5",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "3.6",
+     "printedLabel": "3.6",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "3.7",
+     "printedLabel": "3.7",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "3.8",
+     "printedLabel": "3.8",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "3.9",
+     "printedLabel": "3.9",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "3.10",
+     "printedLabel": "3.10",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "3.11",
+     "printedLabel": "3.11",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "3.12",
+     "printedLabel": "3.12",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "3.13",
+     "printedLabel": "3.13",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "3.14",
+     "printedLabel": "3.14",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "3.15",
+     "printedLabel": "3.15",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "3.16",
+     "printedLabel": "3.16",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "3.17",
+     "printedLabel": "3.17",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "3.18",
+     "printedLabel": "3.18",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "3.19",
+     "printedLabel": "3.19",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "3.20",
+     "printedLabel": "3.20",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "3.21",
+     "printedLabel": "3.21",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "3.22",
+     "printedLabel": "3.22",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "3.23",
+     "printedLabel": "3.23",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "3.24",
+     "printedLabel": "3.24",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "3.25",
+     "printedLabel": "3.25",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "AHL 1.11"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "3.26",
+     "printedLabel": "3.26",
+     "section": "3.5",
+     "codes": [
+      "SL 1.7"
+     ],
+     "q": "ex26_q_reviewed.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "3.27",
+     "printedLabel": "3.27",
+     "section": "3.5",
+     "codes": [
+      "SL 1.7"
+     ],
+     "q": "ex27_q_reviewed.webp",
+     "w": "ex27_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "3.28",
+     "printedLabel": "3.28",
+     "section": "3.5",
+     "codes": [
+      "SL 1.7"
+     ],
+     "q": "ex28_q_reviewed.webp",
+     "w": "ex28_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "3.29",
+     "printedLabel": "3.29",
+     "section": "3.5",
+     "codes": [
+      "SL 1.7"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch03"
+  },
+  {
+   "id": "PE-AI-HL_ch04",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 4,
+   "title": "Geometry and trigonometry 1",
+   "scan_dir": "chapters/PE-AI-HL_ch04/scan",
+   "sections": [
+    {
+     "id": "4.1",
+     "title": "Coordinate geometry in a plane – lengths of segments and midpoints"
+    },
+    {
+     "id": "4.2",
+     "title": "Trigonometry"
+    },
+    {
+     "id": "4.3",
+     "title": "Areas of triangles, sine rule and cosine rule"
+    },
+    {
+     "id": "4.4",
+     "title": "Measurements in 3 dimensions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "4.1",
+     "printedLabel": "4.1",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "4.2",
+     "printedLabel": "4.2",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "4.3",
+     "printedLabel": "4.3",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4.4",
+     "printedLabel": "4.4",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "4.5",
+     "printedLabel": "4.5",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "4.6",
+     "printedLabel": "4.6",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "4.7",
+     "printedLabel": "4.7",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "4.8",
+     "printedLabel": "4.8",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "4.9",
+     "printedLabel": "4.9",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "4.10",
+     "printedLabel": "4.10",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "4.11",
+     "printedLabel": "4.11",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "4.12",
+     "printedLabel": "4.12",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "4.13",
+     "printedLabel": "4.13",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "4.14",
+     "printedLabel": "4.14",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "4.15",
+     "printedLabel": "4.15",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "4.16",
+     "printedLabel": "4.16",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "4.17",
+     "printedLabel": "4.17",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "4.18",
+     "printedLabel": "4.18",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "4.19",
+     "printedLabel": "4.19",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "4.20",
+     "printedLabel": "4.20",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "4.21",
+     "printedLabel": "4.21",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch04"
+  },
+  {
+   "id": "PE-AI-HL_ch05",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 5,
+   "title": "Geometry and trigonometry 2",
+   "scan_dir": "chapters/PE-AI-HL_ch05/scan",
+   "sections": [
+    {
+     "id": "5.1",
+     "title": "Arc length and area of a sector"
+    },
+    {
+     "id": "5.2",
+     "title": "Angles of rotation and radian measure"
+    },
+    {
+     "id": "5.3",
+     "title": "The unit circle and trigonometric functions"
+    },
+    {
+     "id": "5.4",
+     "title": "Graphical analysis of trigonometric functions"
+    },
+    {
+     "id": "5.5",
+     "title": "Voronoi diagrams"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "5.1",
+     "printedLabel": "5.1",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "5.2",
+     "printedLabel": "5.2",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "5.3",
+     "printedLabel": "5.3",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "5.4",
+     "printedLabel": "5.4",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5.5",
+     "printedLabel": "5.5",
+     "section": "5.2",
+     "codes": [
+      "AHL 3.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "5.6",
+     "printedLabel": "5.6",
+     "section": "5.2",
+     "codes": [
+      "AHL 3.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "5.7",
+     "printedLabel": "5.7",
+     "section": "5.2",
+     "codes": [
+      "AHL 3.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "5.8",
+     "printedLabel": "5.8",
+     "section": "5.2",
+     "codes": [
+      "AHL 3.7"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "5.9",
+     "printedLabel": "5.9",
+     "section": "5.2",
+     "codes": [
+      "AHL 3.7"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "5.10",
+     "printedLabel": "5.10",
+     "section": "5.3",
+     "codes": [
+      "AHL 3.8"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "5.11",
+     "printedLabel": "5.11",
+     "section": "5.3",
+     "codes": [
+      "AHL 3.8"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "5.12",
+     "printedLabel": "5.12",
+     "section": "5.3",
+     "codes": [
+      "AHL 3.8"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "5.13",
+     "printedLabel": "5.13",
+     "section": "5.4",
+     "codes": [
+      "AHL 3.8",
+      "AHL 2.9"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 64.4303,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "5.14",
+     "printedLabel": "5.14",
+     "section": "5.4",
+     "codes": [
+      "AHL 3.8",
+      "AHL 2.9"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "5.15",
+     "printedLabel": "5.15",
+     "section": "5.4",
+     "codes": [
+      "AHL 3.8",
+      "AHL 2.9"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "5.16",
+     "printedLabel": "5.16",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "5.17",
+     "printedLabel": "5.17",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "5.18",
+     "printedLabel": "5.18",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "5.19",
+     "printedLabel": "5.19",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "5.20",
+     "printedLabel": "5.20",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.5307,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "5.21",
+     "printedLabel": "5.21",
+     "section": "5.5",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch05"
+  },
+  {
+   "id": "PE-AI-HL_ch06",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 6,
+   "title": "Complex numbers",
+   "scan_dir": "chapters/PE-AI-HL_ch06/scan",
+   "sections": [
+    {
+     "id": "6.1",
+     "title": "Imaginary numbers"
+    },
+    {
+     "id": "6.2",
+     "title": "Operations with complex numbers"
+    },
+    {
+     "id": "6.3",
+     "title": "The complex plane"
+    },
+    {
+     "id": "6.4",
+     "title": "Powers and roots of complex numbers"
+    },
+    {
+     "id": "6.5",
+     "title": "Applications of complex numbers"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "6.1",
+     "printedLabel": "6.1",
+     "section": "6.1",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "6.2",
+     "printedLabel": "6.2",
+     "section": "6.1",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "6.3",
+     "printedLabel": "6.3",
+     "section": "6.1",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "6.4",
+     "printedLabel": "6.4",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "6.5",
+     "printedLabel": "6.5",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6.6",
+     "printedLabel": "6.6",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "6.7",
+     "printedLabel": "6.7",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "6.8",
+     "printedLabel": "6.8",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "6.9",
+     "printedLabel": "6.9",
+     "section": "6.2",
+     "codes": [
+      "AHL 1.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "6.10",
+     "printedLabel": "6.10",
+     "section": "6.3",
+     "codes": [
+      "AHL 1.12",
+      "AHL 1.13"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "6.11",
+     "printedLabel": "6.11",
+     "section": "6.3",
+     "codes": [
+      "AHL 1.12",
+      "AHL 1.13"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "6.12",
+     "printedLabel": "6.12",
+     "section": "6.4",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "6.13",
+     "printedLabel": "6.13",
+     "section": "6.4",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "6.14",
+     "printedLabel": "6.14",
+     "section": "6.4",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "6.15",
+     "printedLabel": "6.15",
+     "section": "6.4",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "6.16",
+     "printedLabel": "6.16",
+     "section": "6.5",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "6.17",
+     "printedLabel": "6.17",
+     "section": "6.5",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "6.18",
+     "printedLabel": "6.18",
+     "section": "6.5",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "6.19",
+     "printedLabel": "6.19",
+     "section": "6.5",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "6.20",
+     "printedLabel": "6.20",
+     "section": "6.5",
+     "codes": [
+      "AHL 1.13"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch06"
+  },
+  {
+   "id": "PE-AI-HL_ch07",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 7,
+   "title": "Matrix algebra",
+   "scan_dir": "chapters/PE-AI-HL_ch07/scan",
+   "sections": [
+    {
+     "id": "7.1",
+     "title": "Matrix definitions and operations"
+    },
+    {
+     "id": "7.2",
+     "title": "Applications to systems"
+    },
+    {
+     "id": "7.3",
+     "title": "Further properties and applications"
+    },
+    {
+     "id": "7.4",
+     "title": "Eigenvectors and eigenvalues"
+    },
+    {
+     "id": "7.5",
+     "title": "Matrices and geometric transformations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "7.1",
+     "printedLabel": "7.1",
+     "section": "7.1",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "7.2",
+     "printedLabel": "7.2",
+     "section": "7.1",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "7.3",
+     "printedLabel": "7.3",
+     "section": "7.1",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "7.4",
+     "printedLabel": "7.4",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "7.5",
+     "printedLabel": "7.5",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "7.6",
+     "printedLabel": "7.6",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7.7",
+     "printedLabel": "7.7",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "7.8",
+     "printedLabel": "7.8",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "7.9",
+     "printedLabel": "7.9",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "7.10",
+     "printedLabel": "7.10",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "7.11",
+     "printedLabel": "7.11",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "7.12",
+     "printedLabel": "7.12",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "7.13",
+     "printedLabel": "7.13",
+     "section": "7.2",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "7.14",
+     "printedLabel": "7.14",
+     "section": "7.3",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "7.15",
+     "printedLabel": "7.15",
+     "section": "7.3",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "7.16",
+     "printedLabel": "7.16",
+     "section": "7.3",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "7.17",
+     "printedLabel": "7.17",
+     "section": "7.3",
+     "codes": [
+      "AHL 1.14"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "7.18",
+     "printedLabel": "7.18",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "7.19",
+     "printedLabel": "7.19",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "7.20",
+     "printedLabel": "7.20",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "7.21",
+     "printedLabel": "7.21",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "7.22",
+     "printedLabel": "7.22",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "7.23",
+     "printedLabel": "7.23",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "7.24",
+     "printedLabel": "7.24",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "7.25",
+     "printedLabel": "7.25",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "7.26",
+     "printedLabel": "7.26",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "7.27",
+     "printedLabel": "7.27",
+     "section": "7.4",
+     "codes": [
+      "AHL 1.15"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "7.28",
+     "printedLabel": "7.28",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex28_q.webp",
+     "w": "ex28_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "7.29",
+     "printedLabel": "7.29",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "7.30",
+     "printedLabel": "7.30",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex30_q.webp",
+     "w": "ex30_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "7.31",
+     "printedLabel": "7.31",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "7.32",
+     "printedLabel": "7.32",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex32_q.webp",
+     "w": "ex32_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "7.33",
+     "printedLabel": "7.33",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex33_q.webp",
+     "w": "ex33_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "7.34",
+     "printedLabel": "7.34",
+     "section": "7.5",
+     "codes": [
+      "AHL 3.9"
+     ],
+     "q": "ex34_q.webp",
+     "w": "ex34_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch07"
+  },
+  {
+   "id": "PE-AI-HL_ch08",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 8,
+   "title": "Vectors",
+   "scan_dir": "chapters/PE-AI-HL_ch08/scan",
+   "sections": [
+    {
+     "id": "8.1",
+     "title": "Vector representation"
+    },
+    {
+     "id": "8.2",
+     "title": "Vector and parametric equations of lines"
+    },
+    {
+     "id": "8.3",
+     "title": "Kinematics"
+    },
+    {
+     "id": "8.4",
+     "title": "Scalar and vector products"
+    },
+    {
+     "id": "8.5",
+     "title": "Angles between vectors"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "8.1",
+     "printedLabel": "8.1",
+     "section": "8.1",
+     "codes": [
+      "AHL 3.10"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "8.2",
+     "printedLabel": "8.2",
+     "section": "8.1",
+     "codes": [
+      "AHL 3.10"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "8.3",
+     "printedLabel": "8.3",
+     "section": "8.1",
+     "codes": [
+      "AHL 3.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "8.4",
+     "printedLabel": "8.4",
+     "section": "8.1",
+     "codes": [
+      "AHL 3.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "8.5",
+     "printedLabel": "8.5",
+     "section": "8.1",
+     "codes": [
+      "AHL 3.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "8.6",
+     "printedLabel": "8.6",
+     "section": "8.2",
+     "codes": [
+      "AHL 3.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "8.7",
+     "printedLabel": "8.7",
+     "section": "8.2",
+     "codes": [
+      "AHL 3.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8.8",
+     "printedLabel": "8.8",
+     "section": "8.2",
+     "codes": [
+      "AHL 3.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "8.9",
+     "printedLabel": "8.9",
+     "section": "8.3",
+     "codes": [
+      "AHL 3.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "8.10",
+     "printedLabel": "8.10",
+     "section": "8.3",
+     "codes": [
+      "AHL 3.12"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "8.11",
+     "printedLabel": "8.11",
+     "section": "8.3",
+     "codes": [
+      "AHL 3.12"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "8.12",
+     "printedLabel": "8.12",
+     "section": "8.4",
+     "codes": [
+      "AHL 3.13"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "8.13",
+     "printedLabel": "8.13",
+     "section": "8.4",
+     "codes": [
+      "AHL 3.13"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "8.14",
+     "printedLabel": "8.14",
+     "section": "8.4",
+     "codes": [
+      "AHL 3.13"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "8.15",
+     "printedLabel": "8.15",
+     "section": "8.4",
+     "codes": [
+      "AHL 3.13"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "8.16",
+     "printedLabel": "8.16",
+     "section": "8.5",
+     "codes": [
+      "AHL 3.13"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch08"
+  },
+  {
+   "id": "PE-AI-HL_ch09",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 9,
+   "title": "Modelling real-life phenomena",
+   "scan_dir": "chapters/PE-AI-HL_ch09/scan",
+   "sections": [
+    {
+     "id": "9.1",
+     "title": "Polynomial functions"
+    },
+    {
+     "id": "9.2",
+     "title": "Exponential and logarithmic models"
+    },
+    {
+     "id": "9.3",
+     "title": "Trigonometric models"
+    },
+    {
+     "id": "9.4",
+     "title": "Logistic models"
+    },
+    {
+     "id": "9.5",
+     "title": "Direct and inverse variation"
+    },
+    {
+     "id": "9.6",
+     "title": "Further modelling skills"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "9.1",
+     "printedLabel": "9.1",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "9.2",
+     "printedLabel": "9.2",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "9.3",
+     "printedLabel": "9.3",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "9.4",
+     "printedLabel": "9.4",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "9.5",
+     "printedLabel": "9.5",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "9.6",
+     "printedLabel": "9.6",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 86.9565,
+     "ww": 86.9565,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "9.7",
+     "printedLabel": "9.7",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "9.8",
+     "printedLabel": "9.8",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9.9",
+     "printedLabel": "9.9",
+     "section": "9.1",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "9.10",
+     "printedLabel": "9.10",
+     "section": "9.2",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6",
+      "AHL 2.9"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "9.11",
+     "printedLabel": "9.11",
+     "section": "9.2",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6",
+      "AHL 2.9"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "9.12",
+     "printedLabel": "9.12",
+     "section": "9.2",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6",
+      "AHL 2.9"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "9.13",
+     "printedLabel": "9.13",
+     "section": "9.2",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6",
+      "AHL 2.9"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "9.14",
+     "printedLabel": "9.14",
+     "section": "9.3",
+     "codes": [
+      "SL 2.5",
+      "AHL 2.9"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "9.15",
+     "printedLabel": "9.15",
+     "section": "9.3",
+     "codes": [
+      "SL 2.5",
+      "AHL 2.9"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "9.16",
+     "printedLabel": "9.16",
+     "section": "9.4",
+     "codes": [
+      "AHL 2.9"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "9.17",
+     "printedLabel": "9.17",
+     "section": "9.4",
+     "codes": [
+      "AHL 2.9"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "9.18",
+     "printedLabel": "9.18",
+     "section": "9.4",
+     "codes": [
+      "AHL 2.9"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "9.19",
+     "printedLabel": "9.19",
+     "section": "9.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "9.20",
+     "printedLabel": "9.20",
+     "section": "9.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "9.21",
+     "printedLabel": "9.21",
+     "section": "9.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "9.22",
+     "printedLabel": "9.22",
+     "section": "9.6",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "9.23",
+     "printedLabel": "9.23",
+     "section": "9.6",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "9.24",
+     "printedLabel": "9.24",
+     "section": "9.6",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch09"
+  },
+  {
+   "id": "PE-AI-HL_ch10",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 10,
+   "title": "Descriptive statistics",
+   "scan_dir": "chapters/PE-AI-HL_ch10/scan",
+   "sections": [
+    {
+     "id": "10.1",
+     "title": "Data and variables"
+    },
+    {
+     "id": "10.2",
+     "title": "Displaying distributions using graphs"
+    },
+    {
+     "id": "10.3",
+     "title": "Measures of central tendency and spread"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "10.1",
+     "printedLabel": "10.1",
+     "section": "10.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "10.2",
+     "printedLabel": "10.2",
+     "section": "10.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "10.3",
+     "printedLabel": "10.3",
+     "section": "10.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "10.4",
+     "printedLabel": "10.4",
+     "section": "10.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "10.5",
+     "printedLabel": "10.5",
+     "section": "10.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "10.6",
+     "printedLabel": "10.6",
+     "section": "10.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "10.7",
+     "printedLabel": "10.7",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "10.8",
+     "printedLabel": "10.8",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "10.9",
+     "printedLabel": "10.9",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10.10",
+     "printedLabel": "10.10",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "10.11",
+     "printedLabel": "10.11",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "10.12",
+     "printedLabel": "10.12",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "10.13",
+     "printedLabel": "10.13",
+     "section": "10.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch10"
+  },
+  {
+   "id": "PE-AI-HL_ch11",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 11,
+   "title": "Probability of events",
+   "scan_dir": "chapters/PE-AI-HL_ch11/scan",
+   "sections": [
+    {
+     "id": "11.1",
+     "title": "Concepts and definitions"
+    },
+    {
+     "id": "11.2",
+     "title": "Representing the sample space"
+    },
+    {
+     "id": "11.3",
+     "title": "Conditional probability"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "11.1",
+     "printedLabel": "11.1",
+     "section": "11.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "11.2",
+     "printedLabel": "11.2",
+     "section": "11.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "11.3",
+     "printedLabel": "11.3",
+     "section": "11.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "11.4",
+     "printedLabel": "11.4",
+     "section": "11.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "11.5",
+     "printedLabel": "11.5",
+     "section": "11.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "11.6",
+     "printedLabel": "11.6",
+     "section": "11.2",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "11.7",
+     "printedLabel": "11.7",
+     "section": "11.2",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "11.8",
+     "printedLabel": "11.8",
+     "section": "11.2",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "11.9",
+     "printedLabel": "11.9",
+     "section": "11.2",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "11.10",
+     "printedLabel": "11.10",
+     "section": "11.2",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11.11",
+     "printedLabel": "11.11",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "11.12",
+     "printedLabel": "11.12",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "11.13",
+     "printedLabel": "11.13",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "11.14",
+     "printedLabel": "11.14",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "11.15",
+     "printedLabel": "11.15",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "11.16",
+     "printedLabel": "11.16",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "11.17",
+     "printedLabel": "11.17",
+     "section": "11.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch11"
+  },
+  {
+   "id": "PE-AI-HL_ch12",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 12,
+   "title": "Graph theory",
+   "scan_dir": "chapters/PE-AI-HL_ch12/scan",
+   "sections": [
+    {
+     "id": "12.1",
+     "title": "Graphs: Definitions"
+    },
+    {
+     "id": "12.2",
+     "title": "Paths, walks and trails"
+    },
+    {
+     "id": "12.3",
+     "title": "Planar graphs"
+    },
+    {
+     "id": "12.4",
+     "title": "Trees"
+    },
+    {
+     "id": "12.5",
+     "title": "Weighted graphs and greedy algorithms"
+    },
+    {
+     "id": "12.6",
+     "title": "Shortest path, route inspection and the travelling salesman problem"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "12.1",
+     "printedLabel": "12.1",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "12.2",
+     "printedLabel": "12.2",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "12.3",
+     "printedLabel": "12.3",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "12.4",
+     "printedLabel": "12.4",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "12.5",
+     "printedLabel": "12.5",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "12.6",
+     "printedLabel": "12.6",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "12.7",
+     "printedLabel": "12.7",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "12.8",
+     "printedLabel": "12.8",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "12.9",
+     "printedLabel": "12.9",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "12.10",
+     "printedLabel": "12.10",
+     "section": "12.1",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "12.11",
+     "printedLabel": "12.11",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12.12a",
+     "printedLabel": "12.12",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "12.12b",
+     "printedLabel": "12.12",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "12.13",
+     "printedLabel": "12.13",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "12.14",
+     "printedLabel": "12.14",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "12.15",
+     "printedLabel": "12.15",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "12.16",
+     "printedLabel": "12.16",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "12.17",
+     "printedLabel": "12.17",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "12.18",
+     "printedLabel": "12.18",
+     "section": "12.2",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.15"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "12.19",
+     "printedLabel": "12.19",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "12.20",
+     "printedLabel": "12.20",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "12.21",
+     "printedLabel": "12.21",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "12.22",
+     "printedLabel": "12.22",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "12.23",
+     "printedLabel": "12.23",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "12.24",
+     "printedLabel": "12.24",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "12.25",
+     "printedLabel": "12.25",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex26_q_reviewed.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "12.26",
+     "printedLabel": "12.26",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "12.27",
+     "printedLabel": "12.27",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex28_q_reviewed.webp",
+     "w": "ex28_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "12.28",
+     "printedLabel": "12.28",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex29_q_reviewed.webp",
+     "w": "ex29_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "12.29",
+     "printedLabel": "12.29",
+     "section": "12.3",
+     "codes": [
+      "AHL 3.14"
+     ],
+     "q": "ex30_q_reviewed.webp",
+     "w": "ex30_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "12.30",
+     "printedLabel": "12.30",
+     "section": "12.4",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.16"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "12.31",
+     "printedLabel": "12.31",
+     "section": "12.4",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.16"
+     ],
+     "q": "ex32_q_reviewed.webp",
+     "w": "ex32_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "12.32",
+     "printedLabel": "12.32",
+     "section": "12.4",
+     "codes": [
+      "AHL 3.14",
+      "AHL 3.16"
+     ],
+     "q": "ex33_q_reviewed.webp",
+     "w": "ex33_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "12.33a",
+     "printedLabel": "12.33",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex34_q.webp",
+     "w": "ex34_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "12.33b",
+     "printedLabel": "12.33",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex35_q_reviewed.webp",
+     "w": "ex35_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "12.34",
+     "printedLabel": "12.34",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex36_q_reviewed.webp",
+     "w": "ex36_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "12.35",
+     "printedLabel": "12.35",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex37_q_reviewed.webp",
+     "w": "ex37_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "12.36",
+     "printedLabel": "12.36",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex38_q_reviewed.webp",
+     "w": "ex38_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 39,
+     "label": "12.37",
+     "printedLabel": "12.37",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex39_q.webp",
+     "w": "ex39_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 40,
+     "label": "12.38",
+     "printedLabel": "12.38",
+     "section": "12.5",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex40_q_reviewed.webp",
+     "w": "ex40_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 41,
+     "label": "12.39",
+     "printedLabel": "12.39",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex41_q_reviewed.webp",
+     "w": "ex41_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 42,
+     "label": "12.40",
+     "printedLabel": "12.40",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex42_q_reviewed.webp",
+     "w": "ex42_w_masked.webp",
+     "qw": 87.1064,
+     "ww": 87.1064,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 43,
+     "label": "12.41",
+     "printedLabel": "12.41",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex43_q_reviewed.webp",
+     "w": "ex43_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 44,
+     "label": "12.42",
+     "printedLabel": "12.42",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex44_q_reviewed.webp",
+     "w": "ex44_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 45,
+     "label": "12.43",
+     "printedLabel": "12.43",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex45_q_reviewed.webp",
+     "w": "ex45_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 46,
+     "label": "12.44",
+     "printedLabel": "12.44",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex46_q_reviewed.webp",
+     "w": "ex46_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 47,
+     "label": "12.45",
+     "printedLabel": "12.45",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex47_q_reviewed.webp",
+     "w": "ex47_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 48,
+     "label": "12.46",
+     "printedLabel": "12.46",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex48_q_reviewed.webp",
+     "w": "ex48_w_masked_reviewed.webp",
+     "qw": 63.3808,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 49,
+     "label": "12.47",
+     "printedLabel": "12.47",
+     "section": "12.6",
+     "codes": [
+      "AHL 3.16"
+     ],
+     "q": "ex49_q_reviewed.webp",
+     "w": "ex49_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch12"
+  },
+  {
+   "id": "PE-AI-HL_ch13",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 13,
+   "title": "Introduction to differential calculus",
+   "scan_dir": "chapters/PE-AI-HL_ch13/scan",
+   "sections": [
+    {
+     "id": "13.1",
+     "title": "Limits and instantaneous rate of change"
+    },
+    {
+     "id": "13.2",
+     "title": "Derivative of a function"
+    },
+    {
+     "id": "13.3",
+     "title": "Derivatives of functions of the form f(x) = ax^n"
+    },
+    {
+     "id": "13.4",
+     "title": "Derivatives of composite functions, products and quotients"
+    },
+    {
+     "id": "13.5",
+     "title": "Derivatives of sin x, cos x, tan x, e^x and ln x"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "13.1",
+     "printedLabel": "13.1",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "13.2",
+     "printedLabel": "13.2",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "13.3",
+     "printedLabel": "13.3",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "13.4",
+     "printedLabel": "13.4",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "13.5",
+     "printedLabel": "13.5",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "13.6",
+     "printedLabel": "13.6",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "13.7",
+     "printedLabel": "13.7",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "13.8",
+     "printedLabel": "13.8",
+     "section": "13.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "13.9",
+     "printedLabel": "13.9",
+     "section": "13.2",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "13.10",
+     "printedLabel": "13.10",
+     "section": "13.2",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "13.11",
+     "printedLabel": "13.11",
+     "section": "13.2",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "13.12",
+     "printedLabel": "13.12",
+     "section": "13.2",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13.13",
+     "printedLabel": "13.13",
+     "section": "13.3",
+     "codes": [
+      "SL 5.3"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "13.14",
+     "printedLabel": "13.14",
+     "section": "13.3",
+     "codes": [
+      "SL 5.3"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "13.15",
+     "printedLabel": "13.15",
+     "section": "13.3",
+     "codes": [
+      "SL 5.3"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "13.16",
+     "printedLabel": "13.16",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "13.17",
+     "printedLabel": "13.17",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "13.18",
+     "printedLabel": "13.18",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "13.19",
+     "printedLabel": "13.19",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "13.20",
+     "printedLabel": "13.20",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "13.21",
+     "printedLabel": "13.21",
+     "section": "13.4",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "13.22",
+     "printedLabel": "13.22",
+     "section": "13.5",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "13.23",
+     "printedLabel": "13.23",
+     "section": "13.5",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "13.24",
+     "printedLabel": "13.24",
+     "section": "13.5",
+     "codes": [
+      "AHL 5.9"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch13"
+  },
+  {
+   "id": "PE-AI-HL_ch14",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 14,
+   "title": "Further differential calculus",
+   "scan_dir": "chapters/PE-AI-HL_ch14/scan",
+   "sections": [
+    {
+     "id": "14.1",
+     "title": "Minima, maxima and points of inflection"
+    },
+    {
+     "id": "14.2",
+     "title": "Tangents and normals"
+    },
+    {
+     "id": "14.3",
+     "title": "Optimisation"
+    },
+    {
+     "id": "14.4",
+     "title": "Related rates"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "14.1",
+     "printedLabel": "14.1",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "14.2",
+     "printedLabel": "14.2",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "14.3",
+     "printedLabel": "14.3",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "14.4",
+     "printedLabel": "14.4",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "14.5",
+     "printedLabel": "14.5",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "14.6",
+     "printedLabel": "14.6",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "14.7",
+     "printedLabel": "14.7",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "14.8",
+     "printedLabel": "14.8",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "14.9",
+     "printedLabel": "14.9",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "14.10",
+     "printedLabel": "14.10",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "14.11",
+     "printedLabel": "14.11",
+     "section": "14.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6",
+      "AHL 5.10"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "14.12",
+     "printedLabel": "14.12",
+     "section": "14.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "14.13",
+     "printedLabel": "14.13",
+     "section": "14.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14.14",
+     "printedLabel": "14.14",
+     "section": "14.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "14.15",
+     "printedLabel": "14.15",
+     "section": "14.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "14.16",
+     "printedLabel": "14.16",
+     "section": "14.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "14.17",
+     "printedLabel": "14.17",
+     "section": "14.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "14.18",
+     "printedLabel": "14.18",
+     "section": "14.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "14.19",
+     "printedLabel": "14.19",
+     "section": "14.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "14.20",
+     "printedLabel": "14.20",
+     "section": "14.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "14.21",
+     "printedLabel": "14.21",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "14.22",
+     "printedLabel": "14.22",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "14.23",
+     "printedLabel": "14.23",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "14.24",
+     "printedLabel": "14.24",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "14.25",
+     "printedLabel": "14.25",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "14.26",
+     "printedLabel": "14.26",
+     "section": "14.4",
+     "codes": [
+      "SL 5.1",
+      "AHL 5.9"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch14"
+  },
+  {
+   "id": "PE-AI-HL_ch15",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 15,
+   "title": "Probability distributions",
+   "scan_dir": "chapters/PE-AI-HL_ch15/scan",
+   "sections": [
+    {
+     "id": "15.1",
+     "title": "Random variables"
+    },
+    {
+     "id": "15.2",
+     "title": "Binomial distribution"
+    },
+    {
+     "id": "15.3",
+     "title": "Poisson distribution"
+    },
+    {
+     "id": "15.4",
+     "title": "Normal distribution"
+    },
+    {
+     "id": "15.5",
+     "title": "Transformations and combinations of data"
+    },
+    {
+     "id": "15.6",
+     "title": "Matrix applications (Markov chains)"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "15.1",
+     "printedLabel": "15.1",
+     "section": "15.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "15.2",
+     "printedLabel": "15.2",
+     "section": "15.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "15.3",
+     "printedLabel": "15.3",
+     "section": "15.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "15.4",
+     "printedLabel": "15.4",
+     "section": "15.3",
+     "codes": [
+      "AHL 4.17"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "15.5",
+     "printedLabel": "15.5",
+     "section": "15.3",
+     "codes": [
+      "AHL 4.17"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "15.6",
+     "printedLabel": "15.6",
+     "section": "15.4",
+     "codes": [
+      "SL 4.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "15.7",
+     "printedLabel": "15.7",
+     "section": "15.4",
+     "codes": [
+      "SL 4.9"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked_reviewed.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "15.8",
+     "printedLabel": "15.8",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "15.9",
+     "printedLabel": "15.9",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "15.10",
+     "printedLabel": "15.10",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "15.11",
+     "printedLabel": "15.11",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "15.12",
+     "printedLabel": "15.12",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "15.13",
+     "printedLabel": "15.13",
+     "section": "15.5",
+     "codes": [
+      "AHL 4.14",
+      "AHL 4.15"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "15.14",
+     "printedLabel": "15.14",
+     "section": "15.6",
+     "codes": [
+      "AHL 4.19"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.1559,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15.15",
+     "printedLabel": "15.15",
+     "section": "15.6",
+     "codes": [
+      "AHL 4.19"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch15"
+  },
+  {
+   "id": "PE-AI-HL_ch16",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 16,
+   "title": "Integral calculus 1",
+   "scan_dir": "chapters/PE-AI-HL_ch16/scan",
+   "sections": [
+    {
+     "id": "16.1",
+     "title": "Antiderivative"
+    },
+    {
+     "id": "16.2",
+     "title": "Area and the definite integral"
+    },
+    {
+     "id": "16.3",
+     "title": "Areas"
+    },
+    {
+     "id": "16.4",
+     "title": "Volumes with integrals"
+    },
+    {
+     "id": "16.5",
+     "title": "Modelling linear motion"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "16.1",
+     "printedLabel": "16.1",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "16.2",
+     "printedLabel": "16.2",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "16.3",
+     "printedLabel": "16.3",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 69.6027,
+     "ww": 69.6027,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "16.4",
+     "printedLabel": "16.4",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "16.5",
+     "printedLabel": "16.5",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "16.6",
+     "printedLabel": "16.6",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "16.7",
+     "printedLabel": "16.7",
+     "section": "16.1",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "16.8",
+     "printedLabel": "16.8",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "16.9",
+     "printedLabel": "16.9",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "16.10",
+     "printedLabel": "16.10",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "16.11",
+     "printedLabel": "16.11",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "16.12",
+     "printedLabel": "16.12",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "16.13",
+     "printedLabel": "16.13",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "16.14",
+     "printedLabel": "16.14",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "16.15",
+     "printedLabel": "16.15",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16.16",
+     "printedLabel": "16.16",
+     "section": "16.2",
+     "codes": [
+      "SL 5.5",
+      "SL 5.8",
+      "AHL 5.11"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "16.17",
+     "printedLabel": "16.17",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "16.18",
+     "printedLabel": "16.18",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "16.19",
+     "printedLabel": "16.19",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "16.20a",
+     "printedLabel": "16.20",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "16.21",
+     "printedLabel": "16.21",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "16.20b",
+     "printedLabel": "16.20",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "16.23",
+     "printedLabel": "16.23",
+     "section": "16.3",
+     "codes": [
+      "SL 5.5",
+      "AHL 5.12"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "16.24",
+     "printedLabel": "16.24",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "16.25",
+     "printedLabel": "16.25",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "16.26",
+     "printedLabel": "16.26",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "16.27",
+     "printedLabel": "16.27",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "16.28",
+     "printedLabel": "16.28",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex28_q.webp",
+     "w": "ex28_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "16.29",
+     "printedLabel": "16.29",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "16.30",
+     "printedLabel": "16.30",
+     "section": "16.4",
+     "codes": [
+      "AHL 5.12"
+     ],
+     "q": "ex30_q.webp",
+     "w": "ex30_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "16.31",
+     "printedLabel": "16.31",
+     "section": "16.5",
+     "codes": [
+      "AHL 5.13"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "16.32",
+     "printedLabel": "16.32",
+     "section": "16.5",
+     "codes": [
+      "AHL 5.13"
+     ],
+     "q": "ex32_q.webp",
+     "w": "ex32_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "16.33",
+     "printedLabel": "16.33",
+     "section": "16.5",
+     "codes": [
+      "AHL 5.13"
+     ],
+     "q": "ex33_q.webp",
+     "w": "ex33_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "16.34",
+     "printedLabel": "16.34",
+     "section": "16.5",
+     "codes": [
+      "AHL 5.13"
+     ],
+     "q": "ex34_q.webp",
+     "w": "ex34_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch16"
+  },
+  {
+   "id": "PE-AI-HL_ch17",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 17,
+   "title": "Inferential statistics",
+   "scan_dir": "chapters/PE-AI-HL_ch17/scan",
+   "sections": [
+    {
+     "id": "17.1",
+     "title": "Statistical inference, reliability, and validity"
+    },
+    {
+     "id": "17.2",
+     "title": "Unbiased estimators"
+    },
+    {
+     "id": "17.3",
+     "title": "Distribution of sample means"
+    },
+    {
+     "id": "17.4",
+     "title": "Probability intervals and confidence intervals"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "17.1",
+     "printedLabel": "17.1",
+     "section": "17.1",
+     "codes": [
+      "AHL 4.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "17.2",
+     "printedLabel": "17.2",
+     "section": "17.2",
+     "codes": [
+      "AHL 4.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "17.3",
+     "printedLabel": "17.3",
+     "section": "17.3",
+     "codes": [
+      "AHL 4.15"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "17.4",
+     "printedLabel": "17.4",
+     "section": "17.4",
+     "codes": [
+      "AHL 4.16"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 54.8726,
+     "ww": 54.8726,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "17.5",
+     "printedLabel": "17.5",
+     "section": "17.4",
+     "codes": [
+      "AHL 4.16"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "17.6",
+     "printedLabel": "17.6",
+     "section": "17.4",
+     "codes": [
+      "AHL 4.16"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "17.7",
+     "printedLabel": "17.7",
+     "section": "17.4",
+     "codes": [
+      "AHL 4.16"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "17.8",
+     "printedLabel": "17.8",
+     "section": "17.4",
+     "codes": [
+      "AHL 4.16"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch17"
+  },
+  {
+   "id": "PE-AI-HL_ch18",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 18,
+   "title": "Statistical tests and analyses",
+   "scan_dir": "chapters/PE-AI-HL_ch18/scan",
+   "sections": [
+    {
+     "id": "18.1",
+     "title": "The Student t -test"
+    },
+    {
+     "id": "18.2",
+     "title": "Hypothesis testing of means"
+    },
+    {
+     "id": "18.3",
+     "title": "Type I and type II errors"
+    },
+    {
+     "id": "18.4",
+     "title": "t-test of two means"
+    },
+    {
+     "id": "18.5",
+     "title": "Chi-squared test of the goodness of fit (GOF)"
+    },
+    {
+     "id": "18.6",
+     "title": "Chi-squared test of independence"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "18.1",
+     "printedLabel": "18.1",
+     "section": "18.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "18.2",
+     "printedLabel": "18.2",
+     "section": "18.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "18.3",
+     "printedLabel": "18.3",
+     "section": "18.2",
+     "codes": [
+      "AHL 4.18"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "18.4",
+     "printedLabel": "18.4",
+     "section": "18.3",
+     "codes": [
+      "AHL 4.18"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "18.5",
+     "printedLabel": "18.5",
+     "section": "18.3",
+     "codes": [
+      "AHL 4.18"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "18.6",
+     "printedLabel": "18.6",
+     "section": "18.4",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "18.7",
+     "printedLabel": "18.7",
+     "section": "18.4",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "18.8",
+     "printedLabel": "18.8",
+     "section": "18.5",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "18.9",
+     "printedLabel": "18.9",
+     "section": "18.5",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "18.10",
+     "printedLabel": "18.10",
+     "section": "18.6",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch18"
+  },
+  {
+   "id": "PE-AI-HL_ch19",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 19,
+   "title": "Bivariate analysis",
+   "scan_dir": "chapters/PE-AI-HL_ch19/scan",
+   "sections": [
+    {
+     "id": "19.1",
+     "title": "Scatter diagrams"
+    },
+    {
+     "id": "19.2",
+     "title": "Measures of correlation"
+    },
+    {
+     "id": "19.3",
+     "title": "Linear regression"
+    },
+    {
+     "id": "19.4",
+     "title": "Non-linear regression and models"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "19.1",
+     "printedLabel": "19.1",
+     "section": "19.1",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "19.2",
+     "printedLabel": "19.2",
+     "section": "19.1",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "19.3",
+     "printedLabel": "19.3",
+     "section": "19.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "19.4",
+     "printedLabel": "19.4",
+     "section": "19.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "19.5",
+     "printedLabel": "19.5",
+     "section": "19.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "19.6",
+     "printedLabel": "19.6",
+     "section": "19.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 87.1064,
+     "ww": 87.1064,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "19.7",
+     "printedLabel": "19.7",
+     "section": "19.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "19.8",
+     "printedLabel": "19.8",
+     "section": "19.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "19.9",
+     "printedLabel": "19.9",
+     "section": "19.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "19.10",
+     "printedLabel": "19.10",
+     "section": "19.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "19.11",
+     "printedLabel": "19.11",
+     "section": "19.4",
+     "codes": [
+      "AHL 4.13"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "19.12",
+     "printedLabel": "19.12",
+     "section": "19.4",
+     "codes": [
+      "AHL 4.13"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch19"
+  },
+  {
+   "id": "PE-AI-HL_ch20",
+   "book": "Pearson Applications and Interpretation HL",
+   "bookShort": "Pearson AI HL",
+   "chapter": 20,
+   "title": "Integral calculus 2",
+   "scan_dir": "chapters/PE-AI-HL_ch20/scan",
+   "sections": [
+    {
+     "id": "20.1",
+     "title": "Differential equations"
+    },
+    {
+     "id": "20.2",
+     "title": "More applications of differential equations"
+    },
+    {
+     "id": "20.3",
+     "title": "Numerical solutions: slope fields and Euler’s method"
+    },
+    {
+     "id": "20.4",
+     "title": "Coupled differential equations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "20.1",
+     "printedLabel": "20.1",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w_masked.webp",
+     "qw": 62.931,
+     "ww": 62.931,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "20.2",
+     "printedLabel": "20.2",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "20.3",
+     "printedLabel": "20.3",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "20.4",
+     "printedLabel": "20.4",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "20.5",
+     "printedLabel": "20.5",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "20.6",
+     "printedLabel": "20.6",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "20.7",
+     "printedLabel": "20.7",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "20.8",
+     "printedLabel": "20.8",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "20.9",
+     "printedLabel": "20.9",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "20.10",
+     "printedLabel": "20.10",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "20.11",
+     "printedLabel": "20.11",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "20.12",
+     "printedLabel": "20.12",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "20.13",
+     "printedLabel": "20.13",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "20.14",
+     "printedLabel": "20.14",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "20.15",
+     "printedLabel": "20.15",
+     "section": "20.1",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "20.16",
+     "printedLabel": "20.16",
+     "section": "20.2",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "20.17",
+     "printedLabel": "20.17",
+     "section": "20.2",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "20.18",
+     "printedLabel": "20.18",
+     "section": "20.2",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "20.19",
+     "printedLabel": "20.19",
+     "section": "20.2",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20.20",
+     "printedLabel": "20.20",
+     "section": "20.2",
+     "codes": [
+      "AHL 5.14"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "20.21",
+     "printedLabel": "20.21",
+     "section": "20.3",
+     "codes": [
+      "AHL 5.15",
+      "AHL 5.16"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "20.22",
+     "printedLabel": "20.22",
+     "section": "20.3",
+     "codes": [
+      "AHL 5.15",
+      "AHL 5.16"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "20.23",
+     "printedLabel": "20.23",
+     "section": "20.3",
+     "codes": [
+      "AHL 5.15",
+      "AHL 5.16"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "20.24",
+     "printedLabel": "20.24",
+     "section": "20.3",
+     "codes": [
+      "AHL 5.15",
+      "AHL 5.16"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "20.25",
+     "printedLabel": "20.25",
+     "section": "20.3",
+     "codes": [
+      "AHL 5.15",
+      "AHL 5.16"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "20.26",
+     "printedLabel": "20.26",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "20.27",
+     "printedLabel": "20.27",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w_masked_reviewed.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "20.28",
+     "printedLabel": "20.28",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex28_q.webp",
+     "w": "ex28_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "20.29",
+     "printedLabel": "20.29",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "20.30",
+     "printedLabel": "20.30",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex30_q.webp",
+     "w": "ex30_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "20.31",
+     "printedLabel": "20.31",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "20.32",
+     "printedLabel": "20.32",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex32_q.webp",
+     "w": "ex32_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "20.33",
+     "printedLabel": "20.33",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex33_q.webp",
+     "w": "ex33_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "20.34",
+     "printedLabel": "20.34",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex34_q.webp",
+     "w": "ex34_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "20.35",
+     "printedLabel": "20.35",
+     "section": "20.4",
+     "codes": [
+      "AHL 5.16",
+      "AHL 5.17"
+     ],
+     "q": "ex35_q.webp",
+     "w": "ex35_w_masked.webp",
+     "qw": 63.0435,
+     "ww": 63.0435,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-HL_ch20"
   }
  ]
 };

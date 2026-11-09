@@ -45,6 +45,8 @@
     if ((m = /^ch\/(.+)$/.exec(h)) && chapterById(m[1])) return { kind: 'ch', id: m[1] };
     return { kind: 'home' };
   }
+  function lbl(ex) { return ex.label || ex.n; }
+  function curLabel() { var k = state.cur.split('|'), ch = chapterById(k[0]), r = k[1]; if (ch) ch.examples.forEach(function (e) { if (String(e.n) === r) r = lbl(e); }); return r; }
   function disp(c) { return c === 'PK' ? 'Previous Knowledge - MYP' : c; }
   function codesLine(ex) { return ex.codes.length ? ex.codes.map(disp).join(' · ') : 'No syllabus code assigned yet'; }
 
@@ -114,7 +116,7 @@
       var g = '';
       view.items.forEach(function (it) {
         if (it.group !== g) { h += '<div class="sec">' + esc(it.group) + '</div>'; g = it.group; }
-        h += '<div class="row' + (state.cur === it.key ? ' on' : '') + '" role="link" tabindex="0" data-key="' + esc(it.key) + '">Example ' + it.ex.n + (view.ch ? '' : '<span class="sub">' + esc(it.ch.bookShort + ' Ch ' + it.ch.chapter) + '</span>') + '</div>';
+        h += '<div class="row' + (state.cur === it.key ? ' on' : '') + '" role="link" tabindex="0" data-key="' + esc(it.key) + '">Example ' + lbl(it.ex) + (view.ch ? '' : '<span class="sub">' + esc(it.ch.bookShort + ' Ch ' + it.ch.chapter) + '</span>') + '</div>';
       });
       if (!view.items.length) h += '<div class="empty">' + (view.home ? 'Nothing selected yet.' : 'No examples yet.') + '</div>';
     } else {
@@ -126,7 +128,7 @@
       });
     }
     $('panel').innerHTML = h;
-    $('expandLabel').textContent = state.cur ? 'Example ' + state.cur.split('|')[1] : '';
+    $('expandLabel').textContent = state.cur ? 'Example ' + curLabel() : '';
   }
   function renderMain() {
     if (view.home) { $('main').innerHTML = ''; return; }
@@ -135,9 +137,9 @@
     view.items.forEach(function (it) {
       if (it.group !== g) { h += '<h2 class="group">' + esc(it.group) + '</h2>'; g = it.group; }
       var base = it.ch.dir + '/', ex = it.ex;
-      h += '<article id="a-' + esc(it.key) + '" data-key="' + esc(it.key) + '"><div class="ahead"><div class="t">Example ' + ex.n + '</div><div class="c">' + esc(codesLine(ex)) + '</div><button class="btn" data-toggle="' + esc(it.key) + '">Show solution</button></div>' +
-        '<div class="abody"><img src="' + esc(base + ex.q) + '" alt="Example ' + ex.n + ' question" style="width:' + ex.qw + '%">' +
-        '<div class="sol" hidden><div class="lab">Worked solution</div><img data-src="' + esc(base + ex.w) + '" alt="Example ' + ex.n + ' worked solution" style="width:' + ex.ww + '%"></div></div></article>';
+      h += '<article id="a-' + esc(it.key) + '" data-key="' + esc(it.key) + '"><div class="ahead"><div class="t">Example ' + lbl(ex) + '</div><div class="c">' + esc(codesLine(ex)) + '</div><button class="btn" data-toggle="' + esc(it.key) + '">Show solution</button></div>' +
+        '<div class="abody"><img src="' + esc(base + ex.q) + '" alt="Example ' + lbl(ex) + ' question" style="width:' + ex.qw + '%">' +
+        '<div class="sol" hidden><div class="lab">Worked solution</div><img data-src="' + esc(base + ex.w) + '" alt="Example ' + lbl(ex) + ' worked solution" style="width:' + ex.ww + '%"></div></div></article>';
     });
     if (!view.items.length) h += '<div class="empty">No examples found for this code yet.</div>';
     $('main').innerHTML = h + '</div>';
