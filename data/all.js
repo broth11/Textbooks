@@ -312,6 +312,338 @@ window.SITE = {
    "topic": "Calculus",
    "label": "Euler's Method"
   },
+  "AA SL 1.1": {
+   "topic": "Number and algebra",
+   "label": "Standard Form"
+  },
+  "AA SL 1.2": {
+   "topic": "Number and algebra",
+   "label": "Arithmetic Sequences and Series"
+  },
+  "AA SL 1.3": {
+   "topic": "Number and algebra",
+   "label": "Geometric Sequences and Series"
+  },
+  "AA SL 1.4": {
+   "topic": "Number and algebra",
+   "label": "Financial Applications"
+  },
+  "AA SL 1.5": {
+   "topic": "Number and algebra",
+   "label": "Exponents and Logarithms"
+  },
+  "AA SL 1.6": {
+   "topic": "Number and algebra",
+   "label": "Simple Proof"
+  },
+  "AA SL 1.7": {
+   "topic": "Number and algebra",
+   "label": "Laws of Exponents and Logarithms"
+  },
+  "AA SL 1.8": {
+   "topic": "Number and algebra",
+   "label": "Infinite Geometric Series"
+  },
+  "AA SL 1.9": {
+   "topic": "Number and algebra",
+   "label": "Binomial Theorem"
+  },
+  "AA AHL 1.10": {
+   "topic": "Number and algebra",
+   "label": "Counting and Extended Binomial"
+  },
+  "AA AHL 1.11": {
+   "topic": "Number and algebra",
+   "label": "Partial Fractions"
+  },
+  "AA AHL 1.12": {
+   "topic": "Number and algebra",
+   "label": "Complex Numbers"
+  },
+  "AA AHL 1.13": {
+   "topic": "Number and algebra",
+   "label": "Polar Form"
+  },
+  "AA AHL 1.14": {
+   "topic": "Number and algebra",
+   "label": "De Moivre and Roots"
+  },
+  "AA AHL 1.15": {
+   "topic": "Number and algebra",
+   "label": "Proof and Induction"
+  },
+  "AA AHL 1.16": {
+   "topic": "Number and algebra",
+   "label": "Systems of Linear Equations"
+  },
+  "AA SL 2.1": {
+   "topic": "Functions",
+   "label": "Straight Lines"
+  },
+  "AA SL 2.2": {
+   "topic": "Functions",
+   "label": "Functions, Domain and Range"
+  },
+  "AA SL 2.3": {
+   "topic": "Functions",
+   "label": "Graphs and Sketching"
+  },
+  "AA SL 2.4": {
+   "topic": "Functions",
+   "label": "Key Features of Graphs"
+  },
+  "AA SL 2.5": {
+   "topic": "Functions",
+   "label": "Composite and Inverse Functions"
+  },
+  "AA SL 2.6": {
+   "topic": "Functions",
+   "label": "Quadratic Functions"
+  },
+  "AA SL 2.7": {
+   "topic": "Functions",
+   "label": "Quadratic Equations and Inequalities"
+  },
+  "AA SL 2.8": {
+   "topic": "Functions",
+   "label": "Reciprocal and Rational Functions"
+  },
+  "AA SL 2.9": {
+   "topic": "Functions",
+   "label": "Exponential and Logarithmic Functions"
+  },
+  "AA SL 2.10": {
+   "topic": "Functions",
+   "label": "Solving Equations"
+  },
+  "AA SL 2.11": {
+   "topic": "Functions",
+   "label": "Transformations of Graphs"
+  },
+  "AA AHL 2.12": {
+   "topic": "Functions",
+   "label": "Polynomial Functions"
+  },
+  "AA AHL 2.13": {
+   "topic": "Functions",
+   "label": "Rational Functions"
+  },
+  "AA AHL 2.14": {
+   "topic": "Functions",
+   "label": "Odd, Even and Inverse Functions"
+  },
+  "AA AHL 2.15": {
+   "topic": "Functions",
+   "label": "Function Inequalities"
+  },
+  "AA AHL 2.16": {
+   "topic": "Functions",
+   "label": "Modulus and Reciprocal Graphs"
+  },
+  "AA SL 3.1": {
+   "topic": "Geometry and trigonometry",
+   "label": "Three-Dimensional Geometry"
+  },
+  "AA SL 3.2": {
+   "topic": "Geometry and trigonometry",
+   "label": "Sine and Cosine Rules"
+  },
+  "AA SL 3.3": {
+   "topic": "Geometry and trigonometry",
+   "label": "Applications of Trigonometry"
+  },
+  "AA SL 3.4": {
+   "topic": "Geometry and trigonometry",
+   "label": "Radians, Arcs and Sectors"
+  },
+  "AA SL 3.5": {
+   "topic": "Geometry and trigonometry",
+   "label": "The Unit Circle"
+  },
+  "AA SL 3.6": {
+   "topic": "Geometry and trigonometry",
+   "label": "Trigonometric Identities"
+  },
+  "AA SL 3.7": {
+   "topic": "Geometry and trigonometry",
+   "label": "Circular Functions"
+  },
+  "AA SL 3.8": {
+   "topic": "Geometry and trigonometry",
+   "label": "Trigonometric Equations"
+  },
+  "AA AHL 3.9": {
+   "topic": "Geometry and trigonometry",
+   "label": "Reciprocal and Inverse Trigonometric Functions"
+  },
+  "AA AHL 3.10": {
+   "topic": "Geometry and trigonometry",
+   "label": "Compound Angle Identities"
+  },
+  "AA AHL 3.11": {
+   "topic": "Geometry and trigonometry",
+   "label": "Trigonometric Symmetry and Equations"
+  },
+  "AA AHL 3.12": {
+   "topic": "Geometry and trigonometry",
+   "label": "Vectors"
+  },
+  "AA AHL 3.13": {
+   "topic": "Geometry and trigonometry",
+   "label": "Scalar Product"
+  },
+  "AA AHL 3.14": {
+   "topic": "Geometry and trigonometry",
+   "label": "Vector Equation of a Line"
+  },
+  "AA AHL 3.15": {
+   "topic": "Geometry and trigonometry",
+   "label": "Relationships Between Lines"
+  },
+  "AA AHL 3.16": {
+   "topic": "Geometry and trigonometry",
+   "label": "Vector Product"
+  },
+  "AA AHL 3.17": {
+   "topic": "Geometry and trigonometry",
+   "label": "Vector Equations of a Plane"
+  },
+  "AA AHL 3.18": {
+   "topic": "Geometry and trigonometry",
+   "label": "Intersections of Lines and Planes"
+  },
+  "AA SL 4.1": {
+   "topic": "Statistics and probability",
+   "label": "Sampling and Data"
+  },
+  "AA SL 4.2": {
+   "topic": "Statistics and probability",
+   "label": "Presenting Data"
+  },
+  "AA SL 4.3": {
+   "topic": "Statistics and probability",
+   "label": "Centre and Spread"
+  },
+  "AA SL 4.4": {
+   "topic": "Statistics and probability",
+   "label": "Correlation and Regression"
+  },
+  "AA SL 4.5": {
+   "topic": "Statistics and probability",
+   "label": "Probability Basics"
+  },
+  "AA SL 4.6": {
+   "topic": "Statistics and probability",
+   "label": "Combined Events"
+  },
+  "AA SL 4.7": {
+   "topic": "Statistics and probability",
+   "label": "Discrete Random Variables"
+  },
+  "AA SL 4.8": {
+   "topic": "Statistics and probability",
+   "label": "Binomial Distribution"
+  },
+  "AA SL 4.9": {
+   "topic": "Statistics and probability",
+   "label": "Normal Distribution"
+  },
+  "AA SL 4.10": {
+   "topic": "Statistics and probability",
+   "label": "Regression of x on y"
+  },
+  "AA SL 4.11": {
+   "topic": "Statistics and probability",
+   "label": "Conditional Probability"
+  },
+  "AA SL 4.12": {
+   "topic": "Statistics and probability",
+   "label": "Standardization of Normal Variables"
+  },
+  "AA AHL 4.13": {
+   "topic": "Statistics and probability",
+   "label": "Bayes' Theorem"
+  },
+  "AA AHL 4.14": {
+   "topic": "Statistics and probability",
+   "label": "Continuous Random Variables"
+  },
+  "AA SL 5.1": {
+   "topic": "Calculus",
+   "label": "Limits and Derivatives"
+  },
+  "AA SL 5.2": {
+   "topic": "Calculus",
+   "label": "Increasing and Decreasing Functions"
+  },
+  "AA SL 5.3": {
+   "topic": "Calculus",
+   "label": "Derivative of Powers"
+  },
+  "AA SL 5.4": {
+   "topic": "Calculus",
+   "label": "Tangents and Normals"
+  },
+  "AA SL 5.5": {
+   "topic": "Calculus",
+   "label": "Anti-differentiation"
+  },
+  "AA SL 5.6": {
+   "topic": "Calculus",
+   "label": "Chain, Product and Quotient Rules"
+  },
+  "AA SL 5.7": {
+   "topic": "Calculus",
+   "label": "Second Derivative"
+  },
+  "AA SL 5.8": {
+   "topic": "Calculus",
+   "label": "Optimisation and Turning Points"
+  },
+  "AA SL 5.9": {
+   "topic": "Calculus",
+   "label": "Kinematics"
+  },
+  "AA SL 5.10": {
+   "topic": "Calculus",
+   "label": "Integration Techniques"
+  },
+  "AA SL 5.11": {
+   "topic": "Calculus",
+   "label": "Definite Integrals and Area"
+  },
+  "AA AHL 5.12": {
+   "topic": "Calculus",
+   "label": "Continuity and Differentiability"
+  },
+  "AA AHL 5.13": {
+   "topic": "Calculus",
+   "label": "L'Hôpital's Rule"
+  },
+  "AA AHL 5.14": {
+   "topic": "Calculus",
+   "label": "Implicit Differentiation and Related Rates"
+  },
+  "AA AHL 5.15": {
+   "topic": "Calculus",
+   "label": "Further Derivatives and Integrals"
+  },
+  "AA AHL 5.16": {
+   "topic": "Calculus",
+   "label": "Integration by Substitution and Parts"
+  },
+  "AA AHL 5.17": {
+   "topic": "Calculus",
+   "label": "Volumes and Areas of Revolution"
+  },
+  "AA AHL 5.18": {
+   "topic": "Calculus",
+   "label": "Differential Equations"
+  },
+  "AA AHL 5.19": {
+   "topic": "Calculus",
+   "label": "Maclaurin Series"
+  },
   "PK": {
    "topic": "Prior knowledge",
    "label": "Prior knowledge (not an MAI syllabus statement)"
@@ -20536,6 +20868,14995 @@ window.SITE = {
     }
    ],
    "dir": "img/PE-AI-HL_ch20"
+  },
+  {
+   "id": "AA-SL_ch01",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 1,
+   "title": "The binomial theorem",
+   "scan_dir": "chapters/AA-SL_ch01/scan",
+   "sections": [
+    {
+     "id": "1A",
+     "title": "Factorial notation"
+    },
+    {
+     "id": "1B",
+     "title": "Binomial expansions"
+    },
+    {
+     "id": "1C",
+     "title": "The binomial theorem"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "1A",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "1B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "1B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "1C",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "1C",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "1C",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "1C",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch01"
+  },
+  {
+   "id": "AA-SL_ch02",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 2,
+   "title": "Quadratic functions",
+   "scan_dir": "chapters/AA-SL_ch02/scan",
+   "sections": [
+    {
+     "id": "2A",
+     "title": "Quadratic functions"
+    },
+    {
+     "id": "2B",
+     "title": "Graphs of quadratic functions"
+    },
+    {
+     "id": "2C",
+     "title": "Using the discriminant"
+    },
+    {
+     "id": "2D",
+     "title": "Finding a quadratic from its graph"
+    },
+    {
+     "id": "2E",
+     "title": "The intersection of graphs"
+    },
+    {
+     "id": "2F",
+     "title": "Problem solving with quadratics"
+    },
+    {
+     "id": "2G",
+     "title": "Optimisation with quadratics"
+    },
+    {
+     "id": "2H",
+     "title": "Quadratic inequalities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "2A",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "2A",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "2A",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "2B",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "2B",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 78.71,
+     "ww": 78.71,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "2B",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "2B",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "2B",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "2C",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "2C",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "2E",
+     "codes": [
+      "AA SL 2.4",
+      "AA SL 2.10"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "2E",
+     "codes": [
+      "AA SL 2.4",
+      "AA SL 2.10"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "2E",
+     "codes": [
+      "AA SL 2.4",
+      "AA SL 2.10"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "2F",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 90.03,
+     "ww": 90.03,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "2F",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "2G",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "2G",
+     "codes": [
+      "AA SL 2.6"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 91.98,
+     "ww": 91.98,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "2H",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "2H",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "24",
+     "printedLabel": "24",
+     "section": "2H",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "25",
+     "printedLabel": "25",
+     "section": "2H",
+     "codes": [
+      "AA SL 2.7"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch02"
+  },
+  {
+   "id": "AA-SL_ch03",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 3,
+   "title": "Functions",
+   "scan_dir": "chapters/AA-SL_ch03/scan",
+   "sections": [
+    {
+     "id": "3A",
+     "title": "Relations and functions"
+    },
+    {
+     "id": "3B",
+     "title": "Function notation"
+    },
+    {
+     "id": "3C",
+     "title": "Domain and range"
+    },
+    {
+     "id": "3D",
+     "title": "Rational functions"
+    },
+    {
+     "id": "3E",
+     "title": "Composite functions"
+    },
+    {
+     "id": "3F",
+     "title": "Inverse functions"
+    },
+    {
+     "id": "3G",
+     "title": "Absolute value functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "3A",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "3B",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 70.09,
+     "ww": 70.09,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "3B",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "3C",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "3C",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "3C",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "3D",
+     "codes": [
+      "AA SL 2.8"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "3D",
+     "codes": [
+      "AA SL 2.8"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 76.69,
+     "ww": 76.69,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "3D",
+     "codes": [
+      "AA SL 2.8"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "3E",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "3E",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "3F",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "3G",
+     "codes": [
+      "AA SL 2.3"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch03"
+  },
+  {
+   "id": "AA-SL_ch04",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 4,
+   "title": "Transformations of functions",
+   "scan_dir": "chapters/AA-SL_ch04/scan",
+   "sections": [
+    {
+     "id": "4A",
+     "title": "Translations"
+    },
+    {
+     "id": "4B",
+     "title": "Stretches"
+    },
+    {
+     "id": "4C",
+     "title": "Reflections"
+    },
+    {
+     "id": "4D",
+     "title": "Miscellaneous transformations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "4A",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "4B",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "4B",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "4C",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "4D",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "4D",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch04"
+  },
+  {
+   "id": "AA-SL_ch05",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 5,
+   "title": "Exponential functions",
+   "scan_dir": "chapters/AA-SL_ch05/scan",
+   "sections": [
+    {
+     "id": "5A",
+     "title": "Rational exponents"
+    },
+    {
+     "id": "5B",
+     "title": "Algebraic expansion and factorisation"
+    },
+    {
+     "id": "5C",
+     "title": "Exponential equations"
+    },
+    {
+     "id": "5D",
+     "title": "Exponential functions"
+    },
+    {
+     "id": "5E",
+     "title": "Growth and decay"
+    },
+    {
+     "id": "5F",
+     "title": "The natural exponential"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "5A",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "5A",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "5B",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "5C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "5C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "5C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "5D",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "5D",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "5E",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "5E",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch05"
+  },
+  {
+   "id": "AA-SL_ch06",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 6,
+   "title": "Logarithms",
+   "scan_dir": "chapters/AA-SL_ch06/scan",
+   "sections": [
+    {
+     "id": "6A",
+     "title": "Logarithms in base 10"
+    },
+    {
+     "id": "6B",
+     "title": "Logarithms in base a"
+    },
+    {
+     "id": "6C",
+     "title": "Laws of logarithms"
+    },
+    {
+     "id": "6D",
+     "title": "Natural logarithms"
+    },
+    {
+     "id": "6E",
+     "title": "Logarithmic equations"
+    },
+    {
+     "id": "6F",
+     "title": "The change of base rule"
+    },
+    {
+     "id": "6G",
+     "title": "Solving exponential equations using logarithms"
+    },
+    {
+     "id": "6H",
+     "title": "Logarithmic functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "6A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "6A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "6A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "6A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 66.79,
+     "ww": 66.79,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "6B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "6B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "6B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 53.52,
+     "ww": 53.52,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "6C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "6C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "6C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "6D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "6D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "6D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 70.09,
+     "ww": 70.09,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "6D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "6D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "6E",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "6E",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "6F",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "6G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "6G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "6G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "6G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "6H",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch06"
+  },
+  {
+   "id": "AA-SL_ch07",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 7,
+   "title": "The unit circle and radian measure",
+   "scan_dir": "chapters/AA-SL_ch07/scan",
+   "sections": [
+    {
+     "id": "7A",
+     "title": "Radian measure"
+    },
+    {
+     "id": "7B",
+     "title": "Arc length and sector area"
+    },
+    {
+     "id": "7C",
+     "title": "The unit circle"
+    },
+    {
+     "id": "7D",
+     "title": "Multiples of pi/6 and pi/4"
+    },
+    {
+     "id": "7E",
+     "title": "The Pythagorean identity"
+    },
+    {
+     "id": "7F",
+     "title": "Finding angles"
+    },
+    {
+     "id": "7G",
+     "title": "The equation of a straight line"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "7A",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 62.14,
+     "ww": 62.14,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "7A",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 62.14,
+     "ww": 62.14,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "7A",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 62.07,
+     "ww": 62.07,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "7B",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "7B",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "7C",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w_reviewed_v2.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "7D",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "7D",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "7D",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "7E",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "7E",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "7E",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "7F",
+     "codes": [
+      "AA SL 3.5",
+      "AA SL 3.6"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "7F",
+     "codes": [
+      "AA SL 3.5",
+      "AA SL 3.6"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "7G",
+     "codes": [
+      "AA SL 2.1",
+      "AA SL 3.5"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "7G",
+     "codes": [
+      "AA SL 2.1",
+      "AA SL 3.5"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 76.69,
+     "ww": 76.69,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch07"
+  },
+  {
+   "id": "AA-SL_ch08",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 8,
+   "title": "Trigonometric functions",
+   "scan_dir": "chapters/AA-SL_ch08/scan",
+   "sections": [
+    {
+     "id": "8A",
+     "title": "Periodic behaviour"
+    },
+    {
+     "id": "8B",
+     "title": "The sine and cosine functions"
+    },
+    {
+     "id": "8C",
+     "title": "General sine and cosine functions"
+    },
+    {
+     "id": "8D",
+     "title": "Modelling periodic behaviour"
+    },
+    {
+     "id": "8E",
+     "title": "The tangent function"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "8C",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "8C",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "8C",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "8C",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "8D",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "8D",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "8D",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "8E",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "8E",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch08"
+  },
+  {
+   "id": "AA-SL_ch09",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 9,
+   "title": "Trigonometric equations and identities",
+   "scan_dir": "chapters/AA-SL_ch09/scan",
+   "sections": [
+    {
+     "id": "9A",
+     "title": "Trigonometric equations"
+    },
+    {
+     "id": "9B",
+     "title": "Using trigonometric models"
+    },
+    {
+     "id": "9C",
+     "title": "Trigonometric identities"
+    },
+    {
+     "id": "9D",
+     "title": "Double angle identities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 66.79,
+     "ww": 66.79,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "9A",
+     "codes": [
+      "AA SL 3.8"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "9B",
+     "codes": [
+      "AA SL 3.7",
+      "AA SL 3.8"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "9C",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "9D",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "9D",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "9D",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "9D",
+     "codes": [
+      "AA SL 3.6"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch09"
+  },
+  {
+   "id": "AA-SL_ch10",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 10,
+   "title": "Reasoning and proof",
+   "scan_dir": "chapters/AA-SL_ch10/scan",
+   "sections": [
+    {
+     "id": "10A",
+     "title": "Logical connectives"
+    },
+    {
+     "id": "10B",
+     "title": "Proof by deduction"
+    },
+    {
+     "id": "10C",
+     "title": "Proof by equivalence"
+    },
+    {
+     "id": "10D",
+     "title": "Definitions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "10B",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "10C",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "10D",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 28.94,
+     "ww": 37.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "10D",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch10"
+  },
+  {
+   "id": "AA-SL_ch11",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 11,
+   "title": "Introduction to differential calculus",
+   "scan_dir": "chapters/AA-SL_ch11/scan",
+   "sections": [
+    {
+     "id": "11A",
+     "title": "Rates of change"
+    },
+    {
+     "id": "11B",
+     "title": "Instantaneous rates of change"
+    },
+    {
+     "id": "11C",
+     "title": "Limits"
+    },
+    {
+     "id": "11D",
+     "title": "The gradient of a tangent"
+    },
+    {
+     "id": "11E",
+     "title": "The derivative function"
+    },
+    {
+     "id": "11F",
+     "title": "Differentiation from first principles"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "11B",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "11C",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "11C",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "11C",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "11D",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "11E",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "11F",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "11F",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch11"
+  },
+  {
+   "id": "AA-SL_ch12",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 12,
+   "title": "Rules of differentiation",
+   "scan_dir": "chapters/AA-SL_ch12/scan",
+   "sections": [
+    {
+     "id": "12A",
+     "title": "Simple rules of differentiation"
+    },
+    {
+     "id": "12B",
+     "title": "The chain rule"
+    },
+    {
+     "id": "12C",
+     "title": "The product rule"
+    },
+    {
+     "id": "12D",
+     "title": "The quotient rule"
+    },
+    {
+     "id": "12E",
+     "title": "Derivatives of exponential functions"
+    },
+    {
+     "id": "12F",
+     "title": "Derivatives of logarithmic functions"
+    },
+    {
+     "id": "12G",
+     "title": "Derivatives of trigonometric functions"
+    },
+    {
+     "id": "12H",
+     "title": "Second derivatives"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "12A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "12A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "12A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "12A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "12B",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "12B",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 90.03,
+     "ww": 90.03,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "12C",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "12C",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "12D",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "12D",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "12E",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "12E",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "12F",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "12F",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "12G",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "12H",
+     "codes": [
+      "AA SL 5.7"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch12"
+  },
+  {
+   "id": "AA-SL_ch13",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 13,
+   "title": "Properties of curves",
+   "scan_dir": "chapters/AA-SL_ch13/scan",
+   "sections": [
+    {
+     "id": "13A",
+     "title": "Tangents"
+    },
+    {
+     "id": "13B",
+     "title": "Normals"
+    },
+    {
+     "id": "13C",
+     "title": "Increasing and decreasing"
+    },
+    {
+     "id": "13D",
+     "title": "Stationary points"
+    },
+    {
+     "id": "13E",
+     "title": "Shape"
+    },
+    {
+     "id": "13F",
+     "title": "Inflection points"
+    },
+    {
+     "id": "13G",
+     "title": "Understanding functions and their derivatives"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "13A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "13A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "13A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "13A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "13A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "13B",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "13B",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "13C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "13C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "13C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "13D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "13D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "13D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "13E",
+     "codes": [
+      "AA SL 5.7"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "13F",
+     "codes": [
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "13F",
+     "codes": [
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "13G",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "13G",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch13"
+  },
+  {
+   "id": "AA-SL_ch14",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 14,
+   "title": "Applications of differentiation",
+   "scan_dir": "chapters/AA-SL_ch14/scan",
+   "sections": [
+    {
+     "id": "14A",
+     "title": "Rates of change"
+    },
+    {
+     "id": "14B",
+     "title": "Optimisation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "14A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "14A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "14A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "14B",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "14B",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "14B",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch14"
+  },
+  {
+   "id": "AA-SL_ch15",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 15,
+   "title": "Introduction to integration",
+   "scan_dir": "chapters/AA-SL_ch15/scan",
+   "sections": [
+    {
+     "id": "15A",
+     "title": "Approximating the area under a curve"
+    },
+    {
+     "id": "15B",
+     "title": "The Riemann integral"
+    },
+    {
+     "id": "15C",
+     "title": "Antidifferentiation"
+    },
+    {
+     "id": "15D",
+     "title": "The Fundamental Theorem of Calculus"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "15B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "15B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "15C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "15D",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch15"
+  },
+  {
+   "id": "AA-SL_ch16",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 16,
+   "title": "Techniques for integration",
+   "scan_dir": "chapters/AA-SL_ch16/scan",
+   "sections": [
+    {
+     "id": "16A",
+     "title": "Discovering integrals"
+    },
+    {
+     "id": "16B",
+     "title": "Rules for integration"
+    },
+    {
+     "id": "16C",
+     "title": "Particular values"
+    },
+    {
+     "id": "16D",
+     "title": "Integrating f(ax + b)"
+    },
+    {
+     "id": "16E",
+     "title": "Integration by substitution"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "16A",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "16A",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "16B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "16B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "16C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "16C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "16D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "16D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "16D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "16D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "16E",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "16E",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch16"
+  },
+  {
+   "id": "AA-SL_ch17",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 17,
+   "title": "Definite integrals",
+   "scan_dir": "chapters/AA-SL_ch17/scan",
+   "sections": [
+    {
+     "id": "17A",
+     "title": "Definite integrals"
+    },
+    {
+     "id": "17B",
+     "title": "The area under a curve"
+    },
+    {
+     "id": "17C",
+     "title": "The area above a curve"
+    },
+    {
+     "id": "17D",
+     "title": "The area between two functions"
+    },
+    {
+     "id": "17E",
+     "title": "Problem solving by integration"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "17B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "17B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "17B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "17C",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "17C",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "17D",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "17D",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "17E",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch17"
+  },
+  {
+   "id": "AA-SL_ch18",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 18,
+   "title": "Kinematics",
+   "scan_dir": "chapters/AA-SL_ch18/scan",
+   "sections": [
+    {
+     "id": "18A",
+     "title": "Displacement"
+    },
+    {
+     "id": "18B",
+     "title": "Velocity"
+    },
+    {
+     "id": "18C",
+     "title": "Acceleration"
+    },
+    {
+     "id": "18D",
+     "title": "Speed"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "18B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "18B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "18B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "18C",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "18C",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "18D",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch18"
+  },
+  {
+   "id": "AA-SL_ch19",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 19,
+   "title": "Bivariate statistics",
+   "scan_dir": "chapters/AA-SL_ch19/scan",
+   "sections": [
+    {
+     "id": "19A",
+     "title": "Association between numerical variables"
+    },
+    {
+     "id": "19B",
+     "title": "Pearson's product-moment correlation coefficient"
+    },
+    {
+     "id": "19C",
+     "title": "Line of best fit by eye"
+    },
+    {
+     "id": "19D",
+     "title": "The least squares regression line"
+    },
+    {
+     "id": "19E",
+     "title": "The regression line of x against y"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "19B",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "19B",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "19C",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "19D",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "19E",
+     "codes": [
+      "AA SL 4.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch19"
+  },
+  {
+   "id": "AA-SL_ch20",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 20,
+   "title": "Discrete random variables",
+   "scan_dir": "chapters/AA-SL_ch20/scan",
+   "sections": [
+    {
+     "id": "20A",
+     "title": "Random variables"
+    },
+    {
+     "id": "20B",
+     "title": "Discrete probability distributions"
+    },
+    {
+     "id": "20C",
+     "title": "Expectation"
+    },
+    {
+     "id": "20D",
+     "title": "The binomial distribution"
+    },
+    {
+     "id": "20E",
+     "title": "Using technology to find binomial probabilities"
+    },
+    {
+     "id": "20F",
+     "title": "The mean and standard deviation of a binomial distribution"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "20A",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "20B",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "20B",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "20C",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "20C",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "20D",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "20E",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "20F",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch20"
+  },
+  {
+   "id": "AA-SL_ch21",
+   "book": "Haese Analysis and Approaches SL",
+   "bookShort": "Haese AA SL",
+   "chapter": 21,
+   "title": "The normal distribution",
+   "scan_dir": "chapters/AA-SL_ch21/scan",
+   "sections": [
+    {
+     "id": "21A",
+     "title": "Introduction to the normal distribution"
+    },
+    {
+     "id": "21B",
+     "title": "Calculating probabilities"
+    },
+    {
+     "id": "21C",
+     "title": "The standard normal distribution"
+    },
+    {
+     "id": "21D",
+     "title": "Quantiles"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "21B",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "21B",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "21B",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "21B",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "21C",
+     "codes": [
+      "AA SL 4.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "21C",
+     "codes": [
+      "AA SL 4.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "21D",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "21D",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "21D",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-SL_ch21"
+  },
+  {
+   "id": "AA-HL_ch01",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 1,
+   "title": "Further trigonometry",
+   "scan_dir": "chapters/AA-HL_ch01/scan",
+   "sections": [
+    {
+     "id": "1A",
+     "title": "Reciprocal trigonometric functions"
+    },
+    {
+     "id": "1B",
+     "title": "Inverse trigonometric functions"
+    },
+    {
+     "id": "1C",
+     "title": "Algebra with trigonometric functions"
+    },
+    {
+     "id": "1D",
+     "title": "Double angle identities"
+    },
+    {
+     "id": "1E",
+     "title": "Compound angle identities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "1A",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "1B",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 91.98,
+     "ww": 91.98,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "1C",
+     "codes": [
+      "AA AHL 3.9",
+      "AA AHL 3.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "1D",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.10"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "1D",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.10"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "1D",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.10"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "1D",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.10"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "1E",
+     "codes": [
+      "AA AHL 3.10"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 70.09,
+     "ww": 70.09,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "1E",
+     "codes": [
+      "AA AHL 3.10"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "1E",
+     "codes": [
+      "AA AHL 3.10"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 70.01,
+     "ww": 70.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "1E",
+     "codes": [
+      "AA AHL 3.10"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch01"
+  },
+  {
+   "id": "AA-HL_ch02",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 2,
+   "title": "Exponential functions",
+   "scan_dir": "chapters/AA-HL_ch02/scan",
+   "sections": [
+    {
+     "id": "2A",
+     "title": "Rational exponents"
+    },
+    {
+     "id": "2B",
+     "title": "Algebraic expansion and factorisation"
+    },
+    {
+     "id": "2C",
+     "title": "Exponential equations"
+    },
+    {
+     "id": "2D",
+     "title": "Exponential functions"
+    },
+    {
+     "id": "2E",
+     "title": "Growth and decay"
+    },
+    {
+     "id": "2F",
+     "title": "The natural exponential"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "2A",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "2B",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "2C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 73.39,
+     "ww": 97.08,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "2C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "2C",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "2D",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "2E",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "2E",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch02"
+  },
+  {
+   "id": "AA-HL_ch03",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 3,
+   "title": "Logarithms",
+   "scan_dir": "chapters/AA-HL_ch03/scan",
+   "sections": [
+    {
+     "id": "3A",
+     "title": "Logarithms in base 10"
+    },
+    {
+     "id": "3B",
+     "title": "Logarithms in base a"
+    },
+    {
+     "id": "3C",
+     "title": "Laws of logarithms"
+    },
+    {
+     "id": "3D",
+     "title": "Natural logarithms"
+    },
+    {
+     "id": "3E",
+     "title": "Logarithmic equations"
+    },
+    {
+     "id": "3F",
+     "title": "The change of base rule"
+    },
+    {
+     "id": "3G",
+     "title": "Solving exponential equations using logarithms"
+    },
+    {
+     "id": "3H",
+     "title": "Logarithmic functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "3A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "3A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "3A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "3A",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 66.79,
+     "ww": 98.5,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "3B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "3B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "3B",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 53.52,
+     "ww": 53.52,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "3C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "3C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "3C",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "3D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "3D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "3D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 66.72,
+     "ww": 97.23,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "3D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "3D",
+     "codes": [
+      "AA SL 1.5"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "3E",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "3E",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "3F",
+     "codes": [
+      "AA SL 1.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "3G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 90.03,
+     "ww": 90.03,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "3G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "3G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "3G",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "3H",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch03"
+  },
+  {
+   "id": "AA-HL_ch04",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 4,
+   "title": "Introduction to complex numbers",
+   "scan_dir": "chapters/AA-HL_ch04/scan",
+   "sections": [
+    {
+     "id": "4A",
+     "title": "Complex numbers"
+    },
+    {
+     "id": "4B",
+     "title": "The sum of two squares factorisation"
+    },
+    {
+     "id": "4C",
+     "title": "Operations with complex numbers"
+    },
+    {
+     "id": "4D",
+     "title": "Equality of complex numbers"
+    },
+    {
+     "id": "4E",
+     "title": "Properties of complex conjugates"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "4A",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 60.12,
+     "ww": 95.43,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "4A",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "4B",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.14"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "4B",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.14"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 90.03,
+     "ww": 90.03,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "4C",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "4C",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "4D",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "4E",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch04"
+  },
+  {
+   "id": "AA-HL_ch05",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 5,
+   "title": "Real polynomials",
+   "scan_dir": "chapters/AA-HL_ch05/scan",
+   "sections": [
+    {
+     "id": "5A",
+     "title": "Polynomials"
+    },
+    {
+     "id": "5B",
+     "title": "Operations with polynomials"
+    },
+    {
+     "id": "5C",
+     "title": "Zeros, roots, and factors"
+    },
+    {
+     "id": "5D",
+     "title": "Polynomial equality"
+    },
+    {
+     "id": "5E",
+     "title": "Polynomial division"
+    },
+    {
+     "id": "5F",
+     "title": "The Remainder theorem"
+    },
+    {
+     "id": "5G",
+     "title": "The Factor theorem"
+    },
+    {
+     "id": "5H",
+     "title": "The Fundamental Theorem of Algebra"
+    },
+    {
+     "id": "5I",
+     "title": "Sum and product of roots theorem"
+    },
+    {
+     "id": "5J",
+     "title": "Graphing cubic functions"
+    },
+    {
+     "id": "5K",
+     "title": "Graphing quartic functions"
+    },
+    {
+     "id": "5L",
+     "title": "Polynomial equations"
+    },
+    {
+     "id": "5M",
+     "title": "Cubic inequalities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "5B",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "5B",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 77.36,
+     "ww": 77.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "5B",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "5C",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "5C",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "5C",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "5C",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "5D",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "5D",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "5D",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "5E",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "5E",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "5E",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "5F",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "5F",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "5F",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "5G",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "5H",
+     "codes": [
+      "AA AHL 1.14",
+      "AA AHL 2.12"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "5H",
+     "codes": [
+      "AA AHL 1.14",
+      "AA AHL 2.12"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "5I",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "5I",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "5J",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 39.36,
+     "ww": 43.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "5J",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "24",
+     "printedLabel": "24",
+     "section": "5J",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "25",
+     "printedLabel": "25",
+     "section": "5J",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_reviewed.webp",
+     "qw": 73.39,
+     "ww": 98.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "26",
+     "printedLabel": "26",
+     "section": "5K",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "27",
+     "printedLabel": "27",
+     "section": "5K",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w.webp",
+     "qw": 41.98,
+     "ww": 51.2,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "28",
+     "printedLabel": "28",
+     "section": "5K",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex28_q.webp",
+     "w": "ex28_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "29",
+     "printedLabel": "29",
+     "section": "5L",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "30",
+     "printedLabel": "30",
+     "section": "5L",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex30_q.webp",
+     "w": "ex30_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "31",
+     "printedLabel": "31",
+     "section": "5M",
+     "codes": [
+      "AA AHL 2.12",
+      "AA AHL 2.15"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "32",
+     "printedLabel": "32",
+     "section": "5M",
+     "codes": [
+      "AA AHL 2.12",
+      "AA AHL 2.15"
+     ],
+     "q": "ex32_q.webp",
+     "w": "ex32_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch05"
+  },
+  {
+   "id": "AA-HL_ch06",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 6,
+   "title": "Further functions",
+   "scan_dir": "chapters/AA-HL_ch06/scan",
+   "sections": [
+    {
+     "id": "6A",
+     "title": "Even and odd functions"
+    },
+    {
+     "id": "6B",
+     "title": "The graph of y = [f(x)]²"
+    },
+    {
+     "id": "6C",
+     "title": "Absolute value functions"
+    },
+    {
+     "id": "6D",
+     "title": "Rational functions"
+    },
+    {
+     "id": "6E",
+     "title": "Partial fractions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "6A",
+     "codes": [
+      "AA AHL 2.14"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 88.01,
+     "ww": 88.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "6A",
+     "codes": [
+      "AA AHL 2.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 88.01,
+     "ww": 88.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "6B",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 70.09,
+     "ww": 99.55,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "6C",
+     "codes": [
+      "AA AHL 2.16"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "6D",
+     "codes": [
+      "AA AHL 2.13"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "6D",
+     "codes": [
+      "AA AHL 2.13"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "6E",
+     "codes": [
+      "AA AHL 1.11"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed_clean.webp",
+     "qw": 70.09,
+     "ww": 99.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "6E",
+     "codes": [
+      "AA AHL 1.11"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch06"
+  },
+  {
+   "id": "AA-HL_ch07",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 7,
+   "title": "Counting",
+   "scan_dir": "chapters/AA-HL_ch07/scan",
+   "sections": [
+    {
+     "id": "7A",
+     "title": "The product principle"
+    },
+    {
+     "id": "7B",
+     "title": "The sum principle"
+    },
+    {
+     "id": "7C",
+     "title": "Factorial notation"
+    },
+    {
+     "id": "7D",
+     "title": "Permutations"
+    },
+    {
+     "id": "7E",
+     "title": "Combinations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "7A",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "7B",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "7C",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "7C",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "7C",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 42.13,
+     "ww": 34.48,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "7D",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "7D",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "7D",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "7D",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "7D",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "7E",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "7E",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch07"
+  },
+  {
+   "id": "AA-HL_ch08",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 8,
+   "title": "The binomial theorem",
+   "scan_dir": "chapters/AA-HL_ch08/scan",
+   "sections": [
+    {
+     "id": "8A",
+     "title": "Binomial expansions"
+    },
+    {
+     "id": "8B",
+     "title": "The binomial theorem for n ∈ Z⁺"
+    },
+    {
+     "id": "8C",
+     "title": "The binomial theorem for n ∈ Q"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "8A",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "8A",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "8B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "8B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "8B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "8B",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "8C",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch08"
+  },
+  {
+   "id": "AA-HL_ch09",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 9,
+   "title": "Reasoning and proof",
+   "scan_dir": "chapters/AA-HL_ch09/scan",
+   "sections": [
+    {
+     "id": "9A",
+     "title": "Logical connectives"
+    },
+    {
+     "id": "9B",
+     "title": "Proof by deduction"
+    },
+    {
+     "id": "9C",
+     "title": "Proof by equivalence"
+    },
+    {
+     "id": "9D",
+     "title": "Definitions"
+    },
+    {
+     "id": "9E",
+     "title": "Proof by exhaustion"
+    },
+    {
+     "id": "9F",
+     "title": "Disproof by counter example"
+    },
+    {
+     "id": "9G",
+     "title": "Proof by contrapositive"
+    },
+    {
+     "id": "9H",
+     "title": "Proof by contradiction: reductio ad absurdum"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "9B",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "9C",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "9D",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 28.94,
+     "ww": 67.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "9D",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "9E",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "9F",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "9G",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "9G",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "9H",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "9H",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "9H",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch09"
+  },
+  {
+   "id": "AA-HL_ch10",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 10,
+   "title": "Proof by mathematical induction",
+   "scan_dir": "chapters/AA-HL_ch10/scan",
+   "sections": [
+    {
+     "id": "10A",
+     "title": "The process of induction"
+    },
+    {
+     "id": "10B",
+     "title": "The principle of mathematical induction"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "10A",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "10A",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed_clean.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "10B",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch10"
+  },
+  {
+   "id": "AA-HL_ch11",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 11,
+   "title": "Linear algebra",
+   "scan_dir": "chapters/AA-HL_ch11/scan",
+   "sections": [
+    {
+     "id": "11A",
+     "title": "Systems of linear equations"
+    },
+    {
+     "id": "11B",
+     "title": "Row operations"
+    },
+    {
+     "id": "11C",
+     "title": "Solving 2 × 2 systems of linear equations"
+    },
+    {
+     "id": "11D",
+     "title": "Solving 3 × 3 systems of linear equations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "11A",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "11A",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "11C",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "11D",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "11D",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "11D",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "11D",
+     "codes": [
+      "AA AHL 1.16"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch11"
+  },
+  {
+   "id": "AA-HL_ch12",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 12,
+   "title": "Vectors",
+   "scan_dir": "chapters/AA-HL_ch12/scan",
+   "sections": [
+    {
+     "id": "12A",
+     "title": "Vectors and scalars"
+    },
+    {
+     "id": "12B",
+     "title": "Geometric operations with vectors"
+    },
+    {
+     "id": "12C",
+     "title": "Vectors in the plane"
+    },
+    {
+     "id": "12D",
+     "title": "The magnitude of a vector"
+    },
+    {
+     "id": "12E",
+     "title": "Operations with plane vectors"
+    },
+    {
+     "id": "12F",
+     "title": "Vectors in space"
+    },
+    {
+     "id": "12G",
+     "title": "Operations with vectors in space"
+    },
+    {
+     "id": "12H",
+     "title": "Vector algebra"
+    },
+    {
+     "id": "12I",
+     "title": "The vector between two points"
+    },
+    {
+     "id": "12J",
+     "title": "Parallelism"
+    },
+    {
+     "id": "12K",
+     "title": "The scalar product of two vectors"
+    },
+    {
+     "id": "12L",
+     "title": "The angle between two vectors"
+    },
+    {
+     "id": "12M",
+     "title": "Proof using vector geometry"
+    },
+    {
+     "id": "12N",
+     "title": "The vector product of two vectors"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "12A",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 41.3,
+     "ww": 48.58,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "12A",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 90.63,
+     "ww": 90.63,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 55.92,
+     "ww": 43.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 90.03,
+     "ww": 90.03,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 73.39,
+     "ww": 99.7,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 41.98,
+     "ww": 57.87,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "12B",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "12C",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "12D",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "12D",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 34.78,
+     "ww": 65.07,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "12E",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "12E",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "12E",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 63.42,
+     "ww": 63.42,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "12F",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "12G",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "24",
+     "printedLabel": "24",
+     "section": "12I",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "25",
+     "printedLabel": "25",
+     "section": "12J",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w.webp",
+     "qw": 75.41,
+     "ww": 75.41,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "26",
+     "printedLabel": "26",
+     "section": "12J",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "27",
+     "printedLabel": "27",
+     "section": "12J",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "28",
+     "printedLabel": "28",
+     "section": "12K",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex28_q.webp",
+     "w": "ex28_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "29",
+     "printedLabel": "29",
+     "section": "12L",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex29_q.webp",
+     "w": "ex29_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "30",
+     "printedLabel": "30",
+     "section": "12L",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex30_q.webp",
+     "w": "ex30_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "31",
+     "printedLabel": "31",
+     "section": "12L",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex31_q.webp",
+     "w": "ex31_w.webp",
+     "qw": 60.12,
+     "ww": 60.12,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "32",
+     "printedLabel": "32",
+     "section": "12L",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex32_q.webp",
+     "w": "ex32_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "33",
+     "printedLabel": "33",
+     "section": "12M",
+     "codes": [
+      "AA AHL 3.12",
+      "AA AHL 3.13"
+     ],
+     "q": "ex33_q.webp",
+     "w": "ex33_w.webp",
+     "qw": 67.39,
+     "ww": 32.46,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "34",
+     "printedLabel": "34",
+     "section": "12M",
+     "codes": [
+      "AA AHL 3.12",
+      "AA AHL 3.13"
+     ],
+     "q": "ex34_q.webp",
+     "w": "ex34_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "35",
+     "printedLabel": "35",
+     "section": "12N",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex35_q.webp",
+     "w": "ex35_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "36",
+     "printedLabel": "36",
+     "section": "12N",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex36_q.webp",
+     "w": "ex36_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "37",
+     "printedLabel": "37",
+     "section": "12N",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex37_q.webp",
+     "w": "ex37_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "38",
+     "printedLabel": "38",
+     "section": "12N",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex38_q.webp",
+     "w": "ex38_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch12"
+  },
+  {
+   "id": "AA-HL_ch13",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 13,
+   "title": "Vector applications",
+   "scan_dir": "chapters/AA-HL_ch13/scan",
+   "sections": [
+    {
+     "id": "13A",
+     "title": "Lines in 2 and 3 dimensions"
+    },
+    {
+     "id": "13B",
+     "title": "The angle between two lines"
+    },
+    {
+     "id": "13C",
+     "title": "Constant velocity problems"
+    },
+    {
+     "id": "13D",
+     "title": "The shortest distance from a point to a line"
+    },
+    {
+     "id": "13E",
+     "title": "Intersecting lines"
+    },
+    {
+     "id": "13F",
+     "title": "Relationships between lines"
+    },
+    {
+     "id": "13G",
+     "title": "Planes"
+    },
+    {
+     "id": "13H",
+     "title": "Angles in space"
+    },
+    {
+     "id": "13I",
+     "title": "Intersecting planes"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "13A",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "13A",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "13B",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "13B",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "13B",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "13C",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "13C",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "13D",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "13D",
+     "codes": [
+      "AA AHL 3.14"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "13E",
+     "codes": [
+      "AA AHL 3.15"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "13F",
+     "codes": [
+      "AA AHL 3.15"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "13F",
+     "codes": [
+      "AA AHL 3.15"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "13F",
+     "codes": [
+      "AA AHL 3.15"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "13F",
+     "codes": [
+      "AA AHL 3.15"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "13G",
+     "codes": [
+      "AA AHL 3.17"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "13G",
+     "codes": [
+      "AA AHL 3.17"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "13G",
+     "codes": [
+      "AA AHL 3.17"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "13G",
+     "codes": [
+      "AA AHL 3.17"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "13H",
+     "codes": [
+      "AA AHL 3.18"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 84.63,
+     "ww": 84.63,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "13H",
+     "codes": [
+      "AA AHL 3.18"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "13I",
+     "codes": [
+      "AA AHL 3.18"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "13I",
+     "codes": [
+      "AA AHL 3.18"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch13"
+  },
+  {
+   "id": "AA-HL_ch14",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 14,
+   "title": "Complex numbers",
+   "scan_dir": "chapters/AA-HL_ch14/scan",
+   "sections": [
+    {
+     "id": "14A",
+     "title": "The complex plane"
+    },
+    {
+     "id": "14B",
+     "title": "Modulus and argument"
+    },
+    {
+     "id": "14C",
+     "title": "Geometry in the complex plane"
+    },
+    {
+     "id": "14D",
+     "title": "Polar form"
+    },
+    {
+     "id": "14E",
+     "title": "Euler's form"
+    },
+    {
+     "id": "14F",
+     "title": "De Moivre's theorem"
+    },
+    {
+     "id": "14G",
+     "title": "Roots of complex numbers"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "14A",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 40.7,
+     "ww": 44.53,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "14A",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "14A",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 41.98,
+     "ww": 57.8,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "14B",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "14B",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 78.71,
+     "ww": 78.71,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "14B",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "14C",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "14C",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 70.01,
+     "ww": 70.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "14D",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "14E",
+     "codes": [
+      "AA AHL 1.13"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "14F",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "14F",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "14G",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "14G",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "14G",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch14"
+  },
+  {
+   "id": "AA-HL_ch15",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 15,
+   "title": "Limits",
+   "scan_dir": "chapters/AA-HL_ch15/scan",
+   "sections": [
+    {
+     "id": "15A",
+     "title": "Limits"
+    },
+    {
+     "id": "15B",
+     "title": "The existence of limits"
+    },
+    {
+     "id": "15C",
+     "title": "Limits at infinity"
+    },
+    {
+     "id": "15D",
+     "title": "Trigonometric limits"
+    },
+    {
+     "id": "15E",
+     "title": "Continuity"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "15A",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "15B",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed_bounded_clean.webp",
+     "qw": 73.39,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "15C",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "15C",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "15C",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "15D",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 70.09,
+     "ww": 70.09,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "15E",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch15"
+  },
+  {
+   "id": "AA-HL_ch16",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 16,
+   "title": "Introduction to differential calculus",
+   "scan_dir": "chapters/AA-HL_ch16/scan",
+   "sections": [
+    {
+     "id": "16A",
+     "title": "Rates of change"
+    },
+    {
+     "id": "16B",
+     "title": "Instantaneous rates of change"
+    },
+    {
+     "id": "16C",
+     "title": "The gradient of a tangent"
+    },
+    {
+     "id": "16D",
+     "title": "The derivative function"
+    },
+    {
+     "id": "16E",
+     "title": "Differentiation from first principles"
+    },
+    {
+     "id": "16F",
+     "title": "Differentiability and continuity"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "16B",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "16C",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "16D",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 46.33,
+     "ww": 53.6,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "16E",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "16E",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "16F",
+     "codes": [
+      "AA AHL 5.12"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch16"
+  },
+  {
+   "id": "AA-HL_ch17",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 17,
+   "title": "Rules of differentiation",
+   "scan_dir": "chapters/AA-HL_ch17/scan",
+   "sections": [
+    {
+     "id": "17A",
+     "title": "Simple rules of differentiation"
+    },
+    {
+     "id": "17B",
+     "title": "The chain rule"
+    },
+    {
+     "id": "17C",
+     "title": "The product rule"
+    },
+    {
+     "id": "17D",
+     "title": "The quotient rule"
+    },
+    {
+     "id": "17E",
+     "title": "Derivatives of exponential functions"
+    },
+    {
+     "id": "17F",
+     "title": "Derivatives of logarithmic functions"
+    },
+    {
+     "id": "17G",
+     "title": "Derivatives of trigonometric functions"
+    },
+    {
+     "id": "17H",
+     "title": "Derivatives of inverse trigonometric functions"
+    },
+    {
+     "id": "17I",
+     "title": "Second and higher derivatives"
+    },
+    {
+     "id": "17J",
+     "title": "Implicit differentiation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "17A",
+     "codes": [
+      "AA SL 5.3"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "17B",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 76.69,
+     "ww": 99.18,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "17B",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "17C",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "17D",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "17E",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "17E",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "17E",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 73.39,
+     "ww": 73.39,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "17F",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "17F",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "17F",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "17G",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "17G",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "17I",
+     "codes": [
+      "AA SL 5.7",
+      "AA AHL 5.12"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 76.69,
+     "ww": 76.69,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "17I",
+     "codes": [
+      "AA SL 5.7",
+      "AA AHL 5.12"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "17J",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "17J",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "17J",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch17"
+  },
+  {
+   "id": "AA-HL_ch18",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 18,
+   "title": "Properties of curves",
+   "scan_dir": "chapters/AA-HL_ch18/scan",
+   "sections": [
+    {
+     "id": "18A",
+     "title": "Tangents"
+    },
+    {
+     "id": "18B",
+     "title": "Normals"
+    },
+    {
+     "id": "18C",
+     "title": "Increasing and decreasing"
+    },
+    {
+     "id": "18D",
+     "title": "Stationary points"
+    },
+    {
+     "id": "18E",
+     "title": "Shape"
+    },
+    {
+     "id": "18F",
+     "title": "Inflection points"
+    },
+    {
+     "id": "18G",
+     "title": "Understanding functions and their derivatives"
+    },
+    {
+     "id": "18H",
+     "title": "L'Hopital's rule"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "18A",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "18B",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "18B",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "18C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "18C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "18C",
+     "codes": [
+      "AA SL 5.2"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "18D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "18D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "18D",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "18E",
+     "codes": [
+      "AA SL 5.7"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "18F",
+     "codes": [
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "18F",
+     "codes": [
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "18G",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "18G",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "20",
+     "printedLabel": "20",
+     "section": "18H",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "21",
+     "printedLabel": "21",
+     "section": "18H",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "22",
+     "printedLabel": "22",
+     "section": "18H",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "23",
+     "printedLabel": "23",
+     "section": "18H",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch18"
+  },
+  {
+   "id": "AA-HL_ch19",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 19,
+   "title": "Applications of differentiation",
+   "scan_dir": "chapters/AA-HL_ch19/scan",
+   "sections": [
+    {
+     "id": "19A",
+     "title": "Rates of change"
+    },
+    {
+     "id": "19B",
+     "title": "Optimisation"
+    },
+    {
+     "id": "19C",
+     "title": "Related rates"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "19A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "19A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "19A",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "19B",
+     "codes": [
+      "AA SL 5.8",
+      "AA AHL 5.14"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "19B",
+     "codes": [
+      "AA SL 5.8",
+      "AA AHL 5.14"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "19B",
+     "codes": [
+      "AA SL 5.8",
+      "AA AHL 5.14"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "19C",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "19C",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch19"
+  },
+  {
+   "id": "AA-HL_ch20",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 20,
+   "title": "Introduction to integration",
+   "scan_dir": "chapters/AA-HL_ch20/scan",
+   "sections": [
+    {
+     "id": "20A",
+     "title": "Approximating the area under a curve"
+    },
+    {
+     "id": "20B",
+     "title": "The Riemann integral"
+    },
+    {
+     "id": "20C",
+     "title": "Antidifferentiation"
+    },
+    {
+     "id": "20D",
+     "title": "The Fundamental Theorem of Calculus"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "20B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "20B",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "20C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "20D",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch20"
+  },
+  {
+   "id": "AA-HL_ch21",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 21,
+   "title": "Techniques for integration",
+   "scan_dir": "chapters/AA-HL_ch21/scan",
+   "sections": [
+    {
+     "id": "21A",
+     "title": "Discovering integrals"
+    },
+    {
+     "id": "21B",
+     "title": "Rules for integration"
+    },
+    {
+     "id": "21C",
+     "title": "Particular values"
+    },
+    {
+     "id": "21D",
+     "title": "Integrating f(ax + b)"
+    },
+    {
+     "id": "21E",
+     "title": "Partial fractions"
+    },
+    {
+     "id": "21F",
+     "title": "Integration by substitution"
+    },
+    {
+     "id": "21G",
+     "title": "Integration by parts"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "21A",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed_bounded.webp",
+     "qw": 73.39,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "21A",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 80.06,
+     "ww": 80.06,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "21B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "21B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "21B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "21B",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 66.79,
+     "ww": 66.79,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "21C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "21C",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "21D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "21D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "21D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 63.42,
+     "ww": 95.8,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "21D",
+     "codes": [
+      "AA SL 5.10"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "21E",
+     "codes": [
+      "AA AHL 5.15"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 66.72,
+     "ww": 66.72,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "21F",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.16"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "21F",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.16"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed_v2.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "21F",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.16"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 76.69,
+     "ww": 76.69,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "21F",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.16"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 76.76,
+     "ww": 76.76,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "21G",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "21G",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed_bounded.webp",
+     "qw": 73.39,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch21"
+  },
+  {
+   "id": "AA-HL_ch22",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 22,
+   "title": "Definite integrals",
+   "scan_dir": "chapters/AA-HL_ch22/scan",
+   "sections": [
+    {
+     "id": "22A",
+     "title": "Definite integrals"
+    },
+    {
+     "id": "22B",
+     "title": "Definite integrals involving substitution"
+    },
+    {
+     "id": "22C",
+     "title": "The area under a curve"
+    },
+    {
+     "id": "22D",
+     "title": "The area above a curve"
+    },
+    {
+     "id": "22E",
+     "title": "The area between two functions"
+    },
+    {
+     "id": "22F",
+     "title": "The area between a curve and the y-axis"
+    },
+    {
+     "id": "22G",
+     "title": "Solids of revolution"
+    },
+    {
+     "id": "22H",
+     "title": "Problem solving by integration"
+    },
+    {
+     "id": "22I",
+     "title": "Improper integrals"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "22A",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "22A",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "22B",
+     "codes": [
+      "AA SL 5.11",
+      "AA AHL 5.16"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "22B",
+     "codes": [
+      "AA SL 5.11",
+      "AA AHL 5.16"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "22B",
+     "codes": [
+      "AA SL 5.11",
+      "AA AHL 5.16"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "22C",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "22C",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "22C",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "22D",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 83.36,
+     "ww": 83.36,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "22D",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "22E",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "22E",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "22F",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "22G",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "22G",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "22G",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "22H",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "18",
+     "printedLabel": "18",
+     "section": "22I",
+     "codes": [
+      "AA SL 5.11",
+      "AA AHL 5.12"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 29.76,
+     "ww": 40.18,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "19",
+     "printedLabel": "19",
+     "section": "22I",
+     "codes": [
+      "AA SL 5.11",
+      "AA AHL 5.12"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch22"
+  },
+  {
+   "id": "AA-HL_ch23",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 23,
+   "title": "Kinematics",
+   "scan_dir": "chapters/AA-HL_ch23/scan",
+   "sections": [
+    {
+     "id": "23A",
+     "title": "Displacement"
+    },
+    {
+     "id": "23B",
+     "title": "Velocity"
+    },
+    {
+     "id": "23C",
+     "title": "Acceleration"
+    },
+    {
+     "id": "23D",
+     "title": "Speed"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "23A",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "23B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "23B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "23B",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "23C",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "23C",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "23D",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch23"
+  },
+  {
+   "id": "AA-HL_ch24",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 24,
+   "title": "Maclaurin series",
+   "scan_dir": "chapters/AA-HL_ch24/scan",
+   "sections": [
+    {
+     "id": "24A",
+     "title": "Maclaurin series"
+    },
+    {
+     "id": "24B",
+     "title": "Convergence"
+    },
+    {
+     "id": "24C",
+     "title": "Composite functions"
+    },
+    {
+     "id": "24D",
+     "title": "Addition and subtraction"
+    },
+    {
+     "id": "24E",
+     "title": "Differentiation and integration"
+    },
+    {
+     "id": "24F",
+     "title": "Multiplication"
+    },
+    {
+     "id": "24G",
+     "title": "Division"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "24A",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "24C",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "24C",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "24E",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "24E",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "24E",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "24F",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 89.96,
+     "ww": 89.96,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "24G",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch24"
+  },
+  {
+   "id": "AA-HL_ch25",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 25,
+   "title": "Differential equations",
+   "scan_dir": "chapters/AA-HL_ch25/scan",
+   "sections": [
+    {
+     "id": "25A",
+     "title": "Differential equations"
+    },
+    {
+     "id": "25B",
+     "title": "Euler's method for numerical integration"
+    },
+    {
+     "id": "25C",
+     "title": "Differential equations of the form dy/dx = f(x)"
+    },
+    {
+     "id": "25D",
+     "title": "Separable differential equations"
+    },
+    {
+     "id": "25E",
+     "title": "Logistic growth"
+    },
+    {
+     "id": "25F",
+     "title": "Homogeneous differential equations dy/dx = g(y/x)"
+    },
+    {
+     "id": "25G",
+     "title": "The integrating factor method"
+    },
+    {
+     "id": "25H",
+     "title": "Maclaurin series developed from a differential equation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "25A",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.99,
+     "ww": 79.99,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "25A",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "25B",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "25C",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "25C",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 70.01,
+     "ww": 70.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "25C",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "25C",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "25D",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "25D",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "25D",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "25D",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12",
+     "printedLabel": "12",
+     "section": "25D",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13",
+     "printedLabel": "13",
+     "section": "25E",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14",
+     "printedLabel": "14",
+     "section": "25F",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15",
+     "printedLabel": "15",
+     "section": "25G",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 70.01,
+     "ww": 70.01,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16",
+     "printedLabel": "16",
+     "section": "25H",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "17",
+     "printedLabel": "17",
+     "section": "25H",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch25"
+  },
+  {
+   "id": "AA-HL_ch26",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 26,
+   "title": "Bivariate statistics",
+   "scan_dir": "chapters/AA-HL_ch26/scan",
+   "sections": [
+    {
+     "id": "26A",
+     "title": "Association between numerical variables"
+    },
+    {
+     "id": "26B",
+     "title": "Pearson's product-moment correlation coefficient"
+    },
+    {
+     "id": "26C",
+     "title": "Line of best fit by eye"
+    },
+    {
+     "id": "26D",
+     "title": "The least squares regression line"
+    },
+    {
+     "id": "26E",
+     "title": "The regression line of x against y"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "26B",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "26B",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "26C",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "26D",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "26E",
+     "codes": [
+      "AA SL 4.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch26"
+  },
+  {
+   "id": "AA-HL_ch27",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 27,
+   "title": "Discrete random variables",
+   "scan_dir": "chapters/AA-HL_ch27/scan",
+   "sections": [
+    {
+     "id": "27A",
+     "title": "Random variables"
+    },
+    {
+     "id": "27B",
+     "title": "Discrete probability distributions"
+    },
+    {
+     "id": "27C",
+     "title": "Expectation"
+    },
+    {
+     "id": "27D",
+     "title": "Variance and standard deviation"
+    },
+    {
+     "id": "27E",
+     "title": "Properties of aX + b"
+    },
+    {
+     "id": "27F",
+     "title": "The binomial distribution"
+    },
+    {
+     "id": "27G",
+     "title": "Using technology to find binomial probabilities"
+    },
+    {
+     "id": "27H",
+     "title": "The mean and standard deviation of a binomial distribution"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "27A",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "27B",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 93.33,
+     "ww": 93.33,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "27B",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 93.25,
+     "ww": 93.25,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "27B",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "27C",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex05_q_context.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "27C",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "27D",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "27E",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "27F",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "27G",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "27H",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 86.66,
+     "ww": 86.66,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch27"
+  },
+  {
+   "id": "AA-HL_ch28",
+   "book": "Haese Analysis and Approaches HL",
+   "bookShort": "Haese AA HL",
+   "chapter": 28,
+   "title": "Continuous random variables",
+   "scan_dir": "chapters/AA-HL_ch28/scan",
+   "sections": [
+    {
+     "id": "28A",
+     "title": "Probability density functions"
+    },
+    {
+     "id": "28B",
+     "title": "Measures of centre and spread"
+    },
+    {
+     "id": "28C",
+     "title": "The normal distribution"
+    },
+    {
+     "id": "28D",
+     "title": "Calculating normal probabilities"
+    },
+    {
+     "id": "28E",
+     "title": "The standard normal distribution"
+    },
+    {
+     "id": "28F",
+     "title": "Normal quantiles"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1",
+     "printedLabel": "1",
+     "section": "28A",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2",
+     "printedLabel": "2",
+     "section": "28B",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3",
+     "printedLabel": "3",
+     "section": "28D",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 99.93,
+     "ww": 99.93,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4",
+     "printedLabel": "4",
+     "section": "28D",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5",
+     "printedLabel": "5",
+     "section": "28D",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6",
+     "printedLabel": "6",
+     "section": "28D",
+     "codes": [
+      "AA SL 4.9"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7",
+     "printedLabel": "7",
+     "section": "28E",
+     "codes": [
+      "AA SL 4.12"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8",
+     "printedLabel": "8",
+     "section": "28E",
+     "codes": [
+      "AA SL 4.12"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9",
+     "printedLabel": "9",
+     "section": "28F",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10",
+     "printedLabel": "10",
+     "section": "28F",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11",
+     "printedLabel": "11",
+     "section": "28F",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/AA-HL_ch28"
+  },
+  {
+   "id": "PE-AA-SL_ch01",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 1,
+   "title": "Algebra and function basics",
+   "scan_dir": "chapters/PE-AA-SL_ch01/scan",
+   "sections": [
+    {
+     "id": "1.1",
+     "title": "Equations and formulae"
+    },
+    {
+     "id": "1.2",
+     "title": "Definition of a function"
+    },
+    {
+     "id": "1.3",
+     "title": "Composite functions"
+    },
+    {
+     "id": "1.4",
+     "title": "Inverse functions"
+    },
+    {
+     "id": "1.5",
+     "title": "Transformations of functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1.1",
+     "printedLabel": "1.1",
+     "section": "1.1",
+     "codes": [
+      "PK"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "1.2",
+     "printedLabel": "1.2",
+     "section": "1.1",
+     "codes": [
+      "PK"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "1.3",
+     "printedLabel": "1.3",
+     "section": "1.1",
+     "codes": [
+      "PK"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "1.4",
+     "printedLabel": "1.4",
+     "section": "1.1",
+     "codes": [
+      "PK"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "1.5",
+     "printedLabel": "1.5",
+     "section": "1.1",
+     "codes": [
+      "PK"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "1.6",
+     "printedLabel": "1.6",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "1.7",
+     "printedLabel": "1.7",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "1.8",
+     "printedLabel": "1.8",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "1.9",
+     "printedLabel": "1.9",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "1.10",
+     "printedLabel": "1.10",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "1.11",
+     "printedLabel": "1.11",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "1.12",
+     "printedLabel": "1.12",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "1.13",
+     "printedLabel": "1.13",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "1.14",
+     "printedLabel": "1.14",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "1.15",
+     "printedLabel": "1.15",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "1.16",
+     "printedLabel": "1.16",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "1.17",
+     "printedLabel": "1.17",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "1.18",
+     "printedLabel": "1.18",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "1.19",
+     "printedLabel": "1.19",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "1.20",
+     "printedLabel": "1.20",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "1.21",
+     "printedLabel": "1.21",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "1.22",
+     "printedLabel": "1.22",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "1.23",
+     "printedLabel": "1.23",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "1.24",
+     "printedLabel": "1.24",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "1.25",
+     "printedLabel": "1.25",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch01"
+  },
+  {
+   "id": "PE-AA-SL_ch02",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 2,
+   "title": "Functions, equations, and inequalities",
+   "scan_dir": "chapters/PE-AA-SL_ch02/scan",
+   "sections": [
+    {
+     "id": "2.1",
+     "title": "Quadratic functions"
+    },
+    {
+     "id": "2.2",
+     "title": "Rational functions"
+    },
+    {
+     "id": "2.3",
+     "title": "Solving equations and inequalities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "2.1",
+     "printedLabel": "2.1",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2.2",
+     "printedLabel": "2.2",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "2.3",
+     "printedLabel": "2.3",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "2.4",
+     "printedLabel": "2.4",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "2.5",
+     "printedLabel": "2.5",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "2.6",
+     "printedLabel": "2.6",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "2.7",
+     "printedLabel": "2.7",
+     "section": "2.1",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "2.8",
+     "printedLabel": "2.8",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.8"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "2.9",
+     "printedLabel": "2.9",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.8"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "2.10",
+     "printedLabel": "2.10",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "2.11",
+     "printedLabel": "2.11",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "2.12",
+     "printedLabel": "2.12",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "2.13",
+     "printedLabel": "2.13",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "2.14",
+     "printedLabel": "2.14",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "2.15",
+     "printedLabel": "2.15",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "2.16",
+     "printedLabel": "2.16",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "2.17",
+     "printedLabel": "2.17",
+     "section": "2.3",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch02"
+  },
+  {
+   "id": "PE-AA-SL_ch03",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 3,
+   "title": "Sequences and series",
+   "scan_dir": "chapters/PE-AA-SL_ch03/scan",
+   "sections": [
+    {
+     "id": "3.1",
+     "title": "Sequences"
+    },
+    {
+     "id": "3.2",
+     "title": "Arithmetic sequences"
+    },
+    {
+     "id": "3.3",
+     "title": "Geometric sequences"
+    },
+    {
+     "id": "3.4",
+     "title": "Series"
+    },
+    {
+     "id": "3.5",
+     "title": "The binomial theorem"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "3.1",
+     "printedLabel": "3.1",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "3.2",
+     "printedLabel": "3.2",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3.3",
+     "printedLabel": "3.3",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "3.4",
+     "printedLabel": "3.4",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "3.5",
+     "printedLabel": "3.5",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "3.6",
+     "printedLabel": "3.6",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "3.7",
+     "printedLabel": "3.7",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "sourceNote": "The printed working deliberately leaves the rest as an exercise for the reader. Retained without completion.",
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "3.8",
+     "printedLabel": "3.8",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "3.9",
+     "printedLabel": "3.9",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "3.10",
+     "printedLabel": "3.10",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "3.11",
+     "printedLabel": "3.11",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "3.12",
+     "printedLabel": "3.12",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "3.13",
+     "printedLabel": "3.13",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "3.14",
+     "printedLabel": "3.14",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "3.15",
+     "printedLabel": "3.15",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "3.16",
+     "printedLabel": "3.16",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "3.17",
+     "printedLabel": "3.17",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "3.18",
+     "printedLabel": "3.18",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "3.19",
+     "printedLabel": "3.19",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "3.20",
+     "printedLabel": "3.20",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "3.21",
+     "printedLabel": "3.21",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "3.22",
+     "printedLabel": "3.22",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "3.23",
+     "printedLabel": "3.23",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "3.24",
+     "printedLabel": "3.24",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "3.25",
+     "printedLabel": "3.25",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "3.26",
+     "printedLabel": "3.26",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex26_q_reviewed.webp",
+     "w": "ex26_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "3.27",
+     "printedLabel": "3.27",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex27_q_reviewed.webp",
+     "w": "ex27_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "3.28",
+     "printedLabel": "3.28",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex28_q_reviewed.webp",
+     "w": "ex28_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "3.29",
+     "printedLabel": "3.29",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex29_q_reviewed.webp",
+     "w": "ex29_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "3.30",
+     "printedLabel": "3.30",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9"
+     ],
+     "q": "ex30_q_reviewed.webp",
+     "w": "ex30_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch03"
+  },
+  {
+   "id": "PE-AA-SL_ch04",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 4,
+   "title": "Exponential and logarithmic functions",
+   "scan_dir": "chapters/PE-AA-SL_ch04/scan",
+   "sections": [
+    {
+     "id": "4.1",
+     "title": "Exponential functions"
+    },
+    {
+     "id": "4.2",
+     "title": "The number e and continuous growth  or decay"
+    },
+    {
+     "id": "4.3",
+     "title": "Logarithmic functions"
+    },
+    {
+     "id": "4.4",
+     "title": "Exponential and logarithmic equations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "4.1",
+     "printedLabel": "4.1",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "4.2",
+     "printedLabel": "4.2",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "4.3",
+     "printedLabel": "4.3",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4.4",
+     "printedLabel": "4.4",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "4.5",
+     "printedLabel": "4.5",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "4.6",
+     "printedLabel": "4.6",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "4.7",
+     "printedLabel": "4.7",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "4.8",
+     "printedLabel": "4.8",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "4.9",
+     "printedLabel": "4.9",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "4.10",
+     "printedLabel": "4.10",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "4.11",
+     "printedLabel": "4.11",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "4.12",
+     "printedLabel": "4.12",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "4.13",
+     "printedLabel": "4.13",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "4.14",
+     "printedLabel": "4.14",
+     "section": "4.3",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "4.15",
+     "printedLabel": "4.15",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "4.16",
+     "printedLabel": "4.16",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "4.17",
+     "printedLabel": "4.17",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "4.18",
+     "printedLabel": "4.18",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "4.19",
+     "printedLabel": "4.19",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "4.20",
+     "printedLabel": "4.20",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "4.21",
+     "printedLabel": "4.21",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "4.22",
+     "printedLabel": "4.22",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_reviewed.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "4.23",
+     "printedLabel": "4.23",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "4.24",
+     "printedLabel": "4.24",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "4.25",
+     "printedLabel": "4.25",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch04"
+  },
+  {
+   "id": "PE-AA-SL_ch05",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 5,
+   "title": "Trigonometric functions and equations",
+   "scan_dir": "chapters/PE-AA-SL_ch05/scan",
+   "sections": [
+    {
+     "id": "5.1",
+     "title": "Angles, circles, arcs, and sectors"
+    },
+    {
+     "id": "5.2",
+     "title": "The unit circle and trigonometric  functions"
+    },
+    {
+     "id": "5.3",
+     "title": "Graphs of trigonometric functions"
+    },
+    {
+     "id": "5.4",
+     "title": "Trigonometric equations and  identities"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "5.1",
+     "printedLabel": "5.1",
+     "section": "5.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "5.2",
+     "printedLabel": "5.2",
+     "section": "5.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "5.3",
+     "printedLabel": "5.3",
+     "section": "5.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "5.4",
+     "printedLabel": "5.4",
+     "section": "5.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5.5",
+     "printedLabel": "5.5",
+     "section": "5.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "5.6",
+     "printedLabel": "5.6",
+     "section": "5.2",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "5.7",
+     "printedLabel": "5.7",
+     "section": "5.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "5.8",
+     "printedLabel": "5.8",
+     "section": "5.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "5.9",
+     "printedLabel": "5.9",
+     "section": "5.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "5.10",
+     "printedLabel": "5.10",
+     "section": "5.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "5.11",
+     "printedLabel": "5.11",
+     "section": "5.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "5.12",
+     "printedLabel": "5.12",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "5.13",
+     "printedLabel": "5.13",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "5.14",
+     "printedLabel": "5.14",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "5.15",
+     "printedLabel": "5.15",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "5.16",
+     "printedLabel": "5.16",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "5.17",
+     "printedLabel": "5.17",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "5.18",
+     "printedLabel": "5.18",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "5.19",
+     "printedLabel": "5.19",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "5.20",
+     "printedLabel": "5.20",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "5.21",
+     "printedLabel": "5.21",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "5.22",
+     "printedLabel": "5.22",
+     "section": "5.4",
+     "codes": [
+      "AA SL 3.6",
+      "AA SL 3.8"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch05"
+  },
+  {
+   "id": "PE-AA-SL_ch06",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 6,
+   "title": "Geometry and trigonometry",
+   "scan_dir": "chapters/PE-AA-SL_ch06/scan",
+   "sections": [
+    {
+     "id": "6.1",
+     "title": "Measurements in three dimensions"
+    },
+    {
+     "id": "6.2",
+     "title": "Trigonometric functions of any angle"
+    },
+    {
+     "id": "6.3",
+     "title": "The sine rule and the cosine rule"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "6.1",
+     "printedLabel": "6.1",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "6.2",
+     "printedLabel": "6.2",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "6.3",
+     "printedLabel": "6.3",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "6.4",
+     "printedLabel": "6.4",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "6.5",
+     "printedLabel": "6.5",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6.6",
+     "printedLabel": "6.6",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "6.7",
+     "printedLabel": "6.7",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "6.8",
+     "printedLabel": "6.8",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "6.9",
+     "printedLabel": "6.9",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "6.10",
+     "printedLabel": "6.10",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "6.11",
+     "printedLabel": "6.11",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "6.12",
+     "printedLabel": "6.12",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "6.13",
+     "printedLabel": "6.13",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "6.14",
+     "printedLabel": "6.14",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "6.15",
+     "printedLabel": "6.15",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "6.16",
+     "printedLabel": "6.16",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "6.17",
+     "printedLabel": "6.17",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "6.18",
+     "printedLabel": "6.18",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "6.19",
+     "printedLabel": "6.19",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.5"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "6.20",
+     "printedLabel": "6.20",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "6.21",
+     "printedLabel": "6.21",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "6.22",
+     "printedLabel": "6.22",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex22_q_reviewed.webp",
+     "w": "ex22_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "6.23",
+     "printedLabel": "6.23",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex23_q_reviewed.webp",
+     "w": "ex23_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "6.24",
+     "printedLabel": "6.24",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex24_q_reviewed.webp",
+     "w": "ex24_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "6.25",
+     "printedLabel": "6.25",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex25_q_reviewed.webp",
+     "w": "ex25_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "6.26",
+     "printedLabel": "6.26",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex26_q_reviewed.webp",
+     "w": "ex26_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "6.27",
+     "printedLabel": "6.27",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex27_q_reviewed.webp",
+     "w": "ex27_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "6.28",
+     "printedLabel": "6.28",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex28_q_reviewed.webp",
+     "w": "ex28_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "6.29",
+     "printedLabel": "6.29",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex29_q_reviewed.webp",
+     "w": "ex29_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch06"
+  },
+  {
+   "id": "PE-AA-SL_ch07",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 7,
+   "title": "Statistics",
+   "scan_dir": "chapters/PE-AA-SL_ch07/scan",
+   "sections": [
+    {
+     "id": "7.1",
+     "title": "Graphical tools"
+    },
+    {
+     "id": "7.2",
+     "title": "Measures of central tendency"
+    },
+    {
+     "id": "7.3",
+     "title": "Measures of variability"
+    },
+    {
+     "id": "7.4",
+     "title": "Linear regression"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "7.1",
+     "printedLabel": "7.1",
+     "section": "7.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "7.2",
+     "printedLabel": "7.2",
+     "section": "7.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "7.3",
+     "printedLabel": "7.3",
+     "section": "7.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "7.4",
+     "printedLabel": "7.4",
+     "section": "7.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "7.5",
+     "printedLabel": "7.5",
+     "section": "7.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "7.6",
+     "printedLabel": "7.6",
+     "section": "7.2",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7.7",
+     "printedLabel": "7.7",
+     "section": "7.2",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "7.8",
+     "printedLabel": "7.8",
+     "section": "7.3",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "7.9",
+     "printedLabel": "7.9",
+     "section": "7.3",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "7.10",
+     "printedLabel": "7.10",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "7.11",
+     "printedLabel": "7.11",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "7.12",
+     "printedLabel": "7.12",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "7.13",
+     "printedLabel": "7.13",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "7.14",
+     "printedLabel": "7.14",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "7.15",
+     "printedLabel": "7.15",
+     "section": "7.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch07"
+  },
+  {
+   "id": "PE-AA-SL_ch08",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 8,
+   "title": "Probability",
+   "scan_dir": "chapters/PE-AA-SL_ch08/scan",
+   "sections": [
+    {
+     "id": "8.1",
+     "title": "Randomness"
+    },
+    {
+     "id": "8.2",
+     "title": "Probability assignments"
+    },
+    {
+     "id": "8.3",
+     "title": "Operations with events"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "8.1",
+     "printedLabel": "8.1",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "8.2",
+     "printedLabel": "8.2",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "8.3",
+     "printedLabel": "8.3",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "8.4",
+     "printedLabel": "8.4",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "8.5",
+     "printedLabel": "8.5",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "8.6",
+     "printedLabel": "8.6",
+     "section": "8.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "8.7",
+     "printedLabel": "8.7",
+     "section": "8.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8.8",
+     "printedLabel": "8.8",
+     "section": "8.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "8.9",
+     "printedLabel": "8.9",
+     "section": "8.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "8.10",
+     "printedLabel": "8.10",
+     "section": "8.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "8.11",
+     "printedLabel": "8.11",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "8.12",
+     "printedLabel": "8.12",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "8.13",
+     "printedLabel": "8.13",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "8.14",
+     "printedLabel": "8.14",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "8.15",
+     "printedLabel": "8.15",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "8.16",
+     "printedLabel": "8.16",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "8.17",
+     "printedLabel": "8.17",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "8.18",
+     "printedLabel": "8.18",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "8.19",
+     "printedLabel": "8.19",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "8.20",
+     "printedLabel": "8.20",
+     "section": "8.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch08"
+  },
+  {
+   "id": "PE-AA-SL_ch09",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 9,
+   "title": "Differential calculus 1",
+   "scan_dir": "chapters/PE-AA-SL_ch09/scan",
+   "sections": [
+    {
+     "id": "9.1",
+     "title": "Limits of functions"
+    },
+    {
+     "id": "9.2",
+     "title": "The derivative of a function: basic  rules and facts"
+    },
+    {
+     "id": "9.3",
+     "title": "Maxima and minima: first and second  derivatives"
+    },
+    {
+     "id": "9.4",
+     "title": "Tangents and normals"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "9.1",
+     "printedLabel": "9.1",
+     "section": "9.1",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "9.2",
+     "printedLabel": "9.2",
+     "section": "9.1",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "9.3",
+     "printedLabel": "9.3",
+     "section": "9.1",
+     "codes": [
+      "AA SL 5.1"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "9.4",
+     "printedLabel": "9.4",
+     "section": "9.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "9.5",
+     "printedLabel": "9.5",
+     "section": "9.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "9.6",
+     "printedLabel": "9.6",
+     "section": "9.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "9.7",
+     "printedLabel": "9.7",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "9.8",
+     "printedLabel": "9.8",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9.9",
+     "printedLabel": "9.9",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "9.10",
+     "printedLabel": "9.10",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "9.11",
+     "printedLabel": "9.11",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "9.12",
+     "printedLabel": "9.12",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "9.13",
+     "printedLabel": "9.13",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "9.14",
+     "printedLabel": "9.14",
+     "section": "9.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "9.15",
+     "printedLabel": "9.15",
+     "section": "9.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "9.16",
+     "printedLabel": "9.16",
+     "section": "9.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "9.17",
+     "printedLabel": "9.17",
+     "section": "9.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "9.18",
+     "printedLabel": "9.18",
+     "section": "9.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "9.19",
+     "printedLabel": "9.19",
+     "section": "9.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch09"
+  },
+  {
+   "id": "PE-AA-SL_ch10",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 10,
+   "title": "Differential calculus 2",
+   "scan_dir": "chapters/PE-AA-SL_ch10/scan",
+   "sections": [
+    {
+     "id": "10.1",
+     "title": "Derivatives of exponential and  logarithmic functions"
+    },
+    {
+     "id": "10.2",
+     "title": "The chain rule"
+    },
+    {
+     "id": "10.3",
+     "title": "The product and quotient rules"
+    },
+    {
+     "id": "10.4",
+     "title": "Optimisation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "10.1",
+     "printedLabel": "10.1",
+     "section": "10.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "10.2",
+     "printedLabel": "10.2",
+     "section": "10.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "10.3",
+     "printedLabel": "10.3",
+     "section": "10.2",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "10.4",
+     "printedLabel": "10.4",
+     "section": "10.2",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "10.5",
+     "printedLabel": "10.5",
+     "section": "10.2",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "10.6",
+     "printedLabel": "10.6",
+     "section": "10.2",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "10.7",
+     "printedLabel": "10.7",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "10.8",
+     "printedLabel": "10.8",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "10.9",
+     "printedLabel": "10.9",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10.10",
+     "printedLabel": "10.10",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "10.11",
+     "printedLabel": "10.11",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "10.12",
+     "printedLabel": "10.12",
+     "section": "10.3",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "10.13",
+     "printedLabel": "10.13",
+     "section": "10.4",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "10.14",
+     "printedLabel": "10.14",
+     "section": "10.4",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "10.15",
+     "printedLabel": "10.15",
+     "section": "10.4",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "10.16",
+     "printedLabel": "10.16",
+     "section": "10.4",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch10"
+  },
+  {
+   "id": "PE-AA-SL_ch11",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 11,
+   "title": "Integral calculus",
+   "scan_dir": "chapters/PE-AA-SL_ch11/scan",
+   "sections": [
+    {
+     "id": "11.1",
+     "title": "Antiderivative"
+    },
+    {
+     "id": "11.2",
+     "title": "Area and the definite integral"
+    },
+    {
+     "id": "11.3",
+     "title": "Areas"
+    },
+    {
+     "id": "11.4",
+     "title": "Modelling linear motion"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "11.1",
+     "printedLabel": "11.1",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "11.2",
+     "printedLabel": "11.2",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "11.3",
+     "printedLabel": "11.3",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "11.4",
+     "printedLabel": "11.4",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "11.5",
+     "printedLabel": "11.5",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "11.6",
+     "printedLabel": "11.6",
+     "section": "11.1",
+     "codes": [
+      "AA SL 5.5",
+      "AA SL 5.10"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "11.7",
+     "printedLabel": "11.7",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "11.8",
+     "printedLabel": "11.8",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "11.9",
+     "printedLabel": "11.9",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "11.10",
+     "printedLabel": "11.10",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11.11",
+     "printedLabel": "11.11",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "11.12",
+     "printedLabel": "11.12",
+     "section": "11.2",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "11.13",
+     "printedLabel": "11.13",
+     "section": "11.3",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "11.14",
+     "printedLabel": "11.14",
+     "section": "11.3",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "11.15",
+     "printedLabel": "11.15",
+     "section": "11.3",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex15_q_reviewed.webp",
+     "w": "ex15_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "11.16",
+     "printedLabel": "11.16",
+     "section": "11.3",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex16_q_reviewed.webp",
+     "w": "ex16_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "11.17",
+     "printedLabel": "11.17",
+     "section": "11.3",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex17_q_reviewed.webp",
+     "w": "ex17_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "11.18",
+     "printedLabel": "11.18",
+     "section": "11.4",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex18_q_reviewed.webp",
+     "w": "ex18_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "11.19",
+     "printedLabel": "11.19",
+     "section": "11.4",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex19_q_reviewed.webp",
+     "w": "ex19_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "11.20",
+     "printedLabel": "11.20",
+     "section": "11.4",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex20_q_reviewed.webp",
+     "w": "ex20_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "11.21",
+     "printedLabel": "11.21",
+     "section": "11.4",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex21_q_reviewed.webp",
+     "w": "ex21_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch11"
+  },
+  {
+   "id": "PE-AA-SL_ch12",
+   "book": "Pearson Analysis and Approaches SL",
+   "bookShort": "Pearson AA SL",
+   "chapter": 12,
+   "title": "Probability distributions",
+   "scan_dir": "chapters/PE-AA-SL_ch12/scan",
+   "sections": [
+    {
+     "id": "12.1",
+     "title": "Random variables"
+    },
+    {
+     "id": "12.2",
+     "title": "The binomial distribution"
+    },
+    {
+     "id": "12.3",
+     "title": "Continuous distributions - The normal  distribution"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "12.1",
+     "printedLabel": "12.1",
+     "section": "12.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex01_q_reviewed.webp",
+     "w": "ex01_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "12.2",
+     "printedLabel": "12.2",
+     "section": "12.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex02_q_reviewed.webp",
+     "w": "ex02_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "12.3",
+     "printedLabel": "12.3",
+     "section": "12.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex03_q_reviewed.webp",
+     "w": "ex03_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "12.4",
+     "printedLabel": "12.4",
+     "section": "12.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex04_q_reviewed.webp",
+     "w": "ex04_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "12.5",
+     "printedLabel": "12.5",
+     "section": "12.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex05_q_reviewed.webp",
+     "w": "ex05_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "12.6",
+     "printedLabel": "12.6",
+     "section": "12.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex06_q_reviewed.webp",
+     "w": "ex06_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "12.7",
+     "printedLabel": "12.7",
+     "section": "12.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex07_q_reviewed.webp",
+     "w": "ex07_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "12.8",
+     "printedLabel": "12.8",
+     "section": "12.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex08_q_reviewed.webp",
+     "w": "ex08_w_reviewed.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "12.9",
+     "printedLabel": "12.9",
+     "section": "12.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex09_q_reviewed.webp",
+     "w": "ex09_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "12.10",
+     "printedLabel": "12.10",
+     "section": "12.3",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex10_q_reviewed.webp",
+     "w": "ex10_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "12.11",
+     "printedLabel": "12.11",
+     "section": "12.3",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex11_q_reviewed.webp",
+     "w": "ex11_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12.12",
+     "printedLabel": "12.12",
+     "section": "12.3",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex12_q_reviewed.webp",
+     "w": "ex12_w_reviewed.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "12.13",
+     "printedLabel": "12.13",
+     "section": "12.3",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex13_q_reviewed.webp",
+     "w": "ex13_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "12.14",
+     "printedLabel": "12.14",
+     "section": "12.3",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex14_q_reviewed.webp",
+     "w": "ex14_w_reviewed.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-SL_ch12"
   }
  ]
 };

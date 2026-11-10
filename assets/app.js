@@ -6,7 +6,8 @@
 
   // ---------- helpers
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
-  function codeKey(c) { if (c === 'PK') return [-1, 0, 0]; var m = /^(SL|AHL)\s+(\d+)\.(\d+)/.exec(c) || []; return [(m[1] === 'AHL' ? 1 : 0), +m[2] || 0, +m[3] || 0]; }
+  function codeKey(c) { if (c === 'PK') return [-1, 0, 0]; var m = /^(AA\s+)?(SL|AHL)\s+(\d+)\.(\d+)/.exec(c) || []; return [(m[1] ? 10 : 0) + (m[2] === 'AHL' ? 1 : 0), +m[3] || 0, +m[4] || 0]; }
+  function codeFam(c) { return c === 'PK' ? '' : (/^AA /.test(c) ? 'Analysis and Approaches' : 'Applications and Interpretation'); }
   function codeCmp(a, b) { var x = codeKey(a), y = codeKey(b); return x[0] - y[0] || x[1] - y[1] || x[2] - y[2]; }
   function chapterById(id) { return S.chapters.filter(function (c) { return c.id === id; })[0]; }
   function bookOf(ch) { return ch.id.split('_')[0]; }
@@ -122,7 +123,9 @@
     } else {
       var counts = {};
       scoped().forEach(function (ch) { ch.examples.forEach(function (ex) { ex.codes.forEach(function (c) { counts[c] = (counts[c] || 0) + 1; }); }); });
-      Object.keys(counts).sort(codeCmp).forEach(function (c) {
+      var ckeys = Object.keys(counts).sort(codeCmp), mixed = ckeys.some(function (c) { return codeFam(c) === 'Analysis and Approaches'; }) && ckeys.some(function (c) { return codeFam(c) === 'Applications and Interpretation'; }), lastFam = '';
+      ckeys.forEach(function (c) {
+        if (mixed && codeFam(c) && codeFam(c) !== lastFam) { h += '<div class="sec">' + codeFam(c) + '</div>'; lastFam = codeFam(c); }
         var on = picked(c) || (!state.sel && view.name === c && !view.ch);
         h += '<div class="rw"><input type="checkbox" data-pick="code" data-id="' + esc(c) + '"' + (picked(c) ? ' checked' : '') + ' aria-label="Select ' + esc(disp(c)) + '"><div class="row' + (on ? ' on' : '') + '" role="link" tabindex="0" data-go="#/code/' + encodeURIComponent(c) + '"><span class="cnt">' + counts[c] + '</span>' + esc(disp(c)) + '<span class="sub">' + esc(c === 'PK' ? '' : (S.syllabus[c] || {}).label || '') + '</span></div></div>';
       });

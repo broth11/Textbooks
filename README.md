@@ -1,3 +1,3 @@
-# Textbook examples
+# IB Textbooks
 
-Browsable Haese worked examples by textbook, chapter, and IB MAI syllabus code. Static site: open `index.html` or use GitHub Pages.
+Browsable Haese and Pearson worked examples by textbook, chapter, and IB syllabus code (MAI and AA). Static site: open `index.html` or use GitHub Pages.
