@@ -684,7 +684,8 @@ window.SITE = {
      "n": 1,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -696,7 +697,8 @@ window.SITE = {
      "n": 2,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -708,7 +710,8 @@ window.SITE = {
      "n": 3,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -720,7 +723,8 @@ window.SITE = {
      "n": 4,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -732,7 +736,8 @@ window.SITE = {
      "n": 5,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -744,7 +749,8 @@ window.SITE = {
      "n": 6,
      "section": "1A",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -758,23 +764,28 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "1C",
      "codes": [
-      "SL 3.5"
+      "SL 3.5",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
@@ -782,12 +793,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
@@ -795,12 +809,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 70.09,
-     "ww": 70.09
+     "ww": 70.09,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
@@ -808,12 +825,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
@@ -821,18 +841,23 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 70.09,
-     "ww": 70.09
+     "ww": 70.09,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "1E",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -893,18 +918,21 @@ window.SITE = {
      "n": 2,
      "section": "2B",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 63.42,
-     "ww": 63.42
+     "ww": 63.42,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "2E",
      "codes": [
-      "SL 2.2"
+      "SL 2.2",
+      "AA SL 2.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -916,7 +944,8 @@ window.SITE = {
      "n": 4,
      "section": "2E",
      "codes": [
-      "SL 2.2"
+      "SL 2.2",
+      "AA SL 2.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -928,7 +957,8 @@ window.SITE = {
      "n": 5,
      "section": "2E",
      "codes": [
-      "SL 2.2"
+      "SL 2.2",
+      "AA SL 2.2"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -940,69 +970,81 @@ window.SITE = {
      "n": 6,
      "section": "2G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "sectionOriginal": "2F/2G"
+     "sectionOriginal": "2F/2G",
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "2G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "sectionOriginal": "2F/2G"
+     "sectionOriginal": "2F/2G",
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "2G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 89.96,
-     "ww": 89.96
+     "ww": 89.96,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch02"
@@ -1137,7 +1179,8 @@ window.SITE = {
      "n": 9,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -1150,7 +1193,8 @@ window.SITE = {
      "n": 10,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -1162,7 +1206,8 @@ window.SITE = {
      "n": 11,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -1174,7 +1219,8 @@ window.SITE = {
      "n": 12,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -1186,7 +1232,8 @@ window.SITE = {
      "n": 13,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -1198,7 +1245,8 @@ window.SITE = {
      "n": 14,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
@@ -1210,7 +1258,8 @@ window.SITE = {
      "n": 15,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
@@ -1222,7 +1271,8 @@ window.SITE = {
      "n": 16,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
@@ -1234,7 +1284,8 @@ window.SITE = {
      "n": 17,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
@@ -1246,7 +1297,8 @@ window.SITE = {
      "n": 18,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
@@ -1258,7 +1310,8 @@ window.SITE = {
      "n": 19,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
@@ -1270,7 +1323,8 @@ window.SITE = {
      "n": 20,
      "section": "3D",
      "codes": [
-      "SL 1.5"
+      "SL 1.5",
+      "AA SL 1.5"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
@@ -1283,24 +1337,28 @@ window.SITE = {
      "section": "3E",
      "codes": [
       "SL 1.1",
-      "SL 1.6"
+      "SL 1.6",
+      "AA SL 1.1"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
      "qw": 76.69,
-     "ww": 76.69
+     "ww": 76.69,
+     "codesSource": "section-table"
     },
     {
      "n": 22,
      "section": "3E",
      "codes": [
       "SL 1.1",
-      "SL 1.6"
+      "SL 1.6",
+      "AA SL 1.1"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
      "qw": 60.12,
-     "ww": 60.12
+     "ww": 60.12,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch03"
@@ -1343,7 +1401,8 @@ window.SITE = {
      "n": 1,
      "section": "4A",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -1355,7 +1414,8 @@ window.SITE = {
      "n": 2,
      "section": "4A",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -1367,7 +1427,8 @@ window.SITE = {
      "n": 3,
      "section": "4B",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -1379,7 +1440,8 @@ window.SITE = {
      "n": 4,
      "section": "4B",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -1391,7 +1453,8 @@ window.SITE = {
      "n": 5,
      "section": "4C",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -1404,7 +1467,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -1417,7 +1481,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -1430,7 +1495,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -1443,7 +1509,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -1456,7 +1523,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -1469,7 +1537,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -1482,7 +1551,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -1495,7 +1565,8 @@ window.SITE = {
      "section": "4D",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -1509,12 +1580,14 @@ window.SITE = {
      "codes": [
       "SL 1.8",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
@@ -1522,12 +1595,14 @@ window.SITE = {
      "codes": [
       "SL 1.8",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch04"
@@ -1583,18 +1658,22 @@ window.SITE = {
      "section": "5A",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -1606,29 +1685,34 @@ window.SITE = {
      "n": 3,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 93.33,
-     "ww": 93.33
+     "ww": 93.33,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 93.33,
-     "ww": 93.33
+     "ww": 93.33,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -1640,42 +1724,52 @@ window.SITE = {
      "n": 6,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 90.03,
      "ww": 90.03,
-     "sectionOriginal": "5B/5C"
+     "sectionOriginal": "5B/5C",
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 78.04,
      "ww": 78.04,
-     "sectionOriginal": "5C/5D"
+     "sectionOriginal": "5C/5D",
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -1688,19 +1782,24 @@ window.SITE = {
      "n": 10,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "sectionOriginal": "5C/5D"
+     "sectionOriginal": "5C/5D",
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -1714,91 +1813,106 @@ window.SITE = {
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 80.06,
-     "ww": 80.06
+     "ww": 80.06,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 81.33,
-     "ww": 81.33
+     "ww": 81.33,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 16,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 17,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
@@ -1811,7 +1925,8 @@ window.SITE = {
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
@@ -1824,7 +1939,8 @@ window.SITE = {
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
@@ -1837,7 +1953,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
@@ -1850,7 +1968,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
@@ -1863,90 +1983,106 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 25,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 26,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 27,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 28,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex28_q.webp",
      "w": "ex28_w.webp",
      "qw": 66.79,
-     "ww": 66.79
+     "ww": 66.79,
+     "codesSource": "section-table"
     },
     {
      "n": 29,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w.webp",
      "qw": 63.42,
-     "ww": 63.42
+     "ww": 63.42,
+     "codesSource": "section-table"
     },
     {
      "n": 30,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex30_q.webp",
      "w": "ex30_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 31,
      "section": "5I",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.8"
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w.webp",
@@ -1989,12 +2125,14 @@ window.SITE = {
      "codes": [
       "SL 3.4",
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.4"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
@@ -2002,7 +2140,8 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -2016,7 +2155,8 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -2030,12 +2170,14 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 90.03,
-     "ww": 90.03
+     "ww": 90.03,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -2043,12 +2185,14 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
@@ -2056,12 +2200,14 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 83.36,
-     "ww": 83.36
+     "ww": 83.36,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
@@ -2069,7 +2215,8 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -2081,7 +2228,8 @@ window.SITE = {
      "n": 8,
      "section": "6D",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.1"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -2093,7 +2241,8 @@ window.SITE = {
      "n": 9,
      "section": "6D",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.1"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -2105,7 +2254,8 @@ window.SITE = {
      "n": 10,
      "section": "6D",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.1"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -2158,7 +2308,8 @@ window.SITE = {
      "n": 1,
      "section": "7A",
      "codes": [
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -2170,7 +2321,8 @@ window.SITE = {
      "n": 2,
      "section": "7B",
      "codes": [
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -2182,7 +2334,8 @@ window.SITE = {
      "n": 3,
      "section": "7C",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -2195,48 +2348,60 @@ window.SITE = {
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 91.98,
-     "ww": 91.98
+     "ww": 91.98,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
@@ -2244,7 +2409,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -2258,7 +2425,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -2272,7 +2441,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -2284,7 +2455,8 @@ window.SITE = {
      "n": 11,
      "section": "7F",
      "codes": [
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.3"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -2296,7 +2468,8 @@ window.SITE = {
      "n": 12,
      "section": "7F",
      "codes": [
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.3"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -2309,25 +2482,28 @@ window.SITE = {
      "section": "7G",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "7G",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "hl-twin-section"
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch07"
@@ -2364,7 +2540,8 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -2377,7 +2554,8 @@ window.SITE = {
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -2391,7 +2569,8 @@ window.SITE = {
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -2405,7 +2584,8 @@ window.SITE = {
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -2419,7 +2599,8 @@ window.SITE = {
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex05_q_reviewed_v2.webp",
      "w": "ex05_w.webp",
@@ -2433,7 +2614,8 @@ window.SITE = {
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -2447,7 +2629,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -2461,7 +2645,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -2475,7 +2661,9 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -2513,7 +2701,8 @@ window.SITE = {
      "section": "9A",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -2526,12 +2715,14 @@ window.SITE = {
      "section": "9B",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
@@ -2539,7 +2730,9 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.1",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -2604,7 +2797,8 @@ window.SITE = {
      "n": 1,
      "section": "10A",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -2616,7 +2810,8 @@ window.SITE = {
      "n": 2,
      "section": "10B",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -2628,255 +2823,302 @@ window.SITE = {
      "n": 3,
      "section": "10C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 83.36,
-     "ww": 83.36
+     "ww": 83.36,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "10C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "10C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "10D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
      "section": "10E",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 79.99,
-     "ww": 79.99
+     "ww": 79.99,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "10E",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "10F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
      "section": "10F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 16,
      "section": "10F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 17,
      "section": "10G",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "10G",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex18_q_reviewed.webp",
      "w": "ex18_w_reviewed.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "10G",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 20,
      "section": "10G",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 21,
      "section": "10H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 22,
      "section": "10H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 23,
      "section": "10I",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 24,
      "section": "10J",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch10"
@@ -2911,54 +3153,64 @@ window.SITE = {
      "n": 1,
      "section": "11B",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "11B",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "11C",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "11D",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2",
+      "AA SL 4.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w_reviewed_v5.webp",
      "qw": 100.0,
      "ww": 101.8,
-     "codesSource": "hl-twin-section"
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "11E",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2",
+      "AA SL 4.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -3020,49 +3272,58 @@ window.SITE = {
      "section": "12A",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "12A",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 70.01,
-     "ww": 70.01
+     "ww": 70.01,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "12C",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "12D",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2",
+      "AA SL 4.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "sectionOriginal": "12C/12D"
+     "sectionOriginal": "12C/12D",
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -3070,7 +3331,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -3084,7 +3346,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -3098,7 +3361,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -3110,7 +3374,8 @@ window.SITE = {
      "n": 8,
      "section": "12F",
      "codes": [
-      "SL 4.2"
+      "SL 4.2",
+      "AA SL 4.2"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w_reviewed.webp",
@@ -3124,7 +3389,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -3138,24 +3404,28 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "12I",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
@@ -3163,12 +3433,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
@@ -3176,12 +3448,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-SL_ch12"
@@ -5553,12 +5827,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 66.72,
-     "ww": 66.72
+     "ww": 66.72,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
@@ -5566,12 +5843,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
@@ -5579,12 +5859,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
@@ -5592,12 +5875,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -5605,12 +5891,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
@@ -5618,23 +5907,28 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "1C",
      "codes": [
-      "SL 3.5"
+      "SL 3.5",
+      "AA SL 2.1",
+      "AA SL 3.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
@@ -5642,12 +5936,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
@@ -5655,12 +5952,15 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 2.1",
+      "AA SL 2.10"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 70.09,
-     "ww": 70.09
+     "ww": 70.09,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch01"
@@ -5715,18 +6015,21 @@ window.SITE = {
      "n": 2,
      "section": "2B",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 80.06,
-     "ww": 80.06
+     "ww": 80.06,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "2E",
      "codes": [
-      "SL 2.2"
+      "SL 2.2",
+      "AA SL 2.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -5738,7 +6041,8 @@ window.SITE = {
      "n": 4,
      "section": "2E",
      "codes": [
-      "SL 2.2"
+      "SL 2.2",
+      "AA SL 2.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -5750,67 +6054,79 @@ window.SITE = {
      "n": 5,
      "section": "2F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "2G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "2G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 90.03,
-     "ww": 90.03
+     "ww": 90.03,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "2H",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch02"
@@ -5942,132 +6258,154 @@ window.SITE = {
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 79.99,
-     "ww": 79.99
+     "ww": 79.99,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 83.96,
-     "ww": 83.96
+     "ww": 83.96,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 66.72,
-     "ww": 66.72
+     "ww": 66.72,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 76.69,
-     "ww": 76.69
+     "ww": 76.69,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 66.72,
-     "ww": 66.72
+     "ww": 66.72,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 79.99,
-     "ww": 79.99
+     "ww": 79.99,
+     "codesSource": "section-table"
     },
     {
      "n": 16,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 40.1,
-     "ww": 26.61
+     "ww": 26.61,
+     "codesSource": "section-table"
     },
     {
      "n": 17,
      "section": "3D",
      "codes": [
       "SL 1.5",
-      "AHL 1.10"
+      "AHL 1.10",
+      "AA SL 1.5"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 79.99,
-     "ww": 79.99
+     "ww": 79.99,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "3E",
      "codes": [
       "SL 1.1",
-      "SL 1.6"
+      "SL 1.6",
+      "AA SL 1.1"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
      "qw": 76.76,
-     "ww": 76.76
+     "ww": 76.76,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "3E",
      "codes": [
       "SL 1.1",
-      "SL 1.6"
+      "SL 1.6",
+      "AA SL 1.1"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
      "qw": 60.12,
-     "ww": 60.12
+     "ww": 60.12,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch03"
@@ -6106,7 +6444,8 @@ window.SITE = {
      "n": 1,
      "section": "4A",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -6118,7 +6457,8 @@ window.SITE = {
      "n": 2,
      "section": "4A",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -6130,7 +6470,8 @@ window.SITE = {
      "n": 3,
      "section": "4A",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -6142,7 +6483,9 @@ window.SITE = {
      "n": 4,
      "section": "4B",
      "codes": [
-      "SL 1.8"
+      "SL 1.8",
+      "AA SL 2.10",
+      "AA SL 2.7"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -6155,7 +6498,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -6168,7 +6512,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -6181,7 +6526,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -6194,7 +6540,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -6207,7 +6554,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -6220,7 +6568,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -6233,7 +6582,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -6246,7 +6596,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -6259,7 +6610,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -6272,7 +6624,8 @@ window.SITE = {
      "section": "4C",
      "codes": [
       "SL 1.8",
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
@@ -6286,12 +6639,14 @@ window.SITE = {
      "codes": [
       "SL 1.8",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 16,
@@ -6299,12 +6654,14 @@ window.SITE = {
      "codes": [
       "SL 1.8",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch04"
@@ -6368,18 +6725,22 @@ window.SITE = {
      "section": "5A",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -6392,192 +6753,227 @@ window.SITE = {
      "n": 3,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 93.25,
-     "ww": 93.25
+     "ww": 93.25,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 93.33,
-     "ww": 93.33
+     "ww": 93.33,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 93.33,
-     "ww": 93.33
+     "ww": 93.33,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "5B",
      "codes": [
-      "SL 1.2"
+      "SL 1.2",
+      "AA SL 1.2"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "5C",
      "codes": [
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "5D",
      "codes": [
       "SL 1.3",
-      "SL 1.4"
+      "SL 1.4",
+      "AA SL 1.3",
+      "AA SL 1.4"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 79.99,
-     "ww": 79.99
+     "ww": 79.99,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 81.33,
-     "ww": 81.33
+     "ww": 81.33,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 16,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 17,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "5E",
      "codes": [
       "SL 1.4",
-      "SL 1.7"
+      "SL 1.7",
+      "AA SL 1.4"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
@@ -6591,7 +6987,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
@@ -6605,7 +7003,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
@@ -6619,7 +7019,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
@@ -6633,7 +7035,9 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
@@ -6647,95 +7051,112 @@ window.SITE = {
      "section": "5F",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2",
+      "AA SL 1.3"
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 25,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 26,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 27,
      "section": "5G",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.2"
      ],
      "q": "ex27_q.webp",
      "w": "ex27_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 28,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex28_q.webp",
      "w": "ex28_w.webp",
      "qw": 66.72,
-     "ww": 66.72
+     "ww": 66.72,
+     "codesSource": "section-table"
     },
     {
      "n": 29,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex29_q.webp",
      "w": "ex29_w.webp",
      "qw": 63.42,
-     "ww": 63.42
+     "ww": 63.42,
+     "codesSource": "section-table"
     },
     {
      "n": 30,
      "section": "5H",
      "codes": [
       "SL 1.2",
-      "SL 1.3"
+      "SL 1.3",
+      "AA SL 1.3"
      ],
      "q": "ex30_q.webp",
      "w": "ex30_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 31,
      "section": "5I",
      "codes": [
-      "AHL 1.11"
+      "AHL 1.11",
+      "AA SL 1.8"
      ],
      "q": "ex31_q.webp",
      "w": "ex31_w.webp",
      "qw": 66.72,
-     "ww": 66.72
+     "ww": 66.72,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch05"
@@ -6776,12 +7197,14 @@ window.SITE = {
      "codes": [
       "SL 3.4",
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.4"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
@@ -6789,7 +7212,8 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -6804,13 +7228,15 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "sectionOriginal": "6B/6C"
+     "sectionOriginal": "6B/6C",
+     "codesSource": "section-table"
     },
     {
      "n": 4,
@@ -6818,13 +7244,15 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 90.03,
      "ww": 90.03,
-     "sectionOriginal": "6B/6C"
+     "sectionOriginal": "6B/6C",
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -6832,13 +7260,15 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "sectionOriginal": "6B/6C"
+     "sectionOriginal": "6B/6C",
+     "codesSource": "section-table"
     },
     {
      "n": 6,
@@ -6846,12 +7276,14 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 83.36,
-     "ww": 83.36
+     "ww": 83.36,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
@@ -6859,18 +7291,21 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.1"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "6D",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.1"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -6882,7 +7317,8 @@ window.SITE = {
      "n": 9,
      "section": "6D",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "AA SL 3.1"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -6933,12 +7369,14 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 90.03,
-     "ww": 90.03
+     "ww": 90.03,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
@@ -6946,114 +7384,140 @@ window.SITE = {
      "codes": [
       "SL 2.1",
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "7B",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "7C",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "7C",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "7C",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "7C",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 91.98,
-     "ww": 91.98
+     "ww": 91.98,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 76.69,
-     "ww": 76.69
+     "ww": 76.69,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "7E",
      "codes": [
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.3"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -7065,7 +7529,8 @@ window.SITE = {
      "n": 12,
      "section": "7E",
      "codes": [
-      "SL 3.3"
+      "SL 3.3",
+      "AA SL 3.3"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -7078,24 +7543,28 @@ window.SITE = {
      "section": "7F",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "7F",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch07"
@@ -7138,7 +7607,8 @@ window.SITE = {
      "n": 2,
      "section": "8A",
      "codes": [
-      "AHL 3.7"
+      "AHL 3.7",
+      "AA SL 3.4"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -7151,7 +7621,8 @@ window.SITE = {
      "section": "8B",
      "codes": [
       "AHL 3.7",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.4"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -7164,7 +7635,8 @@ window.SITE = {
      "section": "8B",
      "codes": [
       "AHL 3.7",
-      "SL 3.4"
+      "SL 3.4",
+      "AA SL 3.4"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -7176,7 +7648,8 @@ window.SITE = {
      "n": 5,
      "section": "8D",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.5"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -7188,7 +7661,8 @@ window.SITE = {
      "n": 6,
      "section": "8D",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.5"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -7200,7 +7674,8 @@ window.SITE = {
      "n": 7,
      "section": "8D",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.5"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -7212,7 +7687,8 @@ window.SITE = {
      "n": 8,
      "section": "8E",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.6"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -7224,7 +7700,8 @@ window.SITE = {
      "n": 9,
      "section": "8E",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.6"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -7236,7 +7713,8 @@ window.SITE = {
      "n": 10,
      "section": "8E",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.6"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -7248,7 +7726,8 @@ window.SITE = {
      "n": 11,
      "section": "8F",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -7260,7 +7739,8 @@ window.SITE = {
      "n": 12,
      "section": "8F",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -7272,7 +7752,9 @@ window.SITE = {
      "n": 13,
      "section": "8G",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1",
+      "AA SL 3.5"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -7284,7 +7766,9 @@ window.SITE = {
      "n": 14,
      "section": "8G",
      "codes": [
-      "SL 2.1"
+      "SL 2.1",
+      "AA SL 2.1",
+      "AA SL 3.5"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -7325,7 +7809,8 @@ window.SITE = {
      "n": 1,
      "section": "9A",
      "codes": [
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -7337,7 +7822,8 @@ window.SITE = {
      "n": 2,
      "section": "9A",
      "codes": [
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -7351,12 +7837,14 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 66.79,
-     "ww": 66.79
+     "ww": 66.79,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
@@ -7364,12 +7852,14 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -7377,12 +7867,14 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.2"
      ],
      "q": "ex05_q_reviewed_v3.webp",
      "w": "ex05_w.webp",
      "qw": 100.0,
-     "ww": 80.06
+     "ww": 80.06,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
@@ -7390,12 +7882,14 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.2"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
@@ -7403,19 +7897,23 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.2"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "9D",
      "codes": [
       "SL 3.3",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -7428,7 +7926,9 @@ window.SITE = {
      "section": "9D",
      "codes": [
       "SL 3.3",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.2",
+      "AA SL 3.3"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -7466,24 +7966,28 @@ window.SITE = {
      "section": "10A",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "10B",
      "codes": [
       "SL 3.1",
-      "SL 3.2"
+      "SL 3.2",
+      "AA SL 3.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
@@ -7492,12 +7996,15 @@ window.SITE = {
       "SL 3.1",
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.1",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
@@ -7506,13 +8013,15 @@ window.SITE = {
       "SL 3.1",
       "SL 3.2",
       "SL 3.3",
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.1",
+      "AA SL 3.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "plan-section"
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch10"
@@ -7575,7 +8084,8 @@ window.SITE = {
      "n": 1,
      "section": "11B",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -7588,7 +8098,8 @@ window.SITE = {
      "n": 2,
      "section": "11B",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -7601,262 +8112,310 @@ window.SITE = {
      "n": 3,
      "section": "11C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 83.36,
-     "ww": 83.36
+     "ww": 83.36,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "11C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "11C",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 8,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 9,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "11D",
      "codes": [
       "SL 4.5",
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
      "section": "11E",
      "codes": [
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.5"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "11F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 80.06,
-     "ww": 80.06
+     "ww": 80.06,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "11F",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 15,
      "section": "11G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
      "qw": 73.39,
      "ww": 73.39,
-     "sectionOriginal": "11F/11G"
+     "sectionOriginal": "11F/11G",
+     "codesSource": "section-table"
     },
     {
      "n": 16,
      "section": "11G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 17,
      "section": "11G",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "11H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "11H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex19_q_reviewed_v3.webp",
      "w": "ex19_w_reviewed_v3.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 20,
      "section": "11H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 21,
      "section": "11H",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 22,
      "section": "11I",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 23,
      "section": "11I",
      "codes": [
       "SL 4.6",
-      "SL 4.5"
+      "SL 4.5",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 24,
      "section": "11J",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA SL 4.6",
+      "AA SL 4.11"
      ],
      "q": "ex24_q.webp",
      "w": "ex24_w.webp",
      "qw": 73.39,
-     "ww": 73.39
+     "ww": 73.39,
+     "codesSource": "section-table"
     },
     {
      "n": 25,
      "section": "11K",
      "codes": [
-      "SL 4.6"
+      "SL 4.6",
+      "AA AHL 4.13"
      ],
      "q": "ex25_q.webp",
      "w": "ex25_w.webp",
@@ -7897,58 +8456,70 @@ window.SITE = {
      "n": 1,
      "section": "12B",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "12B",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "12D",
      "codes": [
-      "SL 4.1"
+      "SL 4.1",
+      "AA SL 4.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "12E",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2",
+      "AA SL 4.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
      "section": "12F",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2",
+      "AA SL 4.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch12"
@@ -8000,48 +8571,56 @@ window.SITE = {
      "section": "13A",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
      "section": "13A",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 70.01,
-     "ww": 70.01
+     "ww": 70.01,
+     "codesSource": "section-table"
     },
     {
      "n": 3,
      "section": "13C",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 4,
      "section": "13D",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -8049,7 +8628,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -8064,7 +8644,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -8079,7 +8660,8 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -8094,12 +8676,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 10,
@@ -8107,24 +8691,28 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "13I",
      "codes": [
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.2"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
@@ -8132,12 +8720,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
@@ -8145,12 +8735,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
@@ -8158,12 +8750,14 @@ window.SITE = {
      "codes": [
       "SL 4.1",
       "SL 4.2",
-      "SL 4.3"
+      "SL 4.3",
+      "AA SL 4.3"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch13"
@@ -8218,7 +8812,8 @@ window.SITE = {
      "n": 1,
      "section": "14A",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.6"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -8230,7 +8825,8 @@ window.SITE = {
      "n": 2,
      "section": "14A",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.6"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -8242,7 +8838,8 @@ window.SITE = {
      "n": 3,
      "section": "14B",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.6"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -8254,7 +8851,8 @@ window.SITE = {
      "n": 4,
      "section": "14B",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.6"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -8266,7 +8864,8 @@ window.SITE = {
      "n": 5,
      "section": "14B",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.6"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -8278,7 +8877,8 @@ window.SITE = {
      "n": 6,
      "section": "14C",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -8291,7 +8891,8 @@ window.SITE = {
      "n": 7,
      "section": "14C",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -8304,7 +8905,8 @@ window.SITE = {
      "n": 8,
      "section": "14C",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -8317,7 +8919,8 @@ window.SITE = {
      "n": 9,
      "section": "14C",
      "codes": [
-      "SL 2.5"
+      "SL 2.5",
+      "AA SL 2.7"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -8330,54 +8933,63 @@ window.SITE = {
      "section": "14D",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 11,
      "section": "14D",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 86.66,
-     "ww": 86.66
+     "ww": 86.66,
+     "codesSource": "section-table"
     },
     {
      "n": 12,
      "section": "14D",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 13,
      "section": "14D",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "14E",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
@@ -8389,7 +9001,8 @@ window.SITE = {
      "n": 15,
      "section": "14E",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
@@ -8401,7 +9014,8 @@ window.SITE = {
      "n": 16,
      "section": "14E",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.10"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
@@ -8414,54 +9028,65 @@ window.SITE = {
      "section": "14F",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6",
+      "AA SL 2.7"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 90.03,
-     "ww": 90.03
+     "ww": 90.03,
+     "codesSource": "section-table"
     },
     {
      "n": 18,
      "section": "14F",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6",
+      "AA SL 2.7"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 19,
      "section": "14G",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 20,
      "section": "14G",
      "codes": [
       "SL 2.5",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 2.6"
      ],
      "q": "ex20_q.webp",
      "w": "ex20_w.webp",
      "qw": 91.98,
-     "ww": 91.98
+     "ww": 91.98,
+     "codesSource": "section-table"
     },
     {
      "n": 21,
      "section": "14H",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.7"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
@@ -8473,7 +9098,8 @@ window.SITE = {
      "n": 22,
      "section": "14H",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.7"
      ],
      "q": "ex22_q.webp",
      "w": "ex22_w.webp",
@@ -8485,7 +9111,8 @@ window.SITE = {
      "n": 23,
      "section": "14H",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.7"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
@@ -8532,12 +9159,14 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 2,
@@ -8545,13 +9174,15 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 70.09,
      "ww": 70.09,
-     "sectionOriginal": "15A/15B"
+     "sectionOriginal": "15A/15B",
+     "codesSource": "section-table"
     },
     {
      "n": 3,
@@ -8559,13 +9190,15 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 86.66,
      "ww": 86.66,
-     "sectionOriginal": "15A/15B"
+     "sectionOriginal": "15A/15B",
+     "codesSource": "section-table"
     },
     {
      "n": 4,
@@ -8573,12 +9206,14 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 5,
@@ -8586,12 +9221,14 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     },
     {
      "n": 6,
@@ -8599,18 +9236,22 @@ window.SITE = {
      "codes": [
       "SL 2.2",
       "SL 2.3",
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.2"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 7,
      "section": "15D",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.8",
+      "AA AHL 2.13"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -8623,7 +9264,9 @@ window.SITE = {
      "n": 8,
      "section": "15D",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.8",
+      "AA AHL 2.13"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -8636,7 +9279,9 @@ window.SITE = {
      "n": 9,
      "section": "15D",
      "codes": [
-      "SL 2.4"
+      "SL 2.4",
+      "AA SL 2.8",
+      "AA AHL 2.13"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -8649,7 +9294,8 @@ window.SITE = {
      "n": 10,
      "section": "15E",
      "codes": [
-      "AHL 2.7"
+      "AHL 2.7",
+      "AA SL 2.5"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -8662,7 +9308,8 @@ window.SITE = {
      "n": 11,
      "section": "15E",
      "codes": [
-      "AHL 2.7"
+      "AHL 2.7",
+      "AA SL 2.5"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -8675,7 +9322,8 @@ window.SITE = {
      "n": 12,
      "section": "15E",
      "codes": [
-      "AHL 2.7"
+      "AHL 2.7",
+      "AA SL 2.5"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -8689,24 +9337,28 @@ window.SITE = {
      "section": "15F",
      "codes": [
       "SL 2.2",
-      "AHL 2.7"
+      "AHL 2.7",
+      "AA SL 2.5"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "section-table"
     },
     {
      "n": 14,
      "section": "15F",
      "codes": [
       "SL 2.2",
-      "AHL 2.7"
+      "AHL 2.7",
+      "AA SL 2.5"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 99.93,
-     "ww": 99.93
+     "ww": 99.93,
+     "codesSource": "section-table"
     }
    ],
    "dir": "img/CT-HL_ch15"
@@ -8749,7 +9401,8 @@ window.SITE = {
      "n": 1,
      "section": "16A",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -8761,7 +9414,8 @@ window.SITE = {
      "n": 2,
      "section": "16B",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -8774,7 +9428,8 @@ window.SITE = {
      "n": 3,
      "section": "16B",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -8786,7 +9441,8 @@ window.SITE = {
      "n": 4,
      "section": "16C",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -8798,7 +9454,8 @@ window.SITE = {
      "n": 5,
      "section": "16D",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -8810,7 +9467,8 @@ window.SITE = {
      "n": 6,
      "section": "16D",
      "codes": [
-      "AHL 2.8"
+      "AHL 2.8",
+      "AA SL 2.11"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -8822,7 +9480,8 @@ window.SITE = {
      "n": 7,
      "section": "16E",
      "codes": [
-      "PK"
+      "PK",
+      "AA AHL 2.16"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -8875,7 +9534,8 @@ window.SITE = {
      "n": 1,
      "section": "17C",
      "codes": [
-      "AHL 2.9"
+      "AHL 2.9",
+      "AA SL 3.7"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
@@ -8887,7 +9547,8 @@ window.SITE = {
      "n": 2,
      "section": "17C",
      "codes": [
-      "AHL 2.9"
+      "AHL 2.9",
+      "AA SL 3.7"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
@@ -8899,7 +9560,8 @@ window.SITE = {
      "n": 3,
      "section": "17C",
      "codes": [
-      "AHL 2.9"
+      "AHL 2.9",
+      "AA SL 3.7"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
@@ -8911,7 +9573,8 @@ window.SITE = {
      "n": 4,
      "section": "17C",
      "codes": [
-      "AHL 2.9"
+      "AHL 2.9",
+      "AA SL 3.7"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
@@ -8924,7 +9587,8 @@ window.SITE = {
      "section": "17D",
      "codes": [
       "AHL 2.9",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 3.7"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
@@ -8937,7 +9601,8 @@ window.SITE = {
      "section": "17D",
      "codes": [
       "AHL 2.9",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 3.7"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
@@ -8951,7 +9616,8 @@ window.SITE = {
      "codes": [
       "AHL 2.9",
       "SL 2.6",
-      "AHL 4.13"
+      "AHL 4.13",
+      "AA SL 3.7"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
@@ -8963,7 +9629,8 @@ window.SITE = {
      "n": 8,
      "section": "17F",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.7"
      ],
      "q": "ex08_q.webp",
      "w": "ex08_w.webp",
@@ -8976,7 +9643,8 @@ window.SITE = {
      "n": 9,
      "section": "17F",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.7"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
@@ -8989,7 +9657,8 @@ window.SITE = {
      "n": 10,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
@@ -9002,7 +9671,8 @@ window.SITE = {
      "n": 11,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
@@ -9014,7 +9684,8 @@ window.SITE = {
      "n": 12,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
@@ -9026,7 +9697,8 @@ window.SITE = {
      "n": 13,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
@@ -9038,7 +9710,8 @@ window.SITE = {
      "n": 14,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
@@ -9050,7 +9723,8 @@ window.SITE = {
      "n": 15,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex15_q.webp",
      "w": "ex15_w.webp",
@@ -9062,7 +9736,8 @@ window.SITE = {
      "n": 16,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex16_q.webp",
      "w": "ex16_w.webp",
@@ -9074,7 +9749,8 @@ window.SITE = {
      "n": 17,
      "section": "17G",
      "codes": [
-      "AHL 3.8"
+      "AHL 3.8",
+      "AA SL 3.8"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
@@ -9087,7 +9763,9 @@ window.SITE = {
      "section": "17H",
      "codes": [
       "AHL 2.9",
-      "SL 2.6"
+      "SL 2.6",
+      "AA SL 3.7",
+      "AA SL 3.8"
      ],
      "q": "ex18_q.webp",
      "w": "ex18_w.webp",

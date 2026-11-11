@@ -2,7 +2,8 @@
   'use strict';
   var S = window.SITE, $ = function (id) { return document.getElementById(id); };
   var state = { rail: 'books', book: 'all', sel: null, cur: null, collapsed: window.innerWidth < 1100 };
-  var view = null;
+  var view = null, lastR = null;
+  state.order = 'topic';
 
   // ---------- helpers
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
@@ -40,6 +41,9 @@
   function route() {
     var h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
     var m;
+    if (h === '' || h === '/') return { kind: 'landing' };
+    if (h === 'browse') return { kind: 'home' };
+    if ((m = /^(map|topics)\/(MAA|MAI)\/(Haese|Pearson|Both)(?:\/(.*))?$/.exec(h))) return { kind: m[1], course: m[2], pub: m[3], codes: (m[4] || '').split(',').filter(Boolean) };
     if ((m = /^pick\/(ch|code)=(.+)$/.exec(h))) return { kind: 'pick', mode: m[1], ids: m[2].split(',').filter(Boolean) };
     if ((m = /^code\/(.+)$/.exec(h))) return { kind: 'code', code: m[1] };
     if ((m = /^book\/(.+)$/.exec(h))) return { kind: 'book', code: m[1] };
@@ -49,6 +53,11 @@
   function lbl(ex) { return ex.label || ex.n; }
   function curLabel() { var k = state.cur.split('|'), ch = chapterById(k[0]), r = k[1]; if (ch) ch.examples.forEach(function (e) { if (String(e.n) === r) r = lbl(e); }); return r; }
   function disp(c) { return c === 'PK' ? 'Previous Knowledge - MYP' : c; }
+  function topicCodes(ex) {
+    var aa = view.course === 'MAA';
+    var cs = ex.codes.filter(function (c) { return c === 'PK' || (aa ? /^AA /.test(c) : !/^AA /.test(c)); }).sort(codeCmp);
+    return cs.map(function (c) { return c === 'PK' ? 'Previous Knowledge - MYP' : c.replace(/^AA /, '').replace('AHL', 'HL'); }).join(' · ');
+  }
   function codesLine(ex) { return ex.codes.length ? ex.codes.map(disp).join(' · ') : 'No syllabus code assigned yet'; }
 
   // ---------- view model
@@ -87,12 +96,15 @@
 
   // ---------- render
   function renderRails() {
+    if (view && view.topics) { $('rails').innerHTML = ''; $('rails').style.display = 'none'; return; }
+    $('rails').style.display = '';
     var defs = [['books', 'Books'], ['chapters', 'Chapters'], ['examples', 'Examples'], ['syllabus', 'Syllabus']];
     $('rails').innerHTML = defs.map(function (d) {
       return '<button role="tab" data-rail="' + d[0] + '" aria-selected="' + (state.rail === d[0]) + '">' + d[1] + '</button>';
     }).join('');
   }
   function renderPanel() {
+    if (view.topics) { $('panel').innerHTML = window.IBPicker.topicsPanel(view, state); $('expandLabel').textContent = state.cur ? 'Example ' + curLabel() : ''; return; }
     var titles = { books: ['Books', 'Pick a textbook to narrow the chapter and syllabus lists.'], chapters: ['Chapters', 'Pick a chapter, in book order. Tick boxes to combine chapters.'], examples: ['Examples', view.name + ', in book order.'], syllabus: ['Syllabus', 'Pick a code to see every example for it. Tick boxes to combine codes.'] };
     var t = titles[state.rail], h = '';
     h += '<div class="phead"><div class="eyebrow">Textbook examples</div><button class="hidebtn" id="hide">&lsaquo; Hide</button></div>';
@@ -140,11 +152,11 @@
     view.items.forEach(function (it) {
       if (it.group !== g) { h += '<h2 class="group">' + esc(it.group) + '</h2>'; g = it.group; }
       var base = it.ch.dir + '/', ex = it.ex;
-      h += '<article id="a-' + esc(it.key) + '" data-key="' + esc(it.key) + '"><div class="ahead"><div class="t">Example ' + lbl(ex) + '</div><div class="c">' + esc(codesLine(ex)) + '</div><button class="btn" data-toggle="' + esc(it.key) + '">Show solution</button></div>' +
+      h += '<article id="a-' + esc(it.key) + '" data-key="' + esc(it.key) + '"><div class="ahead"><div class="t">Example ' + lbl(ex) + '</div><div class="c">' + esc(view.topics ? topicCodes(ex) : codesLine(ex)) + '</div><button class="btn" data-toggle="' + esc(it.key) + '">Show solution</button></div>' +
         '<div class="abody"><img src="' + esc(base + ex.q) + '" alt="Example ' + lbl(ex) + ' question" style="width:' + ex.qw + '%">' +
         '<div class="sol" hidden><div class="lab">Worked solution</div><img data-src="' + esc(base + ex.w) + '" alt="Example ' + lbl(ex) + ' worked solution" style="width:' + ex.ww + '%"></div></div></article>';
     });
-    if (!view.items.length) h += '<div class="empty">No examples found for this code yet.</div>';
+    if (!view.items.length) h += '<div class="empty">' + esc(view.emptyMsg || 'No examples found for this code yet.') + '</div>';
     $('main').innerHTML = h + '</div>';
   }
   function renderAll() { renderRails(); renderPanel(); renderMain(); $('app').classList.toggle('collapsed', state.collapsed); }
@@ -190,8 +202,9 @@
     location.hash = to || (s ? single(s.mode, s.ids[0]) : '#/');
   }
   document.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-go],#hide,#expand');
+    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-go],[data-order],#hide,#expand');
     if (!t) return;
+    if (t.dataset.order) { state.order = t.dataset.order; view = window.IBPicker.topicsView(lastR, state.order); state.cur = view.items.length ? view.items[0].key : null; renderAll(); window.scrollTo(0, 0); return; }
     if (t.dataset.go) { location.hash = t.dataset.go; return; }
     if (t.dataset.pick) { pick(t.dataset.pick, t.dataset.id); return; }
     if (t.dataset.clear) { clearSel(); return; }
@@ -208,21 +221,24 @@
     if (e.key === 'ArrowRight') { e.preventDefault(); step(1); } else if (e.key === 'ArrowLeft') { e.preventDefault(); step(-1); }
   });
   function load() {
-    var r = route();
+    var r = route(); lastR = r;
+    if (r.kind === 'landing' || r.kind === 'map') { window.IBPicker.show(r); return; }
+    window.IBPicker.hide();
     if (r.kind === 'book') {
       var info = r.code === 'all' ? null : bookInfo(r.code);
       state.book = info ? info.code : 'all';
       state.rail = 'chapters';
-      location.replace('#/home');
+      location.replace('#/browse');
       return;
     }
     state.sel = r.kind === 'pick' ? { mode: r.mode, ids: r.ids } : null;
     if (r.kind === 'ch') { var cc = chapterById(r.id); if (state.book !== 'all' && bookOf(cc) !== state.book) state.book = bookOf(cc); }
-    view = buildView(r);
+    view = r.kind === 'topics' ? window.IBPicker.topicsView(r, state.order) : buildView(r);
     state.cur = view.items.length ? view.items[0].key : null;
     if (view.ch) state.rail = state.rail === 'syllabus' ? 'syllabus' : state.rail;
     renderAll(); window.scrollTo(0, 0);
   }
+  window.IBT = { esc: esc, bookOf: bookOf, codeCmp: codeCmp, secTitle: secTitle, lbl: lbl, state: state };
   window.addEventListener('hashchange', load);
   if (!S.chapters.length) { $('main').innerHTML = '<div class="col"><h1>No chapters yet</h1></div>'; return; }
   load();
