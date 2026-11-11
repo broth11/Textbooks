@@ -116,3 +116,8 @@ body.pg-mode .app{display:none}
 .gcnt{float:right;font-weight:600;color:var(--mute)}
 .selbar .linkbtn{font-size:13px}
 @media (max-width:760px){.pg-cards,.pg-cols,.pg-pk{grid-template-columns:1fr}.pg-col+.pg-col{border-left:0;border-top:1px solid var(--line)}.pg-land{height:auto;min-height:100vh}}
+
+.rails .homebtn{writing-mode:horizontal-tb;display:flex;flex-direction:column;align-items:center;gap:2px;width:100%;padding:8px 2px;border-radius:12px;border:1px solid #cfd6cb;background:var(--card);color:var(--teal);font-weight:700;font-size:11px;margin-bottom:6px}
+.rails .homebtn .hi{font-size:20px;line-height:1}
+.rails .homebtn:hover{background:#fff}
+.homelink{margin:10px 0 0!important;font-size:13px}

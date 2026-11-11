@@ -99,7 +99,7 @@
     if (view && view.topics) { $('rails').innerHTML = ''; $('rails').style.display = 'none'; return; }
     $('rails').style.display = '';
     var defs = [['books', 'Books'], ['chapters', 'Chapters'], ['examples', 'Examples'], ['syllabus', 'Syllabus']];
-    $('rails').innerHTML = defs.map(function (d) {
+    $('rails').innerHTML = '<button type="button" class="homebtn" data-go="#/" aria-label="Home: choose course and topics"><span class="hi">&#8962;</span><span>Home</span></button>' + defs.map(function (d) {
       return '<button role="tab" data-rail="' + d[0] + '" aria-selected="' + (state.rail === d[0]) + '">' + d[1] + '</button>';
     }).join('');
   }
@@ -108,6 +108,7 @@
     var titles = { books: ['Books', 'Pick a textbook to narrow the chapter and syllabus lists.'], chapters: ['Chapters', 'Pick a chapter, in book order. Tick boxes to combine chapters.'], examples: ['Examples', view.name + ', in book order.'], syllabus: ['Syllabus', 'Pick a code to see every example for it. Tick boxes to combine codes.'] };
     var t = titles[state.rail], h = '';
     h += '<div class="phead"><div class="eyebrow">Textbook examples</div><button class="hidebtn" id="hide">&lsaquo; Hide</button></div>';
+    h += '<button type="button" class="linkbtn homelink" data-go="#/">&larr; Choose course and topics</button>';
     h += '<h2>' + esc(t[0]) + '</h2><p class="hint">' + esc(t[1]) + '</p>';
     if (state.rail === 'chapters' || state.rail === 'syllabus') h += bookNote();
     var mode = state.rail === 'chapters' ? 'ch' : 'code';
