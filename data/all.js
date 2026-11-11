@@ -32133,8 +32133,8 @@ window.SITE = {
      "codes": [
       "AA SL 2.5"
      ],
-     "q": "ex19_q_reviewed.webp",
-     "w": "ex19_w_reviewed.webp",
+     "q": "ex19_q_placement_v2.webp",
+     "w": "ex19_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -32161,8 +32161,8 @@ window.SITE = {
      "codes": [
       "AA SL 2.11"
      ],
-     "q": "ex21_q_reviewed.webp",
-     "w": "ex21_w_reviewed.webp",
+     "q": "ex21_q_placement_v2.webp",
+     "w": "ex21_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -32287,8 +32287,8 @@ window.SITE = {
       "AA SL 2.6",
       "AA SL 2.7"
      ],
-     "q": "ex03_q_reviewed.webp",
-     "w": "ex03_w_reviewed.webp",
+     "q": "ex03_q_placement_v2.webp",
+     "w": "ex03_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -32302,8 +32302,8 @@ window.SITE = {
       "AA SL 2.6",
       "AA SL 2.7"
      ],
-     "q": "ex04_q_reviewed.webp",
-     "w": "ex04_w_reviewed.webp",
+     "q": "ex04_q_placement_v2.webp",
+     "w": "ex04_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -32558,8 +32558,8 @@ window.SITE = {
       "AA SL 1.2",
       "AA SL 1.3"
      ],
-     "q": "ex02_q_reviewed.webp",
-     "w": "ex02_w_reviewed.webp",
+     "q": "ex02_q_placement_v2.webp",
+     "w": "ex02_w_placement_v2.webp",
      "qw": 79.35,
      "ww": 79.35,
      "codesSource": "section-table"
@@ -33039,8 +33039,8 @@ window.SITE = {
      "codes": [
       "AA SL 2.9"
      ],
-     "q": "ex03_q_reviewed.webp",
-     "w": "ex03_w_reviewed.webp",
+     "q": "ex03_q_placement_v2.webp",
+     "w": "ex03_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -33177,8 +33177,8 @@ window.SITE = {
       "AA SL 1.7",
       "AA SL 2.9"
      ],
-     "q": "ex12_q_reviewed.webp",
-     "w": "ex12_w_reviewed.webp",
+     "q": "ex12_q_placement_v2.webp",
+     "w": "ex12_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -33239,8 +33239,8 @@ window.SITE = {
       "AA SL 1.7",
       "AA SL 2.10"
      ],
-     "q": "ex16_q_reviewed.webp",
-     "w": "ex16_w_reviewed.webp",
+     "q": "ex16_q_placement_v2.webp",
+     "w": "ex16_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -33487,8 +33487,8 @@ window.SITE = {
      "codes": [
       "AA SL 3.5"
      ],
-     "q": "ex06_q_reviewed.webp",
-     "w": "ex06_w_reviewed.webp",
+     "q": "ex06_q_placement_v2.webp",
+     "w": "ex06_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -34173,8 +34173,8 @@ window.SITE = {
       "AA SL 3.2",
       "AA SL 3.3"
      ],
-     "q": "ex29_q_reviewed.webp",
-     "w": "ex29_w_reviewed.webp",
+     "q": "ex29_q_placement_v2.webp",
+     "w": "ex29_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -34216,8 +34216,8 @@ window.SITE = {
      "codes": [
       "AA SL 4.2"
      ],
-     "q": "ex01_q_reviewed.webp",
-     "w": "ex01_w_reviewed.webp",
+     "q": "ex01_q_placement_v2.webp",
+     "w": "ex01_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -34244,8 +34244,8 @@ window.SITE = {
      "codes": [
       "AA SL 4.2"
      ],
-     "q": "ex03_q_reviewed.webp",
-     "w": "ex03_w_reviewed.webp",
+     "q": "ex03_q_placement_v2.webp",
+     "w": "ex03_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -34258,8 +34258,8 @@ window.SITE = {
      "codes": [
       "AA SL 4.2"
      ],
-     "q": "ex04_q_reviewed.webp",
-     "w": "ex04_w_reviewed.webp",
+     "q": "ex04_q_placement_v2.webp",
+     "w": "ex04_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -34272,8 +34272,8 @@ window.SITE = {
      "codes": [
       "AA SL 4.2"
      ],
-     "q": "ex05_q_reviewed.webp",
-     "w": "ex05_w_reviewed.webp",
+     "q": "ex05_q_placement_v2.webp",
+     "w": "ex05_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -34592,8 +34592,8 @@ window.SITE = {
       "AA SL 4.6",
       "AA SL 4.11"
      ],
-     "q": "ex11_q_reviewed.webp",
-     "w": "ex11_w_reviewed.webp",
+     "q": "ex11_q_placement_v2.webp",
+     "w": "ex11_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -34813,8 +34813,8 @@ window.SITE = {
       "AA SL 5.1",
       "AA SL 5.3"
      ],
-     "q": "ex04_q_reviewed.webp",
-     "w": "ex04_w_reviewed.webp",
+     "q": "ex04_q_placement_v2.webp",
+     "w": "ex04_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -35112,8 +35112,8 @@ window.SITE = {
      "codes": [
       "AA SL 5.6"
      ],
-     "q": "ex03_q_reviewed.webp",
-     "w": "ex03_w_reviewed.webp",
+     "q": "ex03_q_placement_v2.webp",
+     "w": "ex03_w_placement_v2.webp",
      "qw": 79.45,
      "ww": 79.45,
      "codesSource": "section-table"
@@ -35126,8 +35126,8 @@ window.SITE = {
      "codes": [
       "AA SL 5.6"
      ],
-     "q": "ex04_q_reviewed.webp",
-     "w": "ex04_w_reviewed.webp",
+     "q": "ex04_q_placement_v2.webp",
+     "w": "ex04_w_placement_v2.webp",
      "qw": 79.59,
      "ww": 79.59,
      "codesSource": "section-table"
@@ -35857,6 +35857,11514 @@ window.SITE = {
     }
    ],
    "dir": "img/PE-AA-SL_ch12"
+  },
+  {
+   "id": "PE-AA-HL_ch01",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 1,
+   "title": "Algebra and function basics",
+   "scan_dir": "chapters/PE-AA-HL_ch01/scan",
+   "sections": [
+    {
+     "id": "1.1",
+     "title": "Equations and formulae"
+    },
+    {
+     "id": "1.2",
+     "title": "Definition of a function"
+    },
+    {
+     "id": "1.3",
+     "title": "Composite functions"
+    },
+    {
+     "id": "1.4",
+     "title": "Inverse functions"
+    },
+    {
+     "id": "1.5",
+     "title": "Transformations of functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1.1",
+     "printedLabel": "1.1",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "1.2",
+     "printedLabel": "1.2",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "1.3",
+     "printedLabel": "1.3",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "1.4",
+     "printedLabel": "1.4",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "1.5",
+     "printedLabel": "1.5",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "1.6",
+     "printedLabel": "1.6",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "1.7",
+     "printedLabel": "1.7",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "1.8",
+     "printedLabel": "1.8",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "1.9",
+     "printedLabel": "1.9",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "1.10",
+     "printedLabel": "1.10",
+     "section": "1.1",
+     "codes": [
+      "PK",
+      "AA SL 2.1",
+      "AA AHL 1.16"
+     ],
+     "q": "ex10_q_review.webp",
+     "w": "ex10_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "1.11",
+     "printedLabel": "1.11",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex11_q_review.webp",
+     "w": "ex11_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "1.12",
+     "printedLabel": "1.12",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "1.13",
+     "printedLabel": "1.13",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "1.14",
+     "printedLabel": "1.14",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex14_q_review.webp",
+     "w": "ex14_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "1.15",
+     "printedLabel": "1.15",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex15_q_review.webp",
+     "w": "ex15_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "1.16",
+     "printedLabel": "1.16",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex16_q_review.webp",
+     "w": "ex16_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "1.17",
+     "printedLabel": "1.17",
+     "section": "1.2",
+     "codes": [
+      "AA SL 2.2"
+     ],
+     "q": "ex17_q_review.webp",
+     "w": "ex17_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "1.18",
+     "printedLabel": "1.18",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex18_q_review.webp",
+     "w": "ex18_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "1.19",
+     "printedLabel": "1.19",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "1.20",
+     "printedLabel": "1.20",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "1.21",
+     "printedLabel": "1.21",
+     "section": "1.3",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "1.22",
+     "printedLabel": "1.22",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex22_q_review.webp",
+     "w": "ex22_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "1.23",
+     "printedLabel": "1.23",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "1.24",
+     "printedLabel": "1.24",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex24_q_review.webp",
+     "w": "ex24_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "1.25",
+     "printedLabel": "1.25",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "1.26",
+     "printedLabel": "1.26",
+     "section": "1.4",
+     "codes": [
+      "AA SL 2.5"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "1.27",
+     "printedLabel": "1.27",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex27_q_review.webp",
+     "w": "ex27_w_bars.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "1.28",
+     "printedLabel": "1.28",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex28_q_review.webp",
+     "w": "ex28_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "1.29",
+     "printedLabel": "1.29",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "1.30",
+     "printedLabel": "1.30",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "1.31",
+     "printedLabel": "1.31",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "1.32",
+     "printedLabel": "1.32",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex32_q_review.webp",
+     "w": "ex32_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "1.33",
+     "printedLabel": "1.33",
+     "section": "1.5",
+     "codes": [
+      "AA SL 2.11"
+     ],
+     "q": "ex33_q_final_edge.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch01"
+  },
+  {
+   "id": "PE-AA-HL_ch02",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 2,
+   "title": "Functions",
+   "scan_dir": "chapters/PE-AA-HL_ch02/scan",
+   "sections": [
+    {
+     "id": "2.1",
+     "title": "Polynomial functions"
+    },
+    {
+     "id": "2.2",
+     "title": "Quadratic functions"
+    },
+    {
+     "id": "2.3",
+     "title": "Zeros, factors and remainders"
+    },
+    {
+     "id": "2.4",
+     "title": "Rational functions"
+    },
+    {
+     "id": "2.5",
+     "title": "Solving equations and inequalities"
+    },
+    {
+     "id": "2.6",
+     "title": "Partial fractions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "2.1",
+     "printedLabel": "2.1",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex01_q_review.webp",
+     "w": "ex01_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2.2",
+     "printedLabel": "2.2",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "2.3",
+     "printedLabel": "2.3",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "2.4",
+     "printedLabel": "2.4",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "2.5",
+     "printedLabel": "2.5",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "2.6",
+     "printedLabel": "2.6",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "2.7",
+     "printedLabel": "2.7",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "2.8",
+     "printedLabel": "2.8",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "2.9",
+     "printedLabel": "2.9",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "2.10",
+     "printedLabel": "2.10",
+     "section": "2.2",
+     "codes": [
+      "AA SL 2.6",
+      "AA SL 2.7"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "2.11",
+     "printedLabel": "2.11",
+     "section": "2.3",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "2.12",
+     "printedLabel": "2.12",
+     "section": "2.3",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "2.13",
+     "printedLabel": "2.13",
+     "section": "2.3",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "2.14",
+     "printedLabel": "2.14",
+     "section": "2.3",
+     "codes": [
+      "AA AHL 2.12"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "2.15",
+     "printedLabel": "2.15",
+     "section": "2.4",
+     "codes": [
+      "AA SL 2.8",
+      "AA AHL 2.13"
+     ],
+     "q": "ex15_q_review.webp",
+     "w": "ex15_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "2.16",
+     "printedLabel": "2.16",
+     "section": "2.4",
+     "codes": [
+      "AA SL 2.8",
+      "AA AHL 2.13"
+     ],
+     "q": "ex16_q_review.webp",
+     "w": "ex16_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "2.17",
+     "printedLabel": "2.17",
+     "section": "2.4",
+     "codes": [
+      "AA SL 2.8",
+      "AA AHL 2.13"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "2.18",
+     "printedLabel": "2.18",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "2.19",
+     "printedLabel": "2.19",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "2.20",
+     "printedLabel": "2.20",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex20_q_review.webp",
+     "w": "ex20_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "2.21",
+     "printedLabel": "2.21",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "2.22",
+     "printedLabel": "2.22",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex22_q_review.webp",
+     "w": "ex22_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "2.23",
+     "printedLabel": "2.23",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "2.24",
+     "printedLabel": "2.24",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "2.25",
+     "printedLabel": "2.25",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex25_q_review.webp",
+     "w": "ex25_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "2.26",
+     "printedLabel": "2.26",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "2.27",
+     "printedLabel": "2.27",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "2.28",
+     "printedLabel": "2.28",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "2.29",
+     "printedLabel": "2.29",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "2.30",
+     "printedLabel": "2.30",
+     "section": "2.5",
+     "codes": [
+      "AA SL 2.7",
+      "AA SL 2.10",
+      "AA AHL 2.15",
+      "AA AHL 2.16"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "2.31",
+     "printedLabel": "2.31",
+     "section": "2.6",
+     "codes": [
+      "AA AHL 1.11"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "2.32",
+     "printedLabel": "2.32",
+     "section": "2.6",
+     "codes": [
+      "AA AHL 1.11"
+     ],
+     "q": "ex32_q_final.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "2.33",
+     "printedLabel": "2.33",
+     "section": "2.6",
+     "codes": [
+      "AA AHL 1.11"
+     ],
+     "q": "ex33_q_final.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch02"
+  },
+  {
+   "id": "PE-AA-HL_ch03",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 3,
+   "title": "Sequences and series",
+   "scan_dir": "chapters/PE-AA-HL_ch03/scan",
+   "sections": [
+    {
+     "id": "3.1",
+     "title": "Sequences"
+    },
+    {
+     "id": "3.2",
+     "title": "Arithmetic sequences"
+    },
+    {
+     "id": "3.3",
+     "title": "Geometric sequences"
+    },
+    {
+     "id": "3.4",
+     "title": "Series"
+    },
+    {
+     "id": "3.5",
+     "title": "The binomial theorem"
+    },
+    {
+     "id": "3.6",
+     "title": "Counting principles"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "3.1",
+     "printedLabel": "3.1",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "3.2",
+     "printedLabel": "3.2",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3.3",
+     "printedLabel": "3.3",
+     "section": "3.1",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "3.4",
+     "printedLabel": "3.4",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "3.5",
+     "printedLabel": "3.5",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "3.6",
+     "printedLabel": "3.6",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "3.7",
+     "printedLabel": "3.7",
+     "section": "3.2",
+     "codes": [
+      "AA SL 1.2"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "3.8",
+     "printedLabel": "3.8",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "3.9",
+     "printedLabel": "3.9",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "3.10",
+     "printedLabel": "3.10",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "3.11",
+     "printedLabel": "3.11",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex11_q_review.webp",
+     "w": "ex11_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "3.12",
+     "printedLabel": "3.12",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "3.13",
+     "printedLabel": "3.13",
+     "section": "3.3",
+     "codes": [
+      "AA SL 1.3"
+     ],
+     "q": "ex13_q_review.webp",
+     "w": "ex13_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "3.14",
+     "printedLabel": "3.14",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "3.15",
+     "printedLabel": "3.15",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "3.16",
+     "printedLabel": "3.16",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "3.17",
+     "printedLabel": "3.17",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "3.18",
+     "printedLabel": "3.18",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "3.19",
+     "printedLabel": "3.19",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "3.20",
+     "printedLabel": "3.20",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "3.21",
+     "printedLabel": "3.21",
+     "section": "3.4",
+     "codes": [
+      "AA SL 1.2",
+      "AA SL 1.3",
+      "AA SL 1.8"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "3.22",
+     "printedLabel": "3.22",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "3.23",
+     "printedLabel": "3.23",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "3.24",
+     "printedLabel": "3.24",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "3.25",
+     "printedLabel": "3.25",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex25_q_review.webp",
+     "w": "ex25_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "3.26",
+     "printedLabel": "3.26",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex26_q_review.webp",
+     "w": "ex26_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "3.27",
+     "printedLabel": "3.27",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "3.28",
+     "printedLabel": "3.28",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "3.29",
+     "printedLabel": "3.29",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "3.30",
+     "printedLabel": "3.30",
+     "section": "3.5",
+     "codes": [
+      "AA SL 1.9",
+      "AA AHL 1.10"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "3.31",
+     "printedLabel": "3.31",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "3.32",
+     "printedLabel": "3.32",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex32_q_final_edge.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "3.33",
+     "printedLabel": "3.33",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex33_q_final.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "3.34",
+     "printedLabel": "3.34",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex34_q_final.webp",
+     "w": "ex34_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "3.35",
+     "printedLabel": "3.35",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex35_q_final.webp",
+     "w": "ex35_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "3.36",
+     "printedLabel": "3.36",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex36_q_final.webp",
+     "w": "ex36_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "3.37",
+     "printedLabel": "3.37",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex37_q_final.webp",
+     "w": "ex37_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "3.38",
+     "printedLabel": "3.38",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex38_q_review.webp",
+     "w": "ex38_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 39,
+     "label": "3.39",
+     "printedLabel": "3.39",
+     "section": "3.6",
+     "codes": [
+      "AA AHL 1.10"
+     ],
+     "q": "ex39_q_final.webp",
+     "w": "ex39_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch03"
+  },
+  {
+   "id": "PE-AA-HL_ch04",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 4,
+   "title": "Exponential and logarithmic functions",
+   "scan_dir": "chapters/PE-AA-HL_ch04/scan",
+   "sections": [
+    {
+     "id": "4.1",
+     "title": "Exponential functions"
+    },
+    {
+     "id": "4.2",
+     "title": "Exponential growth and decay"
+    },
+    {
+     "id": "4.3",
+     "title": "The number e"
+    },
+    {
+     "id": "4.4",
+     "title": "Logarithmic functions"
+    },
+    {
+     "id": "4.5",
+     "title": "Exponential and logarithmic equations"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "4.1",
+     "printedLabel": "4.1",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "4.2",
+     "printedLabel": "4.2",
+     "section": "4.1",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "4.3",
+     "printedLabel": "4.3",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4.4",
+     "printedLabel": "4.4",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "4.5",
+     "printedLabel": "4.5",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "4.6",
+     "printedLabel": "4.6",
+     "section": "4.2",
+     "codes": [
+      "AA SL 1.5",
+      "AA SL 2.9"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "4.7",
+     "printedLabel": "4.7",
+     "section": "4.3",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "4.8",
+     "printedLabel": "4.8",
+     "section": "4.3",
+     "codes": [
+      "AA SL 2.9"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "4.9",
+     "printedLabel": "4.9",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "4.10",
+     "printedLabel": "4.10",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "4.11",
+     "printedLabel": "4.11",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "4.12",
+     "printedLabel": "4.12",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "4.13",
+     "printedLabel": "4.13",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "4.14",
+     "printedLabel": "4.14",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "4.15",
+     "printedLabel": "4.15",
+     "section": "4.4",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.9"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "4.16",
+     "printedLabel": "4.16",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "4.17",
+     "printedLabel": "4.17",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex17_q_review.webp",
+     "w": "ex17_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "4.18",
+     "printedLabel": "4.18",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "4.19",
+     "printedLabel": "4.19",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "4.20",
+     "printedLabel": "4.20",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "4.21",
+     "printedLabel": "4.21",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "4.22",
+     "printedLabel": "4.22",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex22_q_review.webp",
+     "w": "ex22_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "4.23",
+     "printedLabel": "4.23",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "4.24",
+     "printedLabel": "4.24",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "4.25",
+     "printedLabel": "4.25",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "4.26",
+     "printedLabel": "4.26",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "4.27",
+     "printedLabel": "4.27",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex27_q_review.webp",
+     "w": "ex27_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "4.28",
+     "printedLabel": "4.28",
+     "section": "4.5",
+     "codes": [
+      "AA SL 1.7",
+      "AA SL 2.10"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch04"
+  },
+  {
+   "id": "PE-AA-HL_ch05",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 5,
+   "title": "Proofs",
+   "scan_dir": "chapters/PE-AA-HL_ch05/scan",
+   "sections": [
+    {
+     "id": "5.1",
+     "title": "Basic laws and simple proofs"
+    },
+    {
+     "id": "5.2",
+     "title": "Direct proofs"
+    },
+    {
+     "id": "5.3",
+     "title": "Indirect proofs"
+    },
+    {
+     "id": "5.4",
+     "title": "Mathematical induction"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "5.1",
+     "printedLabel": "5.1",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "5.2",
+     "printedLabel": "5.2",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "5.3",
+     "printedLabel": "5.3",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "5.4",
+     "printedLabel": "5.4",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex04_q_narrative.webp",
+     "w": "ex04_w_narrative.webp",
+     "qw": 66.96,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5.5",
+     "printedLabel": "5.5",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "5.6",
+     "printedLabel": "5.6",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex06_q_narrative.webp",
+     "w": "ex06_w_narrative.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "5.7",
+     "printedLabel": "5.7",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_bars.webp",
+     "qw": 79.35,
+     "ww": 32.09,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "5.8",
+     "printedLabel": "5.8",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "5.9",
+     "printedLabel": "5.9",
+     "section": "5.1",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex09_q_narrative.webp",
+     "w": "ex09_w_narrative.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "5.10",
+     "printedLabel": "5.10",
+     "section": "5.2",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex10_q_review.webp",
+     "w": "ex10_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "5.11",
+     "printedLabel": "5.11",
+     "section": "5.2",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "5.12",
+     "printedLabel": "5.12",
+     "section": "5.2",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "5.13",
+     "printedLabel": "5.13",
+     "section": "5.2",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "5.14",
+     "printedLabel": "5.14",
+     "section": "5.2",
+     "codes": [
+      "AA SL 1.6"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "5.15",
+     "printedLabel": "5.15",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "5.16",
+     "printedLabel": "5.16",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "5.17",
+     "printedLabel": "5.17",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "5.18",
+     "printedLabel": "5.18",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex18_q_review.webp",
+     "w": "ex18_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "5.19",
+     "printedLabel": "5.19",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "5.20",
+     "printedLabel": "5.20",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "5.21",
+     "printedLabel": "5.21",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "5.22",
+     "printedLabel": "5.22",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "5.23",
+     "printedLabel": "5.23",
+     "section": "5.3",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "5.24",
+     "printedLabel": "5.24",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex24_q_review.webp",
+     "w": "ex24_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "5.25",
+     "printedLabel": "5.25",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex25_q_review.webp",
+     "w": "ex25_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "5.26",
+     "printedLabel": "5.26",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex26_q_review.webp",
+     "w": "ex26_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "5.27",
+     "printedLabel": "5.27",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "5.28",
+     "printedLabel": "5.28",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex28_q_review.webp",
+     "w": "ex28_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "5.29",
+     "printedLabel": "5.29",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "5.30",
+     "printedLabel": "5.30",
+     "section": "5.4",
+     "codes": [
+      "AA AHL 1.15"
+     ],
+     "q": "ex30_q_review.webp",
+     "w": "ex30_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch05"
+  },
+  {
+   "id": "PE-AA-HL_ch06",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 6,
+   "title": "Trigonometric functions and equations",
+   "scan_dir": "chapters/PE-AA-HL_ch06/scan",
+   "sections": [
+    {
+     "id": "6.1",
+     "title": "Angles, circles, arcs and sectors"
+    },
+    {
+     "id": "6.2",
+     "title": "The unit circle and trigonometric functions"
+    },
+    {
+     "id": "6.3",
+     "title": "Graphs of trigonometric functions"
+    },
+    {
+     "id": "6.4",
+     "title": "Trigonometric equations"
+    },
+    {
+     "id": "6.5",
+     "title": "Trigonometric identities"
+    },
+    {
+     "id": "6.6",
+     "title": "Inverse trigonometric functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "6.1",
+     "printedLabel": "6.1",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex01_q_review.webp",
+     "w": "ex01_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "6.2",
+     "printedLabel": "6.2",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "6.3",
+     "printedLabel": "6.3",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex03_q_review.webp",
+     "w": "ex03_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "6.4",
+     "printedLabel": "6.4",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "6.5",
+     "printedLabel": "6.5",
+     "section": "6.1",
+     "codes": [
+      "AA SL 3.4"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6.6",
+     "printedLabel": "6.6",
+     "section": "6.2",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex06_q_review.webp",
+     "w": "ex06_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "6.7",
+     "printedLabel": "6.7",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "6.8",
+     "printedLabel": "6.8",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "6.9",
+     "printedLabel": "6.9",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "6.10",
+     "printedLabel": "6.10",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "6.11",
+     "printedLabel": "6.11",
+     "section": "6.3",
+     "codes": [
+      "AA SL 3.7"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "6.12",
+     "printedLabel": "6.12",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "6.13",
+     "printedLabel": "6.13",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex13_q_review.webp",
+     "w": "ex13_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "6.14",
+     "printedLabel": "6.14",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "6.15",
+     "printedLabel": "6.15",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex15_q_review.webp",
+     "w": "ex15_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "6.16",
+     "printedLabel": "6.16",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "6.17",
+     "printedLabel": "6.17",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex17_q_review.webp",
+     "w": "ex17_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "6.18",
+     "printedLabel": "6.18",
+     "section": "6.4",
+     "codes": [
+      "AA SL 3.8",
+      "AA AHL 3.11"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "6.19",
+     "printedLabel": "6.19",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex19_q_review.webp",
+     "w": "ex19_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "6.20",
+     "printedLabel": "6.20",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "6.21",
+     "printedLabel": "6.21",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "6.22",
+     "printedLabel": "6.22",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "6.23",
+     "printedLabel": "6.23",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "6.24",
+     "printedLabel": "6.24",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "6.25",
+     "printedLabel": "6.25",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex25_q_review.webp",
+     "w": "ex25_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "6.26",
+     "printedLabel": "6.26",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "6.27",
+     "printedLabel": "6.27",
+     "section": "6.5",
+     "codes": [
+      "AA SL 3.6",
+      "AA AHL 3.9",
+      "AA AHL 3.10"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "6.28",
+     "printedLabel": "6.28",
+     "section": "6.6",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex28_q_review.webp",
+     "w": "ex28_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "6.29",
+     "printedLabel": "6.29",
+     "section": "6.6",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "6.30",
+     "printedLabel": "6.30",
+     "section": "6.6",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "6.31",
+     "printedLabel": "6.31",
+     "section": "6.6",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex31_q_review.webp",
+     "w": "ex31_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "6.32",
+     "printedLabel": "6.32",
+     "section": "6.6",
+     "codes": [
+      "AA AHL 3.9"
+     ],
+     "q": "ex32_q_final.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch06"
+  },
+  {
+   "id": "PE-AA-HL_ch07",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 7,
+   "title": "Geometry and trigonometry",
+   "scan_dir": "chapters/PE-AA-HL_ch07/scan",
+   "sections": [
+    {
+     "id": "7.1",
+     "title": "Measurements in three dimensions"
+    },
+    {
+     "id": "7.2",
+     "title": "Right-angled triangles and trigonometric functions of acute angles",
+     "printedLabel": ""
+    },
+    {
+     "id": "7.3",
+     "title": "Trigonometric functions of any angle"
+    },
+    {
+     "id": "7.4",
+     "title": "The sine rule and the cosine rule"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "7.1",
+     "printedLabel": "7.1",
+     "section": "7.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "7.2",
+     "printedLabel": "7.2",
+     "section": "7.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "7.3",
+     "printedLabel": "7.3",
+     "section": "7.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex03_q_review.webp",
+     "w": "ex03_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "7.4",
+     "printedLabel": "7.4",
+     "section": "7.1",
+     "codes": [
+      "AA SL 3.1"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "7.5",
+     "printedLabel": "7.5",
+     "section": "7.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "7.6",
+     "printedLabel": "7.6",
+     "section": "7.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex06_q_review.webp",
+     "w": "ex06_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7.7",
+     "printedLabel": "7.7",
+     "section": "7.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "7.8",
+     "printedLabel": "7.8",
+     "section": "7.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "7.9",
+     "printedLabel": "7.9",
+     "section": "7.2",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "7.10",
+     "printedLabel": "7.10",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "7.11",
+     "printedLabel": "7.11",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex11_q_review.webp",
+     "w": "ex11_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "7.12",
+     "printedLabel": "7.12",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "7.13",
+     "printedLabel": "7.13",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "7.14",
+     "printedLabel": "7.14",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex14_q_review.webp",
+     "w": "ex14_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "7.15",
+     "printedLabel": "7.15",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex15_q_review2.webp",
+     "w": "ex15_w_review2.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "7.16",
+     "printedLabel": "7.16",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "7.17",
+     "printedLabel": "7.17",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "7.18",
+     "printedLabel": "7.18",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "7.19",
+     "printedLabel": "7.19",
+     "section": "7.3",
+     "codes": [
+      "AA SL 3.5"
+     ],
+     "q": "ex19_q_review.webp",
+     "w": "ex19_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "7.20",
+     "printedLabel": "7.20",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex20_q_review.webp",
+     "w": "ex20_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "7.21",
+     "printedLabel": "7.21",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "7.22",
+     "printedLabel": "7.22",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "7.23",
+     "printedLabel": "7.23",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex23_q_review2.webp",
+     "w": "ex23_w_review2.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "7.24",
+     "printedLabel": "7.24",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "7.25",
+     "printedLabel": "7.25",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex25_q_review.webp",
+     "w": "ex25_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "7.26",
+     "printedLabel": "7.26",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "7.27",
+     "printedLabel": "7.27",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex27_q_review.webp",
+     "w": "ex27_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "7.28",
+     "printedLabel": "7.28",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "7.29",
+     "printedLabel": "7.29",
+     "section": "7.4",
+     "codes": [
+      "AA SL 3.2",
+      "AA SL 3.3"
+     ],
+     "q": "ex29_q_review2.webp",
+     "w": "ex29_w_review2.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch07"
+  },
+  {
+   "id": "PE-AA-HL_ch08",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 8,
+   "title": "Complex numbers",
+   "scan_dir": "chapters/PE-AA-HL_ch08/scan",
+   "sections": [
+    {
+     "id": "8.1",
+     "title": "Complex numbers"
+    },
+    {
+     "id": "8.2",
+     "title": "The complex plane"
+    },
+    {
+     "id": "8.3",
+     "title": "Powers and roots of complex numbers"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "8.1",
+     "printedLabel": "8.1",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "8.2",
+     "printedLabel": "8.2",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "8.3",
+     "printedLabel": "8.3",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex03_q_review.webp",
+     "w": "ex03_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "8.4",
+     "printedLabel": "8.4",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "8.5",
+     "printedLabel": "8.5",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "8.6",
+     "printedLabel": "8.6",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex06_q_review.webp",
+     "w": "ex06_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "8.7",
+     "printedLabel": "8.7",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8.8",
+     "printedLabel": "8.8",
+     "section": "8.1",
+     "codes": [
+      "AA AHL 1.12"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "8.9",
+     "printedLabel": "8.9",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "8.10",
+     "printedLabel": "8.10",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "8.11",
+     "printedLabel": "8.11",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "8.12",
+     "printedLabel": "8.12",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "8.13",
+     "printedLabel": "8.13",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "8.14",
+     "printedLabel": "8.14",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.67,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "8.15",
+     "printedLabel": "8.15",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex15_q_review.webp",
+     "w": "ex15_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "8.16",
+     "printedLabel": "8.16",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "8.17",
+     "printedLabel": "8.17",
+     "section": "8.2",
+     "codes": [
+      "AA AHL 1.12",
+      "AA AHL 1.13"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "8.18",
+     "printedLabel": "8.18",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "8.19",
+     "printedLabel": "8.19",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "8.20",
+     "printedLabel": "8.20",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "8.21",
+     "printedLabel": "8.21",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "8.22",
+     "printedLabel": "8.22",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "8.23",
+     "printedLabel": "8.23",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "8.24",
+     "printedLabel": "8.24",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "8.25",
+     "printedLabel": "8.25",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "8.26",
+     "printedLabel": "8.26",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "8.27",
+     "printedLabel": "8.27",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "8.28",
+     "printedLabel": "8.28",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "8.29",
+     "printedLabel": "8.29",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "8.30",
+     "printedLabel": "8.30",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "8.31",
+     "printedLabel": "8.31",
+     "section": "8.3",
+     "codes": [
+      "AA AHL 1.14"
+     ],
+     "q": "ex31_q_review.webp",
+     "w": "ex31_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch08"
+  },
+  {
+   "id": "PE-AA-HL_ch09",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 9,
+   "title": "Vectors, lines, and planes",
+   "scan_dir": "chapters/PE-AA-HL_ch09/scan",
+   "sections": [
+    {
+     "id": "9.1",
+     "title": "Vectors from a geometric viewpoint"
+    },
+    {
+     "id": "9.2",
+     "title": "Scalar (dot) product"
+    },
+    {
+     "id": "9.3",
+     "title": "Vector (cross) product"
+    },
+    {
+     "id": "9.4a",
+     "title": "Lines in space",
+     "printedLabel": "9.4"
+    },
+    {
+     "id": "9.4b",
+     "title": "Planes",
+     "printedLabel": "9.4"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "9.1",
+     "printedLabel": "9.1",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "9.2",
+     "printedLabel": "9.2",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "9.3",
+     "printedLabel": "9.3",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "9.4",
+     "printedLabel": "9.4",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "9.5",
+     "printedLabel": "9.5",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "9.6",
+     "printedLabel": "9.6",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "9.7",
+     "printedLabel": "9.7",
+     "section": "9.1",
+     "codes": [
+      "AA AHL 3.12"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "9.8",
+     "printedLabel": "9.8",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9.9",
+     "printedLabel": "9.9",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "9.10",
+     "printedLabel": "9.10",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "9.11",
+     "printedLabel": "9.11",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "9.12",
+     "printedLabel": "9.12",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "9.13",
+     "printedLabel": "9.13",
+     "section": "9.2",
+     "codes": [
+      "AA AHL 3.13"
+     ],
+     "q": "ex13_q_review.webp",
+     "w": "ex13_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "9.14",
+     "printedLabel": "9.14",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "9.15",
+     "printedLabel": "9.15",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "9.16",
+     "printedLabel": "9.16",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "9.17",
+     "printedLabel": "9.17",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "9.18",
+     "printedLabel": "9.18",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "9.19",
+     "printedLabel": "9.19",
+     "section": "9.3",
+     "codes": [
+      "AA AHL 3.16"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "9.20",
+     "printedLabel": "9.20",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "9.21",
+     "printedLabel": "9.21",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "9.22",
+     "printedLabel": "9.22",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "9.23",
+     "printedLabel": "9.23",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "9.24",
+     "printedLabel": "9.24",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "9.25",
+     "printedLabel": "9.25",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "9.26",
+     "printedLabel": "9.26",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "9.27",
+     "printedLabel": "9.27",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "9.28",
+     "printedLabel": "9.28",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "9.29",
+     "printedLabel": "9.29",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "9.30",
+     "printedLabel": "9.30",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "9.31",
+     "printedLabel": "9.31",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "9.32",
+     "printedLabel": "9.32",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex32_q_final.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "9.33",
+     "printedLabel": "9.33",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex33_q_final.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "9.34",
+     "printedLabel": "9.34",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex34_q_final.webp",
+     "w": "ex34_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "9.35",
+     "printedLabel": "9.35",
+     "section": "9.4a",
+     "codes": [
+      "AA AHL 3.14",
+      "AA AHL 3.15"
+     ],
+     "q": "ex35_q_final.webp",
+     "w": "ex35_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "9.36",
+     "printedLabel": "9.36",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex36_q_final.webp",
+     "w": "ex36_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "9.37",
+     "printedLabel": "9.37",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex37_q_final.webp",
+     "w": "ex37_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "9.38",
+     "printedLabel": "9.38",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex38_q_final.webp",
+     "w": "ex38_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 39,
+     "label": "9.39",
+     "printedLabel": "9.39",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex39_q_review.webp",
+     "w": "ex39_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 40,
+     "label": "9.40",
+     "printedLabel": "9.40",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex40_q_final.webp",
+     "w": "ex40_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 41,
+     "label": "9.41",
+     "printedLabel": "9.41",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex41_q_final.webp",
+     "w": "ex41_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 42,
+     "label": "9.42",
+     "printedLabel": "9.42",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex42_q_review.webp",
+     "w": "ex42_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 43,
+     "label": "9.43",
+     "printedLabel": "9.43",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex43_q_review.webp",
+     "w": "ex43_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 44,
+     "label": "9.44",
+     "printedLabel": "9.44",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex44_q_final.webp",
+     "w": "ex44_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 45,
+     "label": "9.45",
+     "printedLabel": "9.45",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex45_q_final.webp",
+     "w": "ex45_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 46,
+     "label": "9.46",
+     "printedLabel": "9.46",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex46_q_final.webp",
+     "w": "ex46_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 47,
+     "label": "9.47",
+     "printedLabel": "9.47",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex47_q_final.webp",
+     "w": "ex47_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 48,
+     "label": "9.48",
+     "printedLabel": "9.48",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex48_q_final.webp",
+     "w": "ex48_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 49,
+     "label": "9.49",
+     "printedLabel": "9.49",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex49_q_final.webp",
+     "w": "ex49_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 50,
+     "label": "9.50",
+     "printedLabel": "9.50",
+     "section": "9.4b",
+     "codes": [
+      "AA AHL 3.17",
+      "AA AHL 3.18"
+     ],
+     "q": "ex50_q_final.webp",
+     "w": "ex50_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch09"
+  },
+  {
+   "id": "PE-AA-HL_ch10",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 10,
+   "title": "Statistics",
+   "scan_dir": "chapters/PE-AA-HL_ch10/scan",
+   "sections": [
+    {
+     "id": "10.1",
+     "title": "Graphical tools"
+    },
+    {
+     "id": "10.2",
+     "title": "Measures of central tendency"
+    },
+    {
+     "id": "10.3",
+     "title": "Measures of variability"
+    },
+    {
+     "id": "10.4",
+     "title": "Linear regression"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "10.1",
+     "printedLabel": "10.1",
+     "section": "10.1",
+     "codes": [
+      "AA SL 4.2"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "10.2",
+     "printedLabel": "10.2",
+     "section": "10.2",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "10.3",
+     "printedLabel": "10.3",
+     "section": "10.2",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex03_q_review.webp",
+     "w": "ex03_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "10.4",
+     "printedLabel": "10.4",
+     "section": "10.3",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "10.5",
+     "printedLabel": "10.5",
+     "section": "10.3",
+     "codes": [
+      "AA SL 4.3"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "10.6",
+     "printedLabel": "10.6",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex06_q_narrative.webp",
+     "w": "ex06_w_narrative.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "10.7",
+     "printedLabel": "10.7",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "10.8",
+     "printedLabel": "10.8",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "10.9",
+     "printedLabel": "10.9",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex09_q_narrative.webp",
+     "w": "ex09_w_narrative.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10.10",
+     "printedLabel": "10.10",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "10.11",
+     "printedLabel": "10.11",
+     "section": "10.4",
+     "codes": [
+      "AA SL 4.4"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch10"
+  },
+  {
+   "id": "PE-AA-HL_ch11",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 11,
+   "title": "Probability",
+   "scan_dir": "chapters/PE-AA-HL_ch11/scan",
+   "sections": [
+    {
+     "id": "11.1",
+     "title": "Randomness and probability"
+    },
+    {
+     "id": "11.2",
+     "title": "Probability assignments"
+    },
+    {
+     "id": "11.3",
+     "title": "Operations with events"
+    },
+    {
+     "id": "11.4",
+     "title": "Bayes’ theorem"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "11.1",
+     "printedLabel": "11.1",
+     "section": "11.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "11.2",
+     "printedLabel": "11.2",
+     "section": "11.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "11.3",
+     "printedLabel": "11.3",
+     "section": "11.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "11.4",
+     "printedLabel": "11.4",
+     "section": "11.1",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "11.5",
+     "printedLabel": "11.5",
+     "section": "11.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "11.6",
+     "printedLabel": "11.6",
+     "section": "11.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "11.7",
+     "printedLabel": "11.7",
+     "section": "11.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "11.8",
+     "printedLabel": "11.8",
+     "section": "11.2",
+     "codes": [
+      "AA SL 4.5"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "11.9",
+     "printedLabel": "11.9",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "11.10",
+     "printedLabel": "11.10",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11.11",
+     "printedLabel": "11.11",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "11.12",
+     "printedLabel": "11.12",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "11.13",
+     "printedLabel": "11.13",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "11.14",
+     "printedLabel": "11.14",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "11.15",
+     "printedLabel": "11.15",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex15_q_final_edge.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "11.16",
+     "printedLabel": "11.16",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "11.17",
+     "printedLabel": "11.17",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "11.18",
+     "printedLabel": "11.18",
+     "section": "11.3",
+     "codes": [
+      "AA SL 4.6",
+      "AA SL 4.11"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "11.19",
+     "printedLabel": "11.19",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "11.20",
+     "printedLabel": "11.20",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex20_q_review.webp",
+     "w": "ex20_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "11.21",
+     "printedLabel": "11.21",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "11.22",
+     "printedLabel": "11.22",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "11.23",
+     "printedLabel": "11.23",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "11.24",
+     "printedLabel": "11.24",
+     "section": "11.4",
+     "codes": [
+      "AA AHL 4.13"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch11"
+  },
+  {
+   "id": "PE-AA-HL_ch12",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 12,
+   "title": "Differential calculus 1",
+   "scan_dir": "chapters/PE-AA-HL_ch12/scan",
+   "sections": [
+    {
+     "id": "12.1",
+     "title": "Limits of functions"
+    },
+    {
+     "id": "12.2",
+     "title": "The derivative of a function: definition and basic rules"
+    },
+    {
+     "id": "12.3",
+     "title": "Maxima and minima: first and second derivatives"
+    },
+    {
+     "id": "12.4",
+     "title": "Tangents and normals"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "12.1",
+     "printedLabel": "12.1",
+     "section": "12.1",
+     "codes": [
+      "AA SL 5.1",
+      "AA AHL 5.12"
+     ],
+     "q": "ex01_q_review.webp",
+     "w": "ex01_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "12.2",
+     "printedLabel": "12.2",
+     "section": "12.1",
+     "codes": [
+      "AA SL 5.1",
+      "AA AHL 5.12"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "12.3",
+     "printedLabel": "12.3",
+     "section": "12.1",
+     "codes": [
+      "AA SL 5.1",
+      "AA AHL 5.12"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "12.4",
+     "printedLabel": "12.4",
+     "section": "12.1",
+     "codes": [
+      "AA SL 5.1",
+      "AA AHL 5.12"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "12.5",
+     "printedLabel": "12.5",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "12.6",
+     "printedLabel": "12.6",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "12.7",
+     "printedLabel": "12.7",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "12.8",
+     "printedLabel": "12.8",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex08_q_review.webp",
+     "w": "ex08_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "12.9",
+     "printedLabel": "12.9",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "12.10",
+     "printedLabel": "12.10",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "12.11",
+     "printedLabel": "12.11",
+     "section": "12.2",
+     "codes": [
+      "AA SL 5.1",
+      "AA SL 5.3",
+      "AA AHL 5.12"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12.12",
+     "printedLabel": "12.12",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "12.13",
+     "printedLabel": "12.13",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "12.14",
+     "printedLabel": "12.14",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "12.15",
+     "printedLabel": "12.15",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "12.16",
+     "printedLabel": "12.16",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "12.17",
+     "printedLabel": "12.17",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex17_q_review.webp",
+     "w": "ex17_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "12.18",
+     "printedLabel": "12.18",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex18_q_review.webp",
+     "w": "ex18_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "12.19",
+     "printedLabel": "12.19",
+     "section": "12.3",
+     "codes": [
+      "AA SL 5.2",
+      "AA SL 5.7",
+      "AA SL 5.8",
+      "AA SL 5.9"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "12.20",
+     "printedLabel": "12.20",
+     "section": "12.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "12.21",
+     "printedLabel": "12.21",
+     "section": "12.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "12.22",
+     "printedLabel": "12.22",
+     "section": "12.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex22_q_review.webp",
+     "w": "ex22_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "12.23",
+     "printedLabel": "12.23",
+     "section": "12.4",
+     "codes": [
+      "AA SL 5.4"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch12"
+  },
+  {
+   "id": "PE-AA-HL_ch13",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 13,
+   "title": "Differential calculus 2",
+   "scan_dir": "chapters/PE-AA-HL_ch13/scan",
+   "sections": [
+    {
+     "id": "13.1",
+     "title": "Derivatives of composite functions, products and quotients"
+    },
+    {
+     "id": "13.2",
+     "title": "Derivatives of trigonometric and exponential functions"
+    },
+    {
+     "id": "13.3",
+     "title": "Implicit differentiation, logarithmic functions and inverse trigonometric functions"
+    },
+    {
+     "id": "13.4",
+     "title": "Related rates"
+    },
+    {
+     "id": "13.5",
+     "title": "Optimisation"
+    },
+    {
+     "id": "13.6",
+     "title": "l’Hôpital’s rule"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "13.1",
+     "printedLabel": "13.1",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "13.2",
+     "printedLabel": "13.2",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "13.3",
+     "printedLabel": "13.3",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "13.4",
+     "printedLabel": "13.4",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "13.5",
+     "printedLabel": "13.5",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "13.6",
+     "printedLabel": "13.6",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex06_q_review.webp",
+     "w": "ex06_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "13.7",
+     "printedLabel": "13.7",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "13.8",
+     "printedLabel": "13.8",
+     "section": "13.1",
+     "codes": [
+      "AA SL 5.6"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "13.9",
+     "printedLabel": "13.9",
+     "section": "13.2",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "13.10",
+     "printedLabel": "13.10",
+     "section": "13.2",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 90.51,
+     "ww": 90.51,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "13.11",
+     "printedLabel": "13.11",
+     "section": "13.2",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "13.12",
+     "printedLabel": "13.12",
+     "section": "13.2",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "13.13",
+     "printedLabel": "13.13",
+     "section": "13.2",
+     "codes": [
+      "AA SL 5.6",
+      "AA AHL 5.15"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "13.14",
+     "printedLabel": "13.14",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex14_q_review.webp",
+     "w": "ex14_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "13.15",
+     "printedLabel": "13.15",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "13.16",
+     "printedLabel": "13.16",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex16_q_review.webp",
+     "w": "ex16_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "13.17",
+     "printedLabel": "13.17",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex17_q_review.webp",
+     "w": "ex17_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "13.18",
+     "printedLabel": "13.18",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "13.19",
+     "printedLabel": "13.19",
+     "section": "13.3",
+     "codes": [
+      "AA AHL 5.14",
+      "AA AHL 5.15"
+     ],
+     "q": "ex19_q_review.webp",
+     "w": "ex19_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "13.20",
+     "printedLabel": "13.20",
+     "section": "13.4",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex20_q_review.webp",
+     "w": "ex20_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "13.21",
+     "printedLabel": "13.21",
+     "section": "13.4",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex21_q_review.webp",
+     "w": "ex21_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "13.22",
+     "printedLabel": "13.22",
+     "section": "13.4",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex22_q_review_edge.webp",
+     "w": "ex22_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "13.23",
+     "printedLabel": "13.23",
+     "section": "13.4",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex23_q_review.webp",
+     "w": "ex23_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "13.24",
+     "printedLabel": "13.24",
+     "section": "13.4",
+     "codes": [
+      "AA AHL 5.14"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "13.25",
+     "printedLabel": "13.25",
+     "section": "13.5",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "13.26",
+     "printedLabel": "13.26",
+     "section": "13.5",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex26_q_review.webp",
+     "w": "ex26_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "13.27",
+     "printedLabel": "13.27",
+     "section": "13.5",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex27_q_review.webp",
+     "w": "ex27_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "13.28",
+     "printedLabel": "13.28",
+     "section": "13.5",
+     "codes": [
+      "AA SL 5.8"
+     ],
+     "q": "ex28_q_review.webp",
+     "w": "ex28_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "13.29",
+     "printedLabel": "13.29",
+     "section": "13.6",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex29_q_review.webp",
+     "w": "ex29_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "13.30",
+     "printedLabel": "13.30",
+     "section": "13.6",
+     "codes": [
+      "AA AHL 5.13"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch13"
+  },
+  {
+   "id": "PE-AA-HL_ch14",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 14,
+   "title": "Integral calculus 1",
+   "scan_dir": "chapters/PE-AA-HL_ch14/scan",
+   "sections": [
+    {
+     "id": "14.1",
+     "title": "Antiderivative"
+    },
+    {
+     "id": "14.2",
+     "title": "Integration by parts"
+    },
+    {
+     "id": "14.3",
+     "title": "More methods of integration"
+    },
+    {
+     "id": "14.4",
+     "title": "Area and the definite integral"
+    },
+    {
+     "id": "14.5",
+     "title": "Integration by method of partial fractions"
+    },
+    {
+     "id": "14.6",
+     "title": "Areas"
+    },
+    {
+     "id": "14.7",
+     "title": "Volumes with integrals"
+    },
+    {
+     "id": "14.8",
+     "title": "Modelling linear motion"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "14.1",
+     "printedLabel": "14.1",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "14.2",
+     "printedLabel": "14.2",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex02_q_final.webp",
+     "w": "ex02_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "14.3",
+     "printedLabel": "14.3",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "14.4",
+     "printedLabel": "14.4",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "14.5",
+     "printedLabel": "14.5",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "14.6",
+     "printedLabel": "14.6",
+     "section": "14.1",
+     "codes": [
+      "AA SL 5.5"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "14.7",
+     "printedLabel": "14.7",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "14.8",
+     "printedLabel": "14.8",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "14.9",
+     "printedLabel": "14.9",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "14.10",
+     "printedLabel": "14.10",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "14.11",
+     "printedLabel": "14.11",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "14.12",
+     "printedLabel": "14.12",
+     "section": "14.2",
+     "codes": [
+      "AA AHL 5.16"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "14.13",
+     "printedLabel": "14.13",
+     "section": "14.3",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.15",
+      "AA AHL 5.16"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "14.14",
+     "printedLabel": "14.14",
+     "section": "14.3",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.15",
+      "AA AHL 5.16"
+     ],
+     "q": "ex14_q_final.webp",
+     "w": "ex14_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "14.15",
+     "printedLabel": "14.15",
+     "section": "14.3",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.15",
+      "AA AHL 5.16"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "14.16",
+     "printedLabel": "14.16",
+     "section": "14.3",
+     "codes": [
+      "AA SL 5.10",
+      "AA AHL 5.15",
+      "AA AHL 5.16"
+     ],
+     "q": "ex16_q_review.webp",
+     "w": "ex16_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "14.17",
+     "printedLabel": "14.17",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "14.18",
+     "printedLabel": "14.18",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "14.19",
+     "printedLabel": "14.19",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "14.20",
+     "printedLabel": "14.20",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "14.21",
+     "printedLabel": "14.21",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "14.22",
+     "printedLabel": "14.22",
+     "section": "14.4",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "14.23",
+     "printedLabel": "14.23",
+     "section": "14.5",
+     "codes": [
+      "AA AHL 1.11",
+      "AA AHL 5.15"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "14.24",
+     "printedLabel": "14.24",
+     "section": "14.5",
+     "codes": [
+      "AA AHL 1.11",
+      "AA AHL 5.15"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "14.25",
+     "printedLabel": "14.25",
+     "section": "14.5",
+     "codes": [
+      "AA AHL 1.11",
+      "AA AHL 5.15"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "14.26",
+     "printedLabel": "14.26",
+     "section": "14.6",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex26_q_review.webp",
+     "w": "ex26_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "14.27",
+     "printedLabel": "14.27",
+     "section": "14.6",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex27_q_review.webp",
+     "w": "ex27_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "14.28",
+     "printedLabel": "14.28",
+     "section": "14.6",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "14.29",
+     "printedLabel": "14.29",
+     "section": "14.6",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "14.30",
+     "printedLabel": "14.30",
+     "section": "14.6",
+     "codes": [
+      "AA SL 5.11"
+     ],
+     "q": "ex30_q_review.webp",
+     "w": "ex30_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "14.31",
+     "printedLabel": "14.31",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "14.32",
+     "printedLabel": "14.32",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex32_q_final.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "14.33",
+     "printedLabel": "14.33",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex33_q_final.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "14.34",
+     "printedLabel": "14.34",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex34_q_final.webp",
+     "w": "ex34_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "14.35",
+     "printedLabel": "14.35",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex35_q_final.webp",
+     "w": "ex35_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "14.36",
+     "printedLabel": "14.36",
+     "section": "14.7",
+     "codes": [
+      "AA AHL 5.17"
+     ],
+     "q": "ex36_q_final.webp",
+     "w": "ex36_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "14.37",
+     "printedLabel": "14.37",
+     "section": "14.8",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex37_q_final.webp",
+     "w": "ex37_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "14.38",
+     "printedLabel": "14.38",
+     "section": "14.8",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex38_q_review.webp",
+     "w": "ex38_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 39,
+     "label": "14.39",
+     "printedLabel": "14.39",
+     "section": "14.8",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex39_q_review.webp",
+     "w": "ex39_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 40,
+     "label": "14.40",
+     "printedLabel": "14.40",
+     "section": "14.8",
+     "codes": [
+      "AA SL 5.9"
+     ],
+     "q": "ex40_q_final.webp",
+     "w": "ex40_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch14"
+  },
+  {
+   "id": "PE-AA-HL_ch15",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 15,
+   "title": "Probability distributions",
+   "scan_dir": "chapters/PE-AA-HL_ch15/scan",
+   "sections": [
+    {
+     "id": "15.1",
+     "title": "Random variables"
+    },
+    {
+     "id": "15.2",
+     "title": "The binomial distribution"
+    },
+    {
+     "id": "15.3",
+     "title": "Continuous distributions"
+    },
+    {
+     "id": "15.4",
+     "title": "The normal distribution"
+    },
+    {
+     "id": "15.5",
+     "title": "Expectation algebra"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "15.1",
+     "printedLabel": "15.1",
+     "section": "15.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "15.2",
+     "printedLabel": "15.2",
+     "section": "15.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "15.3",
+     "printedLabel": "15.3",
+     "section": "15.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "15.4",
+     "printedLabel": "15.4",
+     "section": "15.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex04_q_final.webp",
+     "w": "ex04_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "15.5",
+     "printedLabel": "15.5",
+     "section": "15.1",
+     "codes": [
+      "AA SL 4.7"
+     ],
+     "q": "ex05_q_review.webp",
+     "w": "ex05_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "15.6",
+     "printedLabel": "15.6",
+     "section": "15.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex06_q_review.webp",
+     "w": "ex06_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "15.7",
+     "printedLabel": "15.7",
+     "section": "15.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex07_q_review.webp",
+     "w": "ex07_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "15.8",
+     "printedLabel": "15.8",
+     "section": "15.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex08_q_review.webp",
+     "w": "ex08_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "15.9",
+     "printedLabel": "15.9",
+     "section": "15.2",
+     "codes": [
+      "AA SL 4.8"
+     ],
+     "q": "ex09_q_review.webp",
+     "w": "ex09_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "15.10",
+     "printedLabel": "15.10",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex10_q_review.webp",
+     "w": "ex10_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "15.11",
+     "printedLabel": "15.11",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "15.12",
+     "printedLabel": "15.12",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex12_q_review.webp",
+     "w": "ex12_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "15.13",
+     "printedLabel": "15.13",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex13_q_review_edge.webp",
+     "w": "ex13_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "15.14",
+     "printedLabel": "15.14",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex14_q_review.webp",
+     "w": "ex14_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "15.15",
+     "printedLabel": "15.15",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex15_q_review.webp",
+     "w": "ex15_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "15.16",
+     "printedLabel": "15.16",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "15.17",
+     "printedLabel": "15.17",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "15.18",
+     "printedLabel": "15.18",
+     "section": "15.3",
+     "codes": [
+      "AA AHL 4.14"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "15.19",
+     "printedLabel": "15.19",
+     "section": "15.4",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "15.20",
+     "printedLabel": "15.20",
+     "section": "15.4",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex20_q_review.webp",
+     "w": "ex20_w_review.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "15.21",
+     "printedLabel": "15.21",
+     "section": "15.4",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex21_q_review.webp",
+     "w": "ex21_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "15.22",
+     "printedLabel": "15.22",
+     "section": "15.4",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex22_q_review.webp",
+     "w": "ex22_w_review.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "15.23",
+     "printedLabel": "15.23",
+     "section": "15.4",
+     "codes": [
+      "AA SL 4.9",
+      "AA SL 4.12"
+     ],
+     "q": "ex23_q_final.webp",
+     "w": "ex23_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "15.24",
+     "printedLabel": "15.24",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex24_q_final.webp",
+     "w": "ex24_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "15.25",
+     "printedLabel": "15.25",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "15.26",
+     "printedLabel": "15.26",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.59,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "15.27",
+     "printedLabel": "15.27",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 94.65,
+     "ww": 94.65,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "15.28",
+     "printedLabel": "15.28",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "15.29",
+     "printedLabel": "15.29",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "15.30",
+     "printedLabel": "15.30",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "15.31",
+     "printedLabel": "15.31",
+     "section": "15.5",
+     "codes": [
+      "AA SL 4.7",
+      "AA AHL 4.14"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch15"
+  },
+  {
+   "id": "PE-AA-HL_ch16",
+   "book": "Pearson Analysis and Approaches HL",
+   "bookShort": "Pearson AA HL",
+   "chapter": 16,
+   "title": "Integral calculus 2",
+   "scan_dir": "chapters/PE-AA-HL_ch16/scan",
+   "sections": [
+    {
+     "id": "16.1",
+     "title": "Differential equations"
+    },
+    {
+     "id": "16.2",
+     "title": "First order linear differential equations - use of integrating factor"
+    },
+    {
+     "id": "16.3",
+     "title": "Numerical solutions: Euler’s method"
+    },
+    {
+     "id": "16.4",
+     "title": "Power series: Maclaurin’s series"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "16.1",
+     "printedLabel": "16.1",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex01_q_final.webp",
+     "w": "ex01_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "16.2",
+     "printedLabel": "16.2",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex02_q_review.webp",
+     "w": "ex02_w_bars.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "16.3",
+     "printedLabel": "16.3",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex03_q_final.webp",
+     "w": "ex03_w_final.webp",
+     "qw": 79.45,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "16.4",
+     "printedLabel": "16.4",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex04_q_review.webp",
+     "w": "ex04_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "16.5",
+     "printedLabel": "16.5",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex05_q_final.webp",
+     "w": "ex05_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "16.6",
+     "printedLabel": "16.6",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex06_q_final.webp",
+     "w": "ex06_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "16.7",
+     "printedLabel": "16.7",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex07_q_final.webp",
+     "w": "ex07_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "16.8",
+     "printedLabel": "16.8",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex08_q_final.webp",
+     "w": "ex08_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "16.9",
+     "printedLabel": "16.9",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex09_q_final.webp",
+     "w": "ex09_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "16.10",
+     "printedLabel": "16.10",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex10_q_final.webp",
+     "w": "ex10_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "16.11",
+     "printedLabel": "16.11",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex11_q_final.webp",
+     "w": "ex11_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "16.12",
+     "printedLabel": "16.12",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex12_q_final.webp",
+     "w": "ex12_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "16.13",
+     "printedLabel": "16.13",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex13_q_final.webp",
+     "w": "ex13_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "16.14",
+     "printedLabel": "16.14",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex14_q_review.webp",
+     "w": "ex14_w_bars.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "16.15",
+     "printedLabel": "16.15",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex15_q_final.webp",
+     "w": "ex15_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "16.16",
+     "printedLabel": "16.16",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex16_q_final.webp",
+     "w": "ex16_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "16.17",
+     "printedLabel": "16.17",
+     "section": "16.1",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex17_q_final.webp",
+     "w": "ex17_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "16.18",
+     "printedLabel": "16.18",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex18_q_final.webp",
+     "w": "ex18_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "16.19",
+     "printedLabel": "16.19",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex19_q_final.webp",
+     "w": "ex19_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "16.20",
+     "printedLabel": "16.20",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex20_q_final.webp",
+     "w": "ex20_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "16.21",
+     "printedLabel": "16.21",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex21_q_final.webp",
+     "w": "ex21_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "16.22",
+     "printedLabel": "16.22",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex22_q_final.webp",
+     "w": "ex22_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "16.23",
+     "printedLabel": "16.23",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex23_q_review.webp",
+     "w": "ex23_w_review.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "16.24",
+     "printedLabel": "16.24",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex24_q_review2.webp",
+     "w": "ex24_w_review2.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "16.25",
+     "printedLabel": "16.25",
+     "section": "16.2",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex25_q_final.webp",
+     "w": "ex25_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "16.26",
+     "printedLabel": "16.26",
+     "section": "16.3",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex26_q_final.webp",
+     "w": "ex26_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "16.27",
+     "printedLabel": "16.27",
+     "section": "16.3",
+     "codes": [
+      "AA AHL 5.18"
+     ],
+     "q": "ex27_q_final.webp",
+     "w": "ex27_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 28,
+     "label": "16.28",
+     "printedLabel": "16.28",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex28_q_final.webp",
+     "w": "ex28_w_final.webp",
+     "qw": 79.45,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 29,
+     "label": "16.29",
+     "printedLabel": "16.29",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex29_q_final.webp",
+     "w": "ex29_w_final.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 30,
+     "label": "16.30",
+     "printedLabel": "16.30",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex30_q_final.webp",
+     "w": "ex30_w_final.webp",
+     "qw": 79.59,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 31,
+     "label": "16.31",
+     "printedLabel": "16.31",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex31_q_final.webp",
+     "w": "ex31_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 32,
+     "label": "16.32",
+     "printedLabel": "16.32",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex32_q_final.webp",
+     "w": "ex32_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 33,
+     "label": "16.33",
+     "printedLabel": "16.33",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex33_q_final.webp",
+     "w": "ex33_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 34,
+     "label": "16.34",
+     "printedLabel": "16.34",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex34_q_final.webp",
+     "w": "ex34_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 35,
+     "label": "16.35",
+     "printedLabel": "16.35",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex35_q_final.webp",
+     "w": "ex35_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 36,
+     "label": "16.36",
+     "printedLabel": "16.36",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex36_q_final.webp",
+     "w": "ex36_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 37,
+     "label": "16.37",
+     "printedLabel": "16.37",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex37_q_final.webp",
+     "w": "ex37_w_final.webp",
+     "qw": 97.83,
+     "ww": 97.83,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 38,
+     "label": "16.38",
+     "printedLabel": "16.38",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex38_q_final.webp",
+     "w": "ex38_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 39,
+     "label": "16.39",
+     "printedLabel": "16.39",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex39_q_final.webp",
+     "w": "ex39_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 40,
+     "label": "16.40",
+     "printedLabel": "16.40",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex40_q_final.webp",
+     "w": "ex40_w_final.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 41,
+     "label": "16.41",
+     "printedLabel": "16.41",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex41_q_final.webp",
+     "w": "ex41_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 42,
+     "label": "16.42",
+     "printedLabel": "16.42",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex42_q_final.webp",
+     "w": "ex42_w_final.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 43,
+     "label": "16.43",
+     "printedLabel": "16.43",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex43_q_review.webp",
+     "w": "ex43_w_bars.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 44,
+     "label": "16.44",
+     "printedLabel": "16.44",
+     "section": "16.4",
+     "codes": [
+      "AA AHL 5.19"
+     ],
+     "q": "ex44_q_final.webp",
+     "w": "ex44_w_final.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AA-HL_ch16"
+  },
+  {
+   "id": "PE-AI-SL_ch01",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 1,
+   "title": "Number and algebra basics",
+   "scan_dir": "chapters/PE-AI-SL_ch01/scan",
+   "sections": [
+    {
+     "id": "1.1",
+     "title": "Approximations and error"
+    },
+    {
+     "id": "1.2",
+     "title": "The exponent laws"
+    },
+    {
+     "id": "1.3",
+     "title": "Scientific notation - numbers in the form a × 10^k"
+    },
+    {
+     "id": "1.4",
+     "title": "Exponents and logarithms"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "1.1",
+     "printedLabel": "1.1",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "1.2",
+     "printedLabel": "1.2",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "1.3",
+     "printedLabel": "1.3",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "1.4",
+     "printedLabel": "1.4",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "1.5",
+     "printedLabel": "1.5",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "1.6",
+     "printedLabel": "1.6",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "1.7",
+     "printedLabel": "1.7",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "1.8",
+     "printedLabel": "1.8",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "1.9",
+     "printedLabel": "1.9",
+     "section": "1.1",
+     "codes": [
+      "SL 1.6"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "1.10",
+     "printedLabel": "1.10",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.67,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "1.11",
+     "printedLabel": "1.11",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "1.12",
+     "printedLabel": "1.12",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.59,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "1.13",
+     "printedLabel": "1.13",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "1.14",
+     "printedLabel": "1.14",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "1.15",
+     "printedLabel": "1.15",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "1.16",
+     "printedLabel": "1.16",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "1.17",
+     "printedLabel": "1.17",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "1.18",
+     "printedLabel": "1.18",
+     "section": "1.2",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 79.91,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "1.19",
+     "printedLabel": "1.19",
+     "section": "1.3",
+     "codes": [
+      "SL 1.1"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "1.20",
+     "printedLabel": "1.20",
+     "section": "1.3",
+     "codes": [
+      "SL 1.1"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "1.21",
+     "printedLabel": "1.21",
+     "section": "1.3",
+     "codes": [
+      "SL 1.1"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "1.22",
+     "printedLabel": "1.22",
+     "section": "1.4",
+     "codes": [
+      "SL 1.5"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch01"
+  },
+  {
+   "id": "PE-AI-SL_ch02",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 2,
+   "title": "Functions",
+   "scan_dir": "chapters/PE-AI-SL_ch02/scan",
+   "sections": [
+    {
+     "id": "2.1",
+     "title": "Equations and formulae"
+    },
+    {
+     "id": "2.2",
+     "title": "Relations and functions"
+    },
+    {
+     "id": "2.3",
+     "title": "Inverse functions"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "2.1",
+     "printedLabel": "2.1",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "2.2",
+     "printedLabel": "2.2",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "2.3",
+     "printedLabel": "2.3",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "2.4",
+     "printedLabel": "2.4",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.78,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "2.5",
+     "printedLabel": "2.5",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "2.6",
+     "printedLabel": "2.6",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.78,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "2.7",
+     "printedLabel": "2.7",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "2.8",
+     "printedLabel": "2.8",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "2.9",
+     "printedLabel": "2.9",
+     "section": "2.1",
+     "codes": [
+      "PK",
+      "SL 2.1",
+      "SL 1.8"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "2.10",
+     "printedLabel": "2.10",
+     "section": "2.2",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.78,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "2.11",
+     "printedLabel": "2.11",
+     "section": "2.2",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "2.12",
+     "printedLabel": "2.12",
+     "section": "2.2",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "2.13",
+     "printedLabel": "2.13",
+     "section": "2.2",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 80.01,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "2.14",
+     "printedLabel": "2.14",
+     "section": "2.2",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "2.15",
+     "printedLabel": "2.15",
+     "section": "2.3",
+     "codes": [
+      "SL 2.2"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch02"
+  },
+  {
+   "id": "PE-AI-SL_ch03",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 3,
+   "title": "Sequences and series",
+   "scan_dir": "chapters/PE-AI-SL_ch03/scan",
+   "sections": [
+    {
+     "id": "3.1",
+     "title": "Sequences"
+    },
+    {
+     "id": "3.2",
+     "title": "Arithmetic sequences"
+    },
+    {
+     "id": "3.3",
+     "title": "Geometric sequences"
+    },
+    {
+     "id": "3.4",
+     "title": "Series"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "3.1",
+     "printedLabel": "3.1",
+     "section": "3.1",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "3.2",
+     "printedLabel": "3.2",
+     "section": "3.1",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "3.3",
+     "printedLabel": "3.3",
+     "section": "3.1",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.78,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "3.4",
+     "printedLabel": "3.4",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.59,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "3.5",
+     "printedLabel": "3.5",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "3.6",
+     "printedLabel": "3.6",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "3.7",
+     "printedLabel": "3.7",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "3.8",
+     "printedLabel": "3.8",
+     "section": "3.2",
+     "codes": [
+      "SL 1.2"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "3.9",
+     "printedLabel": "3.9",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "3.10",
+     "printedLabel": "3.10",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.78,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "3.11",
+     "printedLabel": "3.11",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "3.12",
+     "printedLabel": "3.12",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "3.13",
+     "printedLabel": "3.13",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "3.14",
+     "printedLabel": "3.14",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "3.15",
+     "printedLabel": "3.15",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "3.16",
+     "printedLabel": "3.16",
+     "section": "3.3",
+     "codes": [
+      "SL 1.3"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "3.17",
+     "printedLabel": "3.17",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "3.18",
+     "printedLabel": "3.18",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "3.19",
+     "printedLabel": "3.19",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "3.20",
+     "printedLabel": "3.20",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "3.21",
+     "printedLabel": "3.21",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "3.22",
+     "printedLabel": "3.22",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "3.23",
+     "printedLabel": "3.23",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "3.24",
+     "printedLabel": "3.24",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w.webp",
+     "qw": 79.78,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "3.25",
+     "printedLabel": "3.25",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "3.26",
+     "printedLabel": "3.26",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w.webp",
+     "qw": 79.45,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "3.27",
+     "printedLabel": "3.27",
+     "section": "3.4",
+     "codes": [
+      "SL 1.2",
+      "SL 1.3",
+      "SL 1.4",
+      "SL 1.7"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch03"
+  },
+  {
+   "id": "PE-AI-SL_ch04",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 4,
+   "title": "Geometry and trigonometry 1",
+   "scan_dir": "chapters/PE-AI-SL_ch04/scan",
+   "sections": [
+    {
+     "id": "4.1",
+     "title": "Basic coordinate geometry"
+    },
+    {
+     "id": "4.2",
+     "title": "Right-angled trigonometry"
+    },
+    {
+     "id": "4.3",
+     "title": "Non-right-angled trigonometry"
+    },
+    {
+     "id": "4.4",
+     "title": "Surface area and volume"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "4.1",
+     "printedLabel": "4.1",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "4.2",
+     "printedLabel": "4.2",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "4.3",
+     "printedLabel": "4.3",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.67,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "4.4",
+     "printedLabel": "4.4",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "4.5",
+     "printedLabel": "4.5",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "4.6",
+     "printedLabel": "4.6",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "4.7",
+     "printedLabel": "4.7",
+     "section": "4.1",
+     "codes": [
+      "SL 2.1",
+      "SL 3.1",
+      "SL 3.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.67,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "4.8",
+     "printedLabel": "4.8",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "4.9",
+     "printedLabel": "4.9",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "4.10",
+     "printedLabel": "4.10",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "4.11",
+     "printedLabel": "4.11",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "4.12",
+     "printedLabel": "4.12",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "4.13",
+     "printedLabel": "4.13",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.59,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "4.14",
+     "printedLabel": "4.14",
+     "section": "4.2",
+     "codes": [
+      "SL 3.2"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "4.15",
+     "printedLabel": "4.15",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "4.16",
+     "printedLabel": "4.16",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "4.17",
+     "printedLabel": "4.17",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 79.91,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "4.18",
+     "printedLabel": "4.18",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "4.19",
+     "printedLabel": "4.19",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "4.20",
+     "printedLabel": "4.20",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "4.21",
+     "printedLabel": "4.21",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 22,
+     "label": "4.22",
+     "printedLabel": "4.22",
+     "section": "4.3",
+     "codes": [
+      "SL 3.2",
+      "SL 3.3"
+     ],
+     "q": "ex22_q.webp",
+     "w": "ex22_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 23,
+     "label": "4.23",
+     "printedLabel": "4.23",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex23_q.webp",
+     "w": "ex23_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 24,
+     "label": "4.24",
+     "printedLabel": "4.24",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex24_q.webp",
+     "w": "ex24_w.webp",
+     "qw": 79.67,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 25,
+     "label": "4.25",
+     "printedLabel": "4.25",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex25_q.webp",
+     "w": "ex25_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 26,
+     "label": "4.26",
+     "printedLabel": "4.26",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex26_q.webp",
+     "w": "ex26_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 27,
+     "label": "4.27",
+     "printedLabel": "4.27",
+     "section": "4.4",
+     "codes": [
+      "SL 3.1"
+     ],
+     "q": "ex27_q.webp",
+     "w": "ex27_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch04"
+  },
+  {
+   "id": "PE-AI-SL_ch05",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 5,
+   "title": "Geometry and trigonometry 2",
+   "scan_dir": "chapters/PE-AI-SL_ch05/scan",
+   "sections": [
+    {
+     "id": "5.1",
+     "title": "Arc length and area of a sector"
+    },
+    {
+     "id": "5.2",
+     "title": "Voronoi diagrams"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "5.1",
+     "printedLabel": "5.1",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "5.2",
+     "printedLabel": "5.2",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "5.3",
+     "printedLabel": "5.3",
+     "section": "5.1",
+     "codes": [
+      "SL 3.4"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "5.4",
+     "printedLabel": "5.4",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "5.5",
+     "printedLabel": "5.5",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.78,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "5.6",
+     "printedLabel": "5.6",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "5.7",
+     "printedLabel": "5.7",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "5.8",
+     "printedLabel": "5.8",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "5.9",
+     "printedLabel": "5.9",
+     "section": "5.2",
+     "codes": [
+      "SL 3.6"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch05"
+  },
+  {
+   "id": "PE-AI-SL_ch06",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 6,
+   "title": "Modelling real-life phenomena",
+   "scan_dir": "chapters/PE-AI-SL_ch06/scan",
+   "sections": [
+    {
+     "id": "6.1",
+     "title": "Linear models"
+    },
+    {
+     "id": "6.2",
+     "title": "Quadratic models"
+    },
+    {
+     "id": "6.3",
+     "title": "Cubic models"
+    },
+    {
+     "id": "6.4",
+     "title": "Exponential models"
+    },
+    {
+     "id": "6.5",
+     "title": "Direct and inverse variation"
+    },
+    {
+     "id": "6.6",
+     "title": "Trigonometric models"
+    },
+    {
+     "id": "6.7",
+     "title": "Modelling skills"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "6.1",
+     "printedLabel": "6.1",
+     "section": "6.1",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "6.2",
+     "printedLabel": "6.2",
+     "section": "6.1",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "6.3",
+     "printedLabel": "6.3",
+     "section": "6.1",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "6.4",
+     "printedLabel": "6.4",
+     "section": "6.1",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "6.5",
+     "printedLabel": "6.5",
+     "section": "6.2",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "6.6",
+     "printedLabel": "6.6",
+     "section": "6.2",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "6.7",
+     "printedLabel": "6.7",
+     "section": "6.2",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 100.0,
+     "ww": 100.0,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "6.8",
+     "printedLabel": "6.8",
+     "section": "6.3",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "6.9",
+     "printedLabel": "6.9",
+     "section": "6.3",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.78,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "6.10",
+     "printedLabel": "6.10",
+     "section": "6.4",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "6.11",
+     "printedLabel": "6.11",
+     "section": "6.4",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "6.12",
+     "printedLabel": "6.12",
+     "section": "6.4",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "6.13",
+     "printedLabel": "6.13",
+     "section": "6.4",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "6.14",
+     "printedLabel": "6.14",
+     "section": "6.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "6.15",
+     "printedLabel": "6.15",
+     "section": "6.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "6.16",
+     "printedLabel": "6.16",
+     "section": "6.5",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 79.59,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 17,
+     "label": "6.17",
+     "printedLabel": "6.17",
+     "section": "6.6",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex17_q.webp",
+     "w": "ex17_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 18,
+     "label": "6.18",
+     "printedLabel": "6.18",
+     "section": "6.6",
+     "codes": [
+      "SL 2.5"
+     ],
+     "q": "ex18_q.webp",
+     "w": "ex18_w.webp",
+     "qw": 79.78,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 19,
+     "label": "6.19",
+     "printedLabel": "6.19",
+     "section": "6.7",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex19_q.webp",
+     "w": "ex19_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 20,
+     "label": "6.20",
+     "printedLabel": "6.20",
+     "section": "6.7",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex20_q.webp",
+     "w": "ex20_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 21,
+     "label": "6.21",
+     "printedLabel": "6.21",
+     "section": "6.7",
+     "codes": [
+      "SL 2.5",
+      "SL 2.6"
+     ],
+     "q": "ex21_q.webp",
+     "w": "ex21_w.webp",
+     "qw": 79.35,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch06"
+  },
+  {
+   "id": "PE-AI-SL_ch07",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 7,
+   "title": "Descriptive statistics",
+   "scan_dir": "chapters/PE-AI-SL_ch07/scan",
+   "sections": [
+    {
+     "id": "7.1",
+     "title": "Data and variables"
+    },
+    {
+     "id": "7.2",
+     "title": "Displaying distributions using graphs"
+    },
+    {
+     "id": "7.3",
+     "title": "Measures of central tendency and spread"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "7.1",
+     "printedLabel": "7.1",
+     "section": "7.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "7.2",
+     "printedLabel": "7.2",
+     "section": "7.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "7.3",
+     "printedLabel": "7.3",
+     "section": "7.1",
+     "codes": [
+      "SL 4.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "7.4",
+     "printedLabel": "7.4",
+     "section": "7.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "7.5",
+     "printedLabel": "7.5",
+     "section": "7.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 80.1,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "7.6",
+     "printedLabel": "7.6",
+     "section": "7.2",
+     "codes": [
+      "SL 4.2"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "7.7",
+     "printedLabel": "7.7",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "7.8",
+     "printedLabel": "7.8",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "7.9",
+     "printedLabel": "7.9",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "7.10",
+     "printedLabel": "7.10",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "7.11",
+     "printedLabel": "7.11",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "7.12",
+     "printedLabel": "7.12",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "7.13",
+     "printedLabel": "7.13",
+     "section": "7.3",
+     "codes": [
+      "SL 4.3"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch07"
+  },
+  {
+   "id": "PE-AI-SL_ch08",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 8,
+   "title": "Probability",
+   "scan_dir": "chapters/PE-AI-SL_ch08/scan",
+   "sections": [
+    {
+     "id": "8.1",
+     "title": "Randomness and probability"
+    },
+    {
+     "id": "8.2",
+     "title": "Probability assignments"
+    },
+    {
+     "id": "8.3",
+     "title": "Operations with events"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "8.1",
+     "printedLabel": "8.1",
+     "section": "8.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "8.2",
+     "printedLabel": "8.2",
+     "section": "8.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "8.3",
+     "printedLabel": "8.3",
+     "section": "8.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "8.4",
+     "printedLabel": "8.4",
+     "section": "8.1",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "8.5",
+     "printedLabel": "8.5",
+     "section": "8.2",
+     "codes": [
+      "SL 4.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.59,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "8.6",
+     "printedLabel": "8.6",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "8.7",
+     "printedLabel": "8.7",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "8.8",
+     "printedLabel": "8.8",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "8.9",
+     "printedLabel": "8.9",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "8.10",
+     "printedLabel": "8.10",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "8.11",
+     "printedLabel": "8.11",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "8.12",
+     "printedLabel": "8.12",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "8.13",
+     "printedLabel": "8.13",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.45,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "8.14",
+     "printedLabel": "8.14",
+     "section": "8.3",
+     "codes": [
+      "SL 4.6"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch08"
+  },
+  {
+   "id": "PE-AI-SL_ch09",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 9,
+   "title": "Introduction to differential calculus",
+   "scan_dir": "chapters/PE-AI-SL_ch09/scan",
+   "sections": [
+    {
+     "id": "9.1",
+     "title": "Limits and instantaneous rate of change"
+    },
+    {
+     "id": "9.2",
+     "title": "Derivative of a function"
+    },
+    {
+     "id": "9.3",
+     "title": "Interpretations of the derivative"
+    },
+    {
+     "id": "9.4",
+     "title": "Derivatives of functions of the form f(x) = ax^n"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "9.1",
+     "printedLabel": "9.1",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "9.2",
+     "printedLabel": "9.2",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "9.3",
+     "printedLabel": "9.3",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "9.4",
+     "printedLabel": "9.4",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "9.5",
+     "printedLabel": "9.5",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "9.6",
+     "printedLabel": "9.6",
+     "section": "9.1",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.78,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "9.7",
+     "printedLabel": "9.7",
+     "section": "9.2",
+     "codes": [
+      "SL 5.1"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "9.8",
+     "printedLabel": "9.8",
+     "section": "9.3",
+     "codes": [
+      "SL 5.1",
+      "SL 5.2"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "9.9",
+     "printedLabel": "9.9",
+     "section": "9.3",
+     "codes": [
+      "SL 5.1",
+      "SL 5.2"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "9.10",
+     "printedLabel": "9.10",
+     "section": "9.3",
+     "codes": [
+      "SL 5.1",
+      "SL 5.2"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "9.11",
+     "printedLabel": "9.11",
+     "section": "9.4",
+     "codes": [
+      "SL 5.3"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "9.12",
+     "printedLabel": "9.12",
+     "section": "9.4",
+     "codes": [
+      "SL 5.3"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch09"
+  },
+  {
+   "id": "PE-AI-SL_ch10",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 10,
+   "title": "Further differential calculus",
+   "scan_dir": "chapters/PE-AI-SL_ch10/scan",
+   "sections": [
+    {
+     "id": "10.1",
+     "title": "Maxima and minima - first derivative test"
+    },
+    {
+     "id": "10.2",
+     "title": "Tangents and normals"
+    },
+    {
+     "id": "10.3",
+     "title": "Optimisation"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "10.1",
+     "printedLabel": "10.1",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "10.2",
+     "printedLabel": "10.2",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "10.3",
+     "printedLabel": "10.3",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.45,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "10.4",
+     "printedLabel": "10.4",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "10.5",
+     "printedLabel": "10.5",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "10.6",
+     "printedLabel": "10.6",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "10.7",
+     "printedLabel": "10.7",
+     "section": "10.1",
+     "codes": [
+      "SL 5.2",
+      "SL 5.6"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "10.8",
+     "printedLabel": "10.8",
+     "section": "10.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "10.9",
+     "printedLabel": "10.9",
+     "section": "10.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.91,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "10.10",
+     "printedLabel": "10.10",
+     "section": "10.2",
+     "codes": [
+      "SL 5.4"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "10.11",
+     "printedLabel": "10.11",
+     "section": "10.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.78,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "10.12",
+     "printedLabel": "10.12",
+     "section": "10.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.59,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "10.13",
+     "printedLabel": "10.13",
+     "section": "10.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.91,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "10.14",
+     "printedLabel": "10.14",
+     "section": "10.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "10.15",
+     "printedLabel": "10.15",
+     "section": "10.3",
+     "codes": [
+      "SL 5.7"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch10"
+  },
+  {
+   "id": "PE-AI-SL_ch11",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 11,
+   "title": "Integral calculus",
+   "scan_dir": "chapters/PE-AI-SL_ch11/scan",
+   "sections": [
+    {
+     "id": "11.1",
+     "title": "Anti-derivatives"
+    },
+    {
+     "id": "11.2",
+     "title": "Definite integrals"
+    },
+    {
+     "id": "11.3",
+     "title": "Area under a curve"
+    },
+    {
+     "id": "11.4",
+     "title": "Approximating area under a curve"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "11.1",
+     "printedLabel": "11.1",
+     "section": "11.1",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "11.2",
+     "printedLabel": "11.2",
+     "section": "11.1",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.59,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "11.3",
+     "printedLabel": "11.3",
+     "section": "11.1",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "11.4",
+     "printedLabel": "11.4",
+     "section": "11.1",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "11.5",
+     "printedLabel": "11.5",
+     "section": "11.1",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.59,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "11.6",
+     "printedLabel": "11.6",
+     "section": "11.2",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "11.7",
+     "printedLabel": "11.7",
+     "section": "11.2",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.67,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "11.8",
+     "printedLabel": "11.8",
+     "section": "11.2",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "11.9",
+     "printedLabel": "11.9",
+     "section": "11.3",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "11.10",
+     "printedLabel": "11.10",
+     "section": "11.3",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "11.11",
+     "printedLabel": "11.11",
+     "section": "11.3",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "11.12",
+     "printedLabel": "11.12",
+     "section": "11.3",
+     "codes": [
+      "SL 5.5"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "11.13",
+     "printedLabel": "11.13",
+     "section": "11.4",
+     "codes": [
+      "SL 5.8"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "11.14",
+     "printedLabel": "11.14",
+     "section": "11.4",
+     "codes": [
+      "SL 5.8"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "11.15",
+     "printedLabel": "11.15",
+     "section": "11.4",
+     "codes": [
+      "SL 5.8"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 16,
+     "label": "11.16",
+     "printedLabel": "11.16",
+     "section": "11.4",
+     "codes": [
+      "SL 5.8"
+     ],
+     "q": "ex16_q.webp",
+     "w": "ex16_w.webp",
+     "qw": 79.67,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch11"
+  },
+  {
+   "id": "PE-AI-SL_ch12",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 12,
+   "title": "Probability distributions",
+   "scan_dir": "chapters/PE-AI-SL_ch12/scan",
+   "sections": [
+    {
+     "id": "12.1",
+     "title": "Random variables"
+    },
+    {
+     "id": "12.2",
+     "title": "The binomial distribution"
+    },
+    {
+     "id": "12.3",
+     "title": "Continuous distributions - the normal distribution"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "12.1",
+     "printedLabel": "12.1",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "12.2",
+     "printedLabel": "12.2",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "12.3",
+     "printedLabel": "12.3",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.67,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "12.4",
+     "printedLabel": "12.4",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.78,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "12.5",
+     "printedLabel": "12.5",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "12.6",
+     "printedLabel": "12.6",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.67,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "12.7",
+     "printedLabel": "12.7",
+     "section": "12.1",
+     "codes": [
+      "SL 4.7"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "12.8",
+     "printedLabel": "12.8",
+     "section": "12.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "12.9",
+     "printedLabel": "12.9",
+     "section": "12.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 10,
+     "label": "12.10",
+     "printedLabel": "12.10",
+     "section": "12.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex10_q.webp",
+     "w": "ex10_w.webp",
+     "qw": 79.67,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 11,
+     "label": "12.11",
+     "printedLabel": "12.11",
+     "section": "12.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex11_q.webp",
+     "w": "ex11_w.webp",
+     "qw": 79.91,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 12,
+     "label": "12.12",
+     "printedLabel": "12.12",
+     "section": "12.2",
+     "codes": [
+      "SL 4.8"
+     ],
+     "q": "ex12_q.webp",
+     "w": "ex12_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 13,
+     "label": "12.13",
+     "printedLabel": "12.13",
+     "section": "12.3",
+     "codes": [
+      "SL 4.9"
+     ],
+     "q": "ex13_q.webp",
+     "w": "ex13_w.webp",
+     "qw": 79.67,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 14,
+     "label": "12.14",
+     "printedLabel": "12.14",
+     "section": "12.3",
+     "codes": [
+      "SL 4.9"
+     ],
+     "q": "ex14_q.webp",
+     "w": "ex14_w.webp",
+     "qw": 79.91,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 15,
+     "label": "12.15",
+     "printedLabel": "12.15",
+     "section": "12.3",
+     "codes": [
+      "SL 4.9"
+     ],
+     "q": "ex15_q.webp",
+     "w": "ex15_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch12"
+  },
+  {
+   "id": "PE-AI-SL_ch13",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 13,
+   "title": "Statistical analysis",
+   "scan_dir": "chapters/PE-AI-SL_ch13/scan",
+   "sections": [
+    {
+     "id": "13.1",
+     "title": "Hypothesis testing in statistics"
+    },
+    {
+     "id": "13.2",
+     "title": "Goodness-of-fit (GOF) test and test for independence"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "13.1",
+     "printedLabel": "13.1",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "13.2",
+     "printedLabel": "13.2",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.78,
+     "ww": 79.67,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "13.3",
+     "printedLabel": "13.3",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.59,
+     "ww": 79.78,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "13.4",
+     "printedLabel": "13.4",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "13.5",
+     "printedLabel": "13.5",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 80.01,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "13.6",
+     "printedLabel": "13.6",
+     "section": "13.1",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.59,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "13.7",
+     "printedLabel": "13.7",
+     "section": "13.2",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 8,
+     "label": "13.8",
+     "printedLabel": "13.8",
+     "section": "13.2",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex08_q.webp",
+     "w": "ex08_w.webp",
+     "qw": 79.67,
+     "ww": 79.91,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 9,
+     "label": "13.9",
+     "printedLabel": "13.9",
+     "section": "13.2",
+     "codes": [
+      "SL 4.11"
+     ],
+     "q": "ex09_q.webp",
+     "w": "ex09_w.webp",
+     "qw": 79.45,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch13"
+  },
+  {
+   "id": "PE-AI-SL_ch14",
+   "book": "Pearson Applications and Interpretation SL",
+   "bookShort": "Pearson AI SL",
+   "chapter": 14,
+   "title": "Bivariate analysis",
+   "scan_dir": "chapters/PE-AI-SL_ch14/scan",
+   "sections": [
+    {
+     "id": "14.1",
+     "title": "Scatter diagrams"
+    },
+    {
+     "id": "14.2",
+     "title": "Measures of correlation"
+    },
+    {
+     "id": "14.3",
+     "title": "Linear regression"
+    }
+   ],
+   "examples": [
+    {
+     "n": 1,
+     "label": "14.1",
+     "printedLabel": "14.1",
+     "section": "14.1",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex01_q.webp",
+     "w": "ex01_w.webp",
+     "qw": 79.59,
+     "ww": 79.59,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 2,
+     "label": "14.2",
+     "printedLabel": "14.2",
+     "section": "14.1",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex02_q.webp",
+     "w": "ex02_w.webp",
+     "qw": 79.45,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 3,
+     "label": "14.3",
+     "printedLabel": "14.3",
+     "section": "14.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex03_q.webp",
+     "w": "ex03_w.webp",
+     "qw": 79.67,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 4,
+     "label": "14.4",
+     "printedLabel": "14.4",
+     "section": "14.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex04_q.webp",
+     "w": "ex04_w.webp",
+     "qw": 79.35,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 5,
+     "label": "14.5",
+     "printedLabel": "14.5",
+     "section": "14.2",
+     "codes": [
+      "SL 4.4",
+      "SL 4.10"
+     ],
+     "q": "ex05_q.webp",
+     "w": "ex05_w.webp",
+     "qw": 79.35,
+     "ww": 79.45,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 6,
+     "label": "14.6",
+     "printedLabel": "14.6",
+     "section": "14.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex06_q.webp",
+     "w": "ex06_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    },
+    {
+     "n": 7,
+     "label": "14.7",
+     "printedLabel": "14.7",
+     "section": "14.3",
+     "codes": [
+      "SL 4.4"
+     ],
+     "q": "ex07_q.webp",
+     "w": "ex07_w.webp",
+     "qw": 79.45,
+     "ww": 79.35,
+     "codesSource": "section-table"
+    }
+   ],
+   "dir": "img/PE-AI-SL_ch14"
   }
  ]
 };
