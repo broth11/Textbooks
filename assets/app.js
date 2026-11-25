@@ -191,7 +191,7 @@
   }
   // ---------- top bar
   function renderBar(r) {
-    function a(href, icon, text, cur) { return '<a class="tb-btn' + (cur ? ' cur' : '') + '" href="' + esc(href) + '"' + (cur ? ' aria-current="page"' : '') + '><span class="tb-i" aria-hidden="true">' + icon + '</span><span>' + text + '</span></a>'; }
+    function a(href, icon, text, cur) { return '<button type="button" class="tb-btn' + (cur ? ' cur' : '') + '" data-go="' + esc(href) + '"' + (cur ? ' aria-current="page"' : '') + '><span class="tb-i" aria-hidden="true">' + icon + '</span><span>' + text + '</span></button>'; }
     var h = a('#/', '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg>', 'Home', r.kind === 'landing');
     if (r.kind === 'topics' && view && view.hash) h += a(view.hash, '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>', 'Change topics', false);
     h += a('#/browse', '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H20v15H5.5A1.5 1.5 0 0 0 4 19.5z"/><path d="M4 19.5A1.5 1.5 0 0 0 5.5 21H20v-3"/></svg>', 'Browse by book', ['home', 'book', 'ch', 'code', 'pick'].indexOf(r.kind) >= 0);

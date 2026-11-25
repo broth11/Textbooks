@@ -125,8 +125,8 @@ body.pg-mode .app{display:none}
 /* ---- top bar ---- */
 .topbar{position:sticky;top:0;z-index:20;height:var(--tb);background:var(--rail);border-bottom:1px solid var(--line)}
 .tb-in{display:flex;align-items:center;gap:8px;height:100%;padding:0 clamp(10px,2vw,20px);overflow-x:auto}
-.tb-btn{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;padding:9px 16px;border-radius:10px;border:1px solid #cfd6cb;background:var(--card);color:var(--teal);font-weight:600;font-size:14px;white-space:nowrap}
-.tb-btn,.tb-btn:link,.tb-btn:visited,.tb-btn:hover,.tb-btn:focus,.tb-btn:active,.tb-btn *{text-decoration:none!important;text-decoration-line:none!important;text-underline-offset:0}
+.tb-btn{display:inline-flex;align-items:center;gap:6px;flex:0 0 auto;padding:9px 16px;border-radius:10px;border:1px solid #cfd6cb;background:var(--card);color:var(--teal);font-weight:600;font-size:14px;white-space:nowrap;line-height:1.2;text-decoration:none}
+.tb-btn,.tb-btn:link,.tb-btn:visited,.tb-btn:hover,.tb-btn:focus,.tb-btn:active,.tb-btn *{text-decoration:none!important;text-decoration-line:none!important;text-decoration-style:solid!important;text-decoration-thickness:0!important;text-underline-offset:0}
 .tb-btn:hover{background:#fff}
 .tb-btn.cur,.tb-btn.cur:visited{background:var(--teal);border-color:var(--teal);color:#fff}
 .tb-i{display:inline-flex}.tb-i svg{display:block}
