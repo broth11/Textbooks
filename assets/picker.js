@@ -120,7 +120,7 @@
       '<header><div class="pg-kicker">Worked examples by syllabus topic</div><h1>IB Textbooks</h1><p class="pg-sub">Every worked example from the Haese and Pearson books, found by the IB syllabus topic it teaches.</p></header>' +
       '<section aria-labelledby="pg-s1"><h2 id="pg-s1">1. Choose your course</h2><div class="pg-cards">' + cards + '</div></section>' +
       '<section aria-labelledby="pg-s2"><h2 id="pg-s2">2. Choose your publisher</h2>' + pubSeg() + '</section>' +
-      '<section class="pg-actions"><a class="pg-cta" href="' + esc(mapHash()) + '">Choose topics &rarr;</a><a href="#/browse">Or browse by book and chapter</a></section>' +
+      '<section class="pg-actions"><a class="pg-cta" href="' + esc(mapHash()) + '">Choose topics &rarr;</a></section>' +
       '<footer>' + Object.keys(bk).length + ' books, ' + chapters + ' chapters, ' + ex.toLocaleString('en-US') + ' worked examples. MAI and MAA syllabus codes attached to every example.</footer></div>';
   }
 
@@ -142,8 +142,9 @@
       var on = M.picked.length === l.set.length && l.set.length > 0 && l.set.every(function (d) { return sel[d.code]; });
       return { v: l.id, name: l.name, on: on };
     });
-    var h = '<div class="pg pg-map"><header class="pg-mhead"><div><a href="#/">&larr; Course and publisher</a><h1>Choose your topics</h1></div><div class="pg-ctl">' + courseSeg() + pubSeg() + '</div></header>';
+    var h = '<div class="pg pg-map"><header class="pg-mhead"><div><h1>Choose your topics</h1></div><div class="pg-ctl">' + courseSeg() + pubSeg() + '</div></header>';
     h += '<section class="pg-tools" aria-label="Selection tools"><div class="pg-whole"><span>Whole course</span>' + seg(lv, 'level') + '</div><div class="pg-sum"><div><b>' + M.picked.length + '</b> topic' + (M.picked.length === 1 ? '' : 's') + ' ticked, <b>' + ms.length + '</b> example' + (ms.length === 1 ? '' : 's') + '</div>' +
+      '<button type="button" class="pg-clear" data-act="clear" data-fk="clear"' + (M.picked.length ? '' : ' disabled') + '>Clear selections</button>' +
       (ms.length ? '<a class="pg-go" href="' + esc(topicsHash(M.course, M.pub, sel)) + '">Show examples &rarr;</a>' : '<span class="pg-go off" aria-disabled="true">Show examples &rarr;</span>') + '</div></section>';
     h += '<section class="pg-pk" aria-label="Previous knowledge"><div class="pg-pkt">Previous knowledge</div><div class="pg-pktile">' + tileHtml(M.pk, sel) + '</div><div class="pg-pkn">Skills from before the IB syllabus that the books revisit. Included when you choose SL + HL.</div></section>';
     STRANDS.forEach(function (title, i) {
@@ -179,6 +180,7 @@
       P.sel[P.course] = {};
       if (!on) ls.set.forEach(function (d) { P.sel[P.course][d.code] = true; });
     }
+    else if (a === 'clear') { P.sel[P.course] = {}; }
     else if (a === 'strand') { n = +t.getAttribute('data-n'); M = model(); toggleList(M.rows.filter(function (d) { return d.strand === n; })); }
     else if (a === 'col') { n = +t.getAttribute('data-n'); var lvl = t.getAttribute('data-lv'); M = model(); toggleList(M.rows.filter(function (d) { return d.strand === n && d.level === lvl; })); }
     else if (a === 'tile') { M = model(); var code = t.getAttribute('data-code'); toggleList(M.all.filter(function (d) { return d.code === code; })); }
@@ -240,18 +242,24 @@
   function topicsPanel(view, state) {
     var h = '<div class="phead"><div class="eyebrow">Textbook examples</div><button class="hidebtn" id="hide">&lsaquo; Hide</button></div>';
     h += '<h2>Your topics</h2><p class="hint">' + view.items.length + ' example' + (view.items.length === 1 ? '' : 's') + ' from ' + view.sel.length + ' topic' + (view.sel.length === 1 ? '' : 's') + '. ' + esc(view.course) + ' · ' + esc(pubName(view.pub)) + '.</p>';
-    h += '<div class="selbar"><button class="linkbtn" style="margin-left:0" data-go="' + esc(view.hash) + '">&larr; Change topics</button><button class="linkbtn" data-go="#/browse">Browse by book</button></div>';
     h += '<div class="pg-seg side" role="group" aria-label="Order of examples">' + [['topic', 'By topic'], ['book', 'Book order']].map(function (o) {
       var on = view.order === o[0];
       return '<button type="button" class="' + (on ? 'on' : '') + '" aria-pressed="' + on + '" data-order="' + o[0] + '">' + o[1] + '</button>';
     }).join('') + '</div>';
-    var sizes = {}; view.items.forEach(function (it) { sizes[it.group] = (sizes[it.group] || 0) + 1; });
-    var g = '';
+    var sizes = {}, firsts = {}, gi = 0; view.items.forEach(function (it) { sizes[it.group] = (sizes[it.group] || 0) + 1; if (!firsts[it.group]) firsts[it.group] = it.key; });
+    if (view.items.length) h += '<div class="gall"><button type="button" class="linkbtn" data-allgrp="1">Expand all</button><button type="button" class="linkbtn" data-allgrp="0">Collapse all</button></div>';
+    var g = null;
     view.items.forEach(function (it) {
-      if (it.group !== g) { h += '<div class="sec">' + esc(it.group) + ' <span class="gcnt">' + sizes[it.group] + '</span></div>'; g = it.group; }
+      if (it.group !== g) {
+        if (g !== null) h += '</div>';
+        var op = !!state.open[it.group]; gi++;
+        h += '<button type="button" class="gh" data-grp="' + esc(it.group) + '" data-first="' + esc(firsts[it.group]) + '" aria-expanded="' + op + '" aria-controls="grp-' + gi + '"><span class="chev" aria-hidden="true"></span><span class="gt">' + esc(it.group) + '</span><span class="gcnt">' + sizes[it.group] + '</span></button><div class="gb" id="grp-' + gi + '"' + (op ? '' : ' hidden') + '>';
+        g = it.group;
+      }
       var extra = view.order === 'topic' ? (it.codes.length > 1 ? ' · also ' + it.codes.slice(1).map(dc).join(', ') : '') : ' · ' + it.codes.map(dc).join(', ');
       h += '<div class="row' + (state.cur === it.key ? ' on' : '') + '" role="link" tabindex="0" data-key="' + esc(it.key) + '">Example ' + esc(T().lbl(it.ex)) + '<span class="sub">' + esc(it.ch.bookShort + ' · Ch ' + it.ch.chapter + ' · ' + it.ex.section + extra) + '</span></div>';
     });
+    if (g !== null) h += '</div>';
     if (!view.items.length) h += '<div class="empty">Nothing matches.</div>';
     return h;
   }

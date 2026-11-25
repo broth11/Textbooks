@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   var S = window.SITE, $ = function (id) { return document.getElementById(id); };
-  var state = { rail: 'books', book: 'all', sel: null, cur: null, collapsed: window.innerWidth < 1100 };
+  var state = { rail: 'books', book: 'all', sel: null, cur: null, open: {}, collapsed: window.innerWidth < 1100 };
   var view = null, lastR = null;
   state.order = 'topic';
 
@@ -99,7 +99,7 @@
     if (view && view.topics) { $('rails').innerHTML = ''; $('rails').style.display = 'none'; return; }
     $('rails').style.display = '';
     var defs = [['books', 'Books'], ['chapters', 'Chapters'], ['examples', 'Examples'], ['syllabus', 'Syllabus']];
-    $('rails').innerHTML = '<button type="button" class="homebtn" data-go="#/" aria-label="Home: choose course and topics"><span class="hi">&#8962;</span><span>Home</span></button>' + defs.map(function (d) {
+    $('rails').innerHTML = defs.map(function (d) {
       return '<button role="tab" data-rail="' + d[0] + '" aria-selected="' + (state.rail === d[0]) + '">' + d[1] + '</button>';
     }).join('');
   }
@@ -108,7 +108,6 @@
     var titles = { books: ['Books', 'Pick a textbook to narrow the chapter and syllabus lists.'], chapters: ['Chapters', 'Pick a chapter, in book order. Tick boxes to combine chapters.'], examples: ['Examples', view.name + ', in book order.'], syllabus: ['Syllabus', 'Pick a code to see every example for it. Tick boxes to combine codes.'] };
     var t = titles[state.rail], h = '';
     h += '<div class="phead"><div class="eyebrow">Textbook examples</div><button class="hidebtn" id="hide">&lsaquo; Hide</button></div>';
-    h += '<button type="button" class="linkbtn homelink" data-go="#/">&larr; Choose course and topics</button>';
     h += '<h2>' + esc(t[0]) + '</h2><p class="hint">' + esc(t[1]) + '</p>';
     if (state.rail === 'chapters' || state.rail === 'syllabus') h += bookNote();
     var mode = state.rail === 'chapters' ? 'ch' : 'code';
@@ -167,7 +166,7 @@
     setTimeout(function () {
       var el = document.getElementById('a-' + key); if (!el) return;
       var root = document.scrollingElement || document.documentElement, from = root.scrollTop;
-      var to = Math.max(0, Math.round(el.getBoundingClientRect().top + from)), dist = to - from;
+      var tb = $('topbar').offsetHeight, to = Math.max(0, Math.round(el.getBoundingClientRect().top + from - tb)), dist = to - from;
       var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
       if (reduce || Math.abs(dist) < 2) { root.scrollTop = to; return; }
       var dur = Math.min(1100, 600 + Math.abs(dist) * 0.25), t0 = performance.now();
@@ -175,7 +174,29 @@
       (function step(now) { var t = Math.min(1, (now - t0) / dur); root.scrollTop = from + dist * ease(t); if (t < 1) requestAnimationFrame(step); })(performance.now());
     }, delay || 0);
   }
-  function select(key, delay) { state.cur = key; renderPanel(); glide(key, delay); }
+  function select(key, delay) {
+    state.cur = key;
+    if (view.topics) view.items.forEach(function (it) { if (it.key === key) state.open[it.group] = true; });
+    renderPanel(); glide(key, delay);
+  }
+  function setGroup(btn, open) {
+    btn.setAttribute('aria-expanded', open);
+    var body = document.getElementById(btn.getAttribute('aria-controls')); if (body) body.hidden = !open;
+    state.open[btn.getAttribute('data-grp')] = open;
+  }
+  function markCur() {
+    var rows = $('panel').querySelectorAll('.row[data-key]');
+    for (var i = 0; i < rows.length; i++) rows[i].classList.toggle('on', rows[i].getAttribute('data-key') === state.cur);
+    $('expandLabel').textContent = state.cur ? 'Example ' + curLabel() : '';
+  }
+  // ---------- top bar
+  function renderBar(r) {
+    function a(href, icon, text, cur) { return '<a class="tb-btn' + (cur ? ' cur' : '') + '" href="' + esc(href) + '"' + (cur ? ' aria-current="page"' : '') + '><span class="tb-i" aria-hidden="true">' + icon + '</span><span>' + text + '</span></a>'; }
+    var h = a('#/', '&#8962;', 'Home', r.kind === 'landing');
+    if (r.kind === 'topics' && view && view.hash) h += a(view.hash, '&#9638;', 'Change topics', false);
+    h += a('#/browse', '&#9776;', 'Browse by book', ['home', 'book', 'ch', 'code', 'pick'].indexOf(r.kind) >= 0);
+    $('tbnav').innerHTML = h;
+  }
   function toggle(key) {
     var art = document.getElementById('a-' + key), sol = art.querySelector('.sol'), btn = art.querySelector('.btn');
     var opening = sol.hidden;
@@ -203,9 +224,15 @@
     location.hash = to || (s ? single(s.mode, s.ids[0]) : '#/');
   }
   document.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-go],[data-order],#hide,#expand');
+    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-go],[data-order],[data-grp],[data-allgrp],#hide,#expand');
     if (!t) return;
-    if (t.dataset.order) { state.order = t.dataset.order; view = window.IBPicker.topicsView(lastR, state.order); state.cur = view.items.length ? view.items[0].key : null; renderAll(); window.scrollTo(0, 0); return; }
+    if (t.dataset.order) { state.order = t.dataset.order; state.open = {}; view = window.IBPicker.topicsView(lastR, state.order); state.cur = view.items.length ? view.items[0].key : null; renderAll(); window.scrollTo(0, 0); return; }
+    if (t.dataset.allgrp) { var open = t.dataset.allgrp === '1', gb = $('panel').querySelectorAll('[data-grp]'); for (var i = 0; i < gb.length; i++) setGroup(gb[i], open); return; }
+    if (t.dataset.grp !== undefined) {
+      var op = t.getAttribute('aria-expanded') !== 'true'; setGroup(t, op);
+      if (op && t.dataset.first) { state.cur = t.dataset.first; markCur(); glide(state.cur, 0); }
+      return;
+    }
     if (t.dataset.go) { location.hash = t.dataset.go; return; }
     if (t.dataset.pick) { pick(t.dataset.pick, t.dataset.id); return; }
     if (t.dataset.clear) { clearSel(); return; }
@@ -223,7 +250,7 @@
   });
   function load() {
     var r = route(); lastR = r;
-    if (r.kind === 'landing' || r.kind === 'map') { window.IBPicker.show(r); return; }
+    if (r.kind === 'landing' || r.kind === 'map') { renderBar(r); window.IBPicker.show(r); return; }
     window.IBPicker.hide();
     if (r.kind === 'book') {
       var info = r.code === 'all' ? null : bookInfo(r.code);
@@ -237,7 +264,8 @@
     view = r.kind === 'topics' ? window.IBPicker.topicsView(r, state.order) : buildView(r);
     state.cur = view.items.length ? view.items[0].key : null;
     if (view.ch) state.rail = state.rail === 'syllabus' ? 'syllabus' : state.rail;
-    renderAll(); window.scrollTo(0, 0);
+    state.open = {};
+    renderBar(r); renderAll(); window.scrollTo(0, 0);
   }
   window.IBT = { esc: esc, bookOf: bookOf, codeCmp: codeCmp, secTitle: secTitle, lbl: lbl, state: state };
   window.addEventListener('hashchange', load);
