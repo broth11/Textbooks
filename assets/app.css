@@ -132,12 +132,10 @@ body.pg-mode .app{display:none}
 @media (max-width:480px){.tb-in{gap:6px}.tb-btn{padding:6px 9px;font-size:12px;gap:4px}}
 .pg-clear{border:1px solid #cfd6cb;background:var(--card);color:var(--teal);font-weight:600;font-size:13px;border-radius:10px;padding:6px 12px}
 .pg-clear:hover:not(:disabled){background:#fff}.pg-clear:disabled{opacity:.45;cursor:not-allowed}
-.gall{display:flex;gap:14px;margin:0 0 6px}.gall .linkbtn{margin:0}
 .gh{display:flex;align-items:center;gap:8px;width:100%;text-align:left;border:1px solid var(--line);background:#e3ebe6;color:var(--deep);border-radius:10px;padding:8px 12px;margin:0 0 6px;font-size:13px;font-weight:700}
 .gh:hover{background:#d9e5de}
+.gh.on{background:var(--teal);border-color:var(--teal);color:#fff}.gh.on .gcnt{color:#d7ebe5}
+.tl{margin-top:4px}
 .gh .gt{flex:1;min-width:0}
 .gh .gcnt{float:none;flex:0 0 auto}
-.chev{flex:0 0 auto;width:7px;height:7px;border-right:2px solid var(--teal);border-bottom:2px solid var(--teal);transform:rotate(-45deg);transition:transform .15s;margin:0 3px 0 1px}
-.gh[aria-expanded=true] .chev{transform:rotate(45deg)}
-.gb[hidden]{display:none}
-@media (prefers-reduced-motion:reduce){.chev{transition:none}}
+@media (prefers-reduced-motion:reduce){

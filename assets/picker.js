@@ -239,6 +239,7 @@
   function itemCodes(it) {
     return it.ch.bookShort + ' · Chapter ' + it.ch.chapter + ' · ' + it.ex.codes.filter(function (c) { return inCourse(c, T().state.courseView); }).map(dcLong).join(' · ');
   }
+  function groupOf(key) { var g = null; T().view().items.forEach(function (it) { if (it.key === key) g = it.group; }); return g; }
   function topicsPanel(view, state) {
     var h = '<div class="phead"><div class="eyebrow">Textbook examples</div><button class="hidebtn" id="hide">&lsaquo; Hide</button></div>';
     h += '<h2>Your topics</h2><p class="hint">' + view.items.length + ' example' + (view.items.length === 1 ? '' : 's') + ' from ' + view.sel.length + ' topic' + (view.sel.length === 1 ? '' : 's') + '. ' + esc(view.course) + ' · ' + esc(pubName(view.pub)) + '.</p>';
@@ -246,23 +247,17 @@
       var on = view.order === o[0];
       return '<button type="button" class="' + (on ? 'on' : '') + '" aria-pressed="' + on + '" data-order="' + o[0] + '">' + o[1] + '</button>';
     }).join('') + '</div>';
-    var sizes = {}, firsts = {}, gi = 0; view.items.forEach(function (it) { sizes[it.group] = (sizes[it.group] || 0) + 1; if (!firsts[it.group]) firsts[it.group] = it.key; });
-    if (view.items.length) h += '<div class="gall"><button type="button" class="linkbtn" data-allgrp="1">Expand all</button><button type="button" class="linkbtn" data-allgrp="0">Collapse all</button></div>';
-    var g = null;
-    view.items.forEach(function (it) {
-      if (it.group !== g) {
-        if (g !== null) h += '</div>';
-        var op = !!state.open[it.group]; gi++;
-        h += '<button type="button" class="gh" data-grp="' + esc(it.group) + '" data-first="' + esc(firsts[it.group]) + '" aria-expanded="' + op + '" aria-controls="grp-' + gi + '"><span class="chev" aria-hidden="true"></span><span class="gt">' + esc(it.group) + '</span><span class="gcnt">' + sizes[it.group] + '</span></button><div class="gb" id="grp-' + gi + '"' + (op ? '' : ' hidden') + '>';
-        g = it.group;
-      }
-      var extra = view.order === 'topic' ? (it.codes.length > 1 ? ' · also ' + it.codes.slice(1).map(dc).join(', ') : '') : ' · ' + it.codes.map(dc).join(', ');
-      h += '<div class="row' + (state.cur === it.key ? ' on' : '') + '" role="link" tabindex="0" data-key="' + esc(it.key) + '">Example ' + esc(T().lbl(it.ex)) + '<span class="sub">' + esc(it.ch.bookShort + ' · Ch ' + it.ch.chapter + ' · ' + it.ex.section + extra) + '</span></div>';
+    var sizes = {}, firsts = {}, order = [], cg = view.items.length ? groupOf(state.cur) : null;
+    view.items.forEach(function (it) { if (!sizes[it.group]) { firsts[it.group] = it.key; order.push(it.group); } sizes[it.group] = (sizes[it.group] || 0) + 1; });
+    h += '<nav class="tl" aria-label="Topics in your selection">';
+    order.forEach(function (g) {
+      var on = g === cg;
+      h += '<button type="button" class="gh' + (on ? ' on' : '') + '" data-grp="' + esc(g) + '" data-first="' + esc(firsts[g]) + '"' + (on ? ' aria-current="true"' : '') + '><span class="gt">' + esc(g) + '</span><span class="gcnt">' + sizes[g] + '</span></button>';
     });
-    if (g !== null) h += '</div>';
+    h += '</nav>';
     if (!view.items.length) h += '<div class="empty">Nothing matches.</div>';
     return h;
   }
 
-  window.IBPicker = { show: show, hide: hide, topicsView: topicsView, topicsPanel: topicsPanel, itemCodes: itemCodes };
+  window.IBPicker = { groupOf: groupOf, show: show, hide: hide, topicsView: topicsView, topicsPanel: topicsPanel, itemCodes: itemCodes };
 })();
