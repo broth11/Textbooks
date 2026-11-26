@@ -763,15 +763,13 @@ window.SITE = {
      "section": "1B",
      "codes": [
       "SL 2.1",
-      "SL 3.1",
-      "SL 3.2",
       "AA SL 2.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 8,
@@ -792,16 +790,15 @@ window.SITE = {
      "section": "1D",
      "codes": [
       "SL 2.1",
-      "SL 3.1",
-      "SL 3.2",
       "AA SL 2.1",
-      "AA SL 2.10"
+      "AA SL 2.10",
+      "SL 1.8"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 86.66,
      "ww": 86.66,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 10,
@@ -2124,105 +2121,93 @@ window.SITE = {
      "section": "6A",
      "codes": [
       "SL 3.4",
-      "SL 3.2",
-      "SL 3.3",
       "AA SL 3.4"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 86.66,
      "ww": 86.66,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 2,
      "section": "6B",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
-      "AA SL 3.1"
+      "AA SL 3.1",
+      "SL 3.3"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 3,
      "section": "6B",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
       "AA SL 3.1"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 4,
      "section": "6B",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
       "AA SL 3.1"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 90.03,
      "ww": 90.03,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 5,
      "section": "6C",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
-      "AA SL 3.1"
+      "AA SL 3.1",
+      "SL 3.3"
      ],
      "q": "ex05_q.webp",
      "w": "ex05_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 6,
      "section": "6C",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
       "AA SL 3.1"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 83.36,
      "ww": 83.36,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 7,
      "section": "6C",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
-      "SL 3.4",
       "AA SL 3.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 8,
@@ -2334,21 +2319,20 @@ window.SITE = {
      "n": 3,
      "section": "7C",
      "codes": [
-      "SL 2.5",
-      "AA SL 3.2"
+      "AA SL 3.2",
+      "SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 4,
      "section": "7D",
      "codes": [
       "SL 3.2",
-      "SL 3.3",
       "AA SL 3.2",
       "AA SL 3.3"
      ],
@@ -2356,7 +2340,7 @@ window.SITE = {
      "w": "ex04_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 5,
@@ -2409,7 +2393,6 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1",
       "AA SL 3.2",
       "AA SL 3.3"
      ],
@@ -2417,7 +2400,7 @@ window.SITE = {
      "w": "ex08_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 9,
@@ -2456,40 +2439,42 @@ window.SITE = {
      "section": "7F",
      "codes": [
       "SL 3.3",
-      "AA SL 3.3"
+      "AA SL 3.3",
+      "SL 3.2"
      ],
      "q": "ex11_q.webp",
      "w": "ex11_w.webp",
      "qw": 79.99,
      "ww": 79.99,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 12,
      "section": "7F",
      "codes": [
       "SL 3.3",
-      "AA SL 3.3"
+      "AA SL 3.3",
+      "SL 3.2",
+      "AA SL 3.2"
      ],
      "q": "ex12_q.webp",
      "w": "ex12_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 13,
      "section": "7G",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
       "AA SL 3.1"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 14,
@@ -2539,22 +2524,19 @@ window.SITE = {
      "section": "8B",
      "codes": [
       "SL 3.2",
-      "SL 3.3",
-      "SL 3.4",
       "AA SL 3.2"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 40.18,
      "ww": 43.1,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 2,
      "section": "8D",
      "codes": [
       "SL 3.2",
-      "SL 3.3",
       "AA SL 3.2"
      ],
      "q": "ex02_q.webp",
@@ -2562,7 +2544,7 @@ window.SITE = {
      "qw": 99.93,
      "ww": 99.93,
      "sectionOriginal": "8B/8C/8D",
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 3,
@@ -2629,7 +2611,6 @@ window.SITE = {
      "codes": [
       "SL 3.2",
       "SL 3.3",
-      "SL 3.1",
       "AA SL 3.2",
       "AA SL 3.3"
      ],
@@ -2637,7 +2618,7 @@ window.SITE = {
      "w": "ex07_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 8,
@@ -2660,16 +2641,13 @@ window.SITE = {
      "section": "8E",
      "codes": [
       "SL 3.2",
-      "SL 3.3",
-      "SL 3.1",
-      "AA SL 3.2",
-      "AA SL 3.3"
+      "AA SL 3.2"
      ],
      "q": "ex09_q.webp",
      "w": "ex09_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     }
    ],
    "dir": "img/CT-SL_ch08"
@@ -2701,28 +2679,26 @@ window.SITE = {
      "section": "9A",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
       "AA SL 3.1"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 73.39,
      "ww": 73.39,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 2,
      "section": "9B",
      "codes": [
       "SL 3.1",
-      "SL 3.2",
       "AA SL 3.1"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 3,
@@ -2730,7 +2706,6 @@ window.SITE = {
      "codes": [
       "SL 3.1",
       "SL 3.2",
-      "SL 3.3",
       "AA SL 3.1",
       "AA SL 3.2"
      ],
@@ -2738,7 +2713,7 @@ window.SITE = {
      "w": "ex03_w.webp",
      "qw": 100.0,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     }
    ],
    "dir": "img/CT-SL_ch09"
@@ -5750,13 +5725,13 @@ window.SITE = {
      "n": 4,
      "section": "17B",
      "codes": [
-      "SL 3.5",
       "SL 3.6"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 100.0,
-     "ww": 100.0
+     "ww": 100.0,
+     "codesSource": "example-review"
     },
     {
      "n": 5,
@@ -7727,13 +7702,14 @@ window.SITE = {
      "section": "8F",
      "codes": [
       "AHL 3.8",
-      "AA SL 3.5"
+      "AA SL 3.5",
+      "AA SL 3.8"
      ],
      "q": "ex10_q.webp",
      "w": "ex10_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 12,
@@ -7866,15 +7842,13 @@ window.SITE = {
      "section": "9C",
      "codes": [
       "SL 3.2",
-      "SL 3.3",
-      "AHL 3.8",
       "AA SL 3.2"
      ],
      "q": "ex05_q_reviewed_v3.webp",
      "w": "ex05_w.webp",
      "qw": 100.0,
      "ww": 80.06,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 6,
@@ -29134,13 +29108,14 @@ window.SITE = {
      "printedLabel": "14",
      "section": "13F",
      "codes": [
-      "AA AHL 3.15"
+      "AA AHL 3.15",
+      "AA AHL 3.16"
      ],
      "q": "ex14_q.webp",
      "w": "ex14_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 15,
@@ -30657,13 +30632,14 @@ window.SITE = {
      "printedLabel": "3",
      "section": "19A",
      "codes": [
-      "AA SL 5.1"
+      "AA SL 5.1",
+      "AA SL 3.2"
      ],
      "q": "ex03_q.webp",
      "w": "ex03_w.webp",
      "qw": 99.93,
      "ww": 99.93,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 4,
@@ -34563,14 +34539,13 @@ window.SITE = {
      "printedLabel": "6.10",
      "section": "6.2",
      "codes": [
-      "AA SL 3.2",
       "AA SL 3.5"
      ],
      "q": "ex10_q_reviewed.webp",
      "w": "ex10_w_reviewed.webp",
      "qw": 79.59,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 11,
@@ -40774,13 +40749,14 @@ window.SITE = {
      "printedLabel": "9.15",
      "section": "9.3",
      "codes": [
-      "AA AHL 3.16"
+      "AA AHL 3.16",
+      "AA AHL 3.12"
      ],
      "q": "ex15_q_final.webp",
      "w": "ex15_w_final.webp",
      "qw": 79.59,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 16,
@@ -41280,13 +41256,15 @@ window.SITE = {
      "section": "9.4b",
      "codes": [
       "AA AHL 3.17",
-      "AA AHL 3.18"
+      "AA AHL 3.18",
+      "AA AHL 3.14",
+      "AA AHL 3.16"
      ],
      "q": "ex49_q_final.webp",
      "w": "ex49_w_final.webp",
      "qw": 79.45,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 50,
@@ -45531,15 +45509,13 @@ window.SITE = {
      "printedLabel": "4.1",
      "section": "4.1",
      "codes": [
-      "SL 2.1",
-      "SL 3.1",
-      "SL 3.5"
+      "SL 3.3"
      ],
      "q": "ex01_q.webp",
      "w": "ex01_w.webp",
      "qw": 79.67,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 2,
@@ -45547,15 +45523,14 @@ window.SITE = {
      "printedLabel": "4.2",
      "section": "4.1",
      "codes": [
-      "SL 2.1",
       "SL 3.1",
-      "SL 3.5"
+      "SL 3.3"
      ],
      "q": "ex02_q.webp",
      "w": "ex02_w.webp",
      "qw": 79.78,
      "ww": 79.78,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 3,
@@ -45579,15 +45554,13 @@ window.SITE = {
      "printedLabel": "4.4",
      "section": "4.1",
      "codes": [
-      "SL 2.1",
-      "SL 3.1",
-      "SL 3.5"
+      "PK"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 79.67,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 5,
@@ -45612,14 +45585,13 @@ window.SITE = {
      "section": "4.1",
      "codes": [
       "SL 2.1",
-      "SL 3.1",
-      "SL 3.5"
+      "SL 1.8"
      ],
      "q": "ex06_q.webp",
      "w": "ex06_w.webp",
      "qw": 79.59,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 7,
@@ -45627,15 +45599,13 @@ window.SITE = {
      "printedLabel": "4.7",
      "section": "4.1",
      "codes": [
-      "SL 2.1",
-      "SL 3.1",
-      "SL 3.5"
+      "SL 2.1"
      ],
      "q": "ex07_q.webp",
      "w": "ex07_w.webp",
      "qw": 79.67,
      "ww": 100.0,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 8,
@@ -45713,13 +45683,14 @@ window.SITE = {
      "printedLabel": "4.13",
      "section": "4.2",
      "codes": [
-      "SL 3.2"
+      "SL 3.2",
+      "SL 3.3"
      ],
      "q": "ex13_q.webp",
      "w": "ex13_w.webp",
      "qw": 79.59,
      "ww": 79.67,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 14,
@@ -45771,14 +45742,13 @@ window.SITE = {
      "printedLabel": "4.17",
      "section": "4.3",
      "codes": [
-      "SL 3.2",
-      "SL 3.3"
+      "SL 3.2"
      ],
      "q": "ex17_q.webp",
      "w": "ex17_w.webp",
      "qw": 79.91,
      "ww": 79.78,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 18,
@@ -45801,14 +45771,13 @@ window.SITE = {
      "printedLabel": "4.19",
      "section": "4.3",
      "codes": [
-      "SL 3.2",
-      "SL 3.3"
+      "SL 3.2"
      ],
      "q": "ex19_q.webp",
      "w": "ex19_w.webp",
      "qw": 79.59,
      "ww": 79.78,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 20,
@@ -45831,14 +45800,13 @@ window.SITE = {
      "printedLabel": "4.21",
      "section": "4.3",
      "codes": [
-      "SL 3.2",
-      "SL 3.3"
+      "SL 3.2"
      ],
      "q": "ex21_q.webp",
      "w": "ex21_w.webp",
      "qw": 79.91,
      "ww": 79.45,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 22,
@@ -45861,13 +45829,14 @@ window.SITE = {
      "printedLabel": "4.23",
      "section": "4.4",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "SL 3.3"
      ],
      "q": "ex23_q.webp",
      "w": "ex23_w.webp",
      "qw": 79.45,
      "ww": 79.59,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 24,
@@ -45903,13 +45872,14 @@ window.SITE = {
      "printedLabel": "4.26",
      "section": "4.4",
      "codes": [
-      "SL 3.1"
+      "SL 3.1",
+      "SL 3.2"
      ],
      "q": "ex26_q.webp",
      "w": "ex26_w.webp",
      "qw": 79.45,
      "ww": 79.45,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 27,
@@ -45994,13 +45964,14 @@ window.SITE = {
      "printedLabel": "5.4",
      "section": "5.2",
      "codes": [
-      "SL 3.6"
+      "SL 3.6",
+      "SL 3.5"
      ],
      "q": "ex04_q.webp",
      "w": "ex04_w.webp",
      "qw": 79.35,
      "ww": 79.35,
-     "codesSource": "section-table"
+     "codesSource": "example-review"
     },
     {
      "n": 5,
