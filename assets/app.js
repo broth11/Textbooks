@@ -30,6 +30,15 @@
   }
   function bookRows() {
     var h = '', ch = 0, ex = 0;
+    if (state.scope) {
+      var sc = state.scope;
+      h += '<p class="bookline">' + esc(sc.course) + ' books from <b>' + esc(window.IBPicker.pubName(sc.pub)) + '</b> <button class="linkbtn" data-allbooks="1">Show all books</button></p>';
+      window.IBPicker.courseBooks(sc.course, sc.pub).forEach(function (cb) {
+        var b = bookInfo(cb.code);
+        h += '<div class="row' + (state.book === b.code ? ' on' : '') + '" role="link" tabindex="0" data-go="#/book/' + esc(b.code) + '"><span class="cnt">' + b.examples + '</span>' + esc(b.name) + '<span class="sub">' + b.chapters + ' chapters</span></div>';
+      });
+      return h;
+    }
     books().forEach(function (b) { ch += b.chapters; ex += b.examples; });
     h += '<div class="row' + (state.book === 'all' ? ' on' : '') + '" role="link" tabindex="0" data-go="#/book/all"><span class="cnt">' + ex + '</span>All books<span class="sub">' + ch + ' chapters</span></div>';
     books().forEach(function (b) {
@@ -43,6 +52,7 @@
     var m;
     if (h === '' || h === '/') return { kind: 'landing' };
     if (h === 'browse') return { kind: 'home' };
+    if ((m = /^books\/(MAA|MAI)\/(Haese|Pearson|Both)$/.exec(h))) return { kind: 'books', course: m[1], pub: m[2] };
     if ((m = /^(map|topics)\/(MAA|MAI)\/(Haese|Pearson|Both)(?:\/(.*))?$/.exec(h))) return { kind: m[1], course: m[2], pub: m[3], codes: (m[4] || '').split(',').filter(Boolean) };
     if ((m = /^pick\/(ch|code)=(.+)$/.exec(h))) return { kind: 'pick', mode: m[1], ids: m[2].split(',').filter(Boolean) };
     if ((m = /^code\/(.+)$/.exec(h))) return { kind: 'code', code: m[1] };
@@ -52,11 +62,11 @@
   }
   function lbl(ex) { return ex.label || ex.n; }
   function curLabel() { var k = state.cur.split('|'), ch = chapterById(k[0]), r = k[1]; if (ch) ch.examples.forEach(function (e) { if (String(e.n) === r) r = lbl(e); }); return r; }
-  function disp(c) { return c === 'PK' ? 'Previous Knowledge - MYP' : c; }
+  function disp(c) { return c === 'PK' ? 'Prior Knowledge - MYP' : c; }
   function topicCodes(ex) {
     var aa = view.course === 'MAA';
     var cs = ex.codes.filter(function (c) { return c === 'PK' || (aa ? /^AA /.test(c) : !/^AA /.test(c)); }).sort(codeCmp);
-    return cs.map(function (c) { return c === 'PK' ? 'Previous Knowledge - MYP' : c.replace(/^AA /, '').replace('AHL', 'HL'); }).join(' · ');
+    return cs.map(function (c) { return c === 'PK' ? 'Prior Knowledge - MYP' : c.replace(/^AA /, '').replace('AHL', 'HL'); }).join(' · ');
   }
   function codesLine(ex) { return ex.codes.length ? ex.codes.map(disp).join(' · ') : 'No syllabus code assigned yet'; }
 
@@ -162,17 +172,42 @@
   function renderAll() { renderRails(); renderPanel(); renderMain(); $('app').classList.toggle('collapsed', state.collapsed); }
 
   // ---------- smooth scroll
-  function glide(key, delay) {
+  // Glide to an example and keep it pinned under the top bar while images above it are still loading
+  // (they change the page height). The pin is released as soon as the reader scrolls, or after 15 s.
+  var pin = null;
+  function pinTop(el) { var gap = el.classList.contains('group') ? 16 : 0; return Math.max(0, Math.round(el.getBoundingClientRect().top + (document.scrollingElement || document.documentElement).scrollTop - $('topbar').offsetHeight - gap)); }
+  function unpin() { if (pin) { clearTimeout(pin.timer); pin = null; } }
+  // With a heading, aim at the topic title just above the first example of the group.
+  function pinEl(p) { var el = document.getElementById('a-' + p.key); if (el && p.head && el.previousElementSibling && el.previousElementSibling.classList.contains('group')) el = el.previousElementSibling; return el; }
+  function holdPin() {
+    if (!pin || state.gliding) return;
+    var el = pinEl(pin); if (!el) { unpin(); return; }
+    var root = document.scrollingElement || document.documentElement, to = pinTop(el);
+    if (Math.abs(root.scrollTop - to) > 1) { pin.self = true; root.scrollTop = to; }
+  }
+  if (window.ResizeObserver) new ResizeObserver(holdPin).observe($('main'));
+  $('main').addEventListener('load', holdPin, true);
+  ['wheel', 'touchstart', 'mousedown'].forEach(function (ev) { window.addEventListener(ev, function (e) { if (ev !== 'mousedown' || !(e.target.closest && e.target.closest('#panel,[data-toggle]'))) unpin(); }, { passive: true }); });
+  window.addEventListener('keydown', function (e) { if (['ArrowUp', 'ArrowDown', 'PageUp', 'PageDown', 'Home', 'End', ' '].indexOf(e.key) >= 0) unpin(); });
+  function glide(key, delay, head) {
+    unpin();
+    pin = { key: key, head: !!head, timer: setTimeout(unpin, 15000) };
+    var myPin = pin;
     setTimeout(function () {
-      var el = document.getElementById('a-' + key); if (!el) return;
-      var root = document.scrollingElement || document.documentElement, from = root.scrollTop;
-      var tb = $('topbar').offsetHeight, to = Math.max(0, Math.round(el.getBoundingClientRect().top + from - tb)), dist = to - from;
+      if (pin !== myPin) return;
+      var el = pinEl(myPin); if (!el) return;
+      var root = document.scrollingElement || document.documentElement, from = root.scrollTop, to = pinTop(el);
       var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-      if (reduce || Math.abs(dist) < 2) { root.scrollTop = to; return; }
+      if (reduce || Math.abs(to - from) < 2) { root.scrollTop = to; return; }
       state.gliding = true;
-      var dur = Math.min(1100, 600 + Math.abs(dist) * 0.25), t0 = performance.now();
+      var dur = Math.min(1100, 600 + Math.abs(to - from) * 0.25), t0 = performance.now();
       var ease = function (t) { return t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2; };
-      (function step(now) { var t = Math.min(1, (now - t0) / dur); root.scrollTop = from + dist * ease(t); if (t < 1) requestAnimationFrame(step); else state.gliding = false; })(performance.now());
+      (function step(now) {
+        if (pin !== myPin) { state.gliding = false; return; }
+        var t = Math.min(1, (now - t0) / dur);
+        root.scrollTop = from + (pinTop(el) - from) * ease(t);   // re-read the target each frame: images above it may have loaded
+        if (t < 1) requestAnimationFrame(step); else { state.gliding = false; holdPin(); }
+      })(performance.now());
     }, delay || 0);
   }
   function select(key, delay) {
@@ -224,13 +259,14 @@
     location.hash = to || (s ? single(s.mode, s.ids[0]) : '#/');
   }
   document.addEventListener('click', function (e) {
-    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-go],[data-order],[data-grp],#hide,#expand');
+    var t = e.target.closest('[data-rail],[data-key],[data-toggle],[data-pick],[data-clear],[data-allbooks],[data-go],[data-order],[data-grp],#hide,#expand');
     if (!t) return;
     if (t.dataset.order) { state.order = t.dataset.order; view = window.IBPicker.topicsView(lastR, state.order); state.cur = view.items.length ? view.items[0].key : null; renderAll(); window.scrollTo(0, 0); return; }
-    if (t.dataset.grp !== undefined) { state.cur = t.dataset.first; markCur(); glide(state.cur, 0); return; }
+    if (t.dataset.grp !== undefined) { state.cur = t.dataset.first; markCur(); glide(state.cur, 0, true); return; }
     if (t.dataset.go) { location.hash = t.dataset.go; return; }
     if (t.dataset.pick) { pick(t.dataset.pick, t.dataset.id); return; }
     if (t.dataset.clear) { clearSel(); return; }
+    if (t.dataset.allbooks) { state.scope = null; renderPanel(); return; }
     if (t.dataset.rail) { state.rail = t.dataset.rail; renderRails(); renderPanel(); }
     else if (t.dataset.toggle) toggle(t.dataset.toggle);
     else if (t.dataset.key) { e.preventDefault(); select(t.dataset.key); }
@@ -239,7 +275,7 @@
   });
   var spyQ = false;
   window.addEventListener('scroll', function () {
-    if (spyQ || !view || !view.topics || state.gliding) return; spyQ = true;
+    if (spyQ || !view || !view.topics || state.gliding || pin) return; spyQ = true;
     requestAnimationFrame(function () {
       spyQ = false;
       var line = $('topbar').offsetHeight + 40, cur = null, arts = document.querySelectorAll('#main article');
@@ -257,6 +293,11 @@
     var r = route(); lastR = r;
     if (r.kind === 'landing' || r.kind === 'map') { renderBar(r); window.IBPicker.show(r); return; }
     window.IBPicker.hide();
+    if (r.kind === 'books') {
+      state.scope = { course: r.course, pub: r.pub }; state.book = 'all'; state.rail = 'books'; state.sel = null;
+      location.replace('#/browse');
+      return;
+    }
     if (r.kind === 'book') {
       var info = r.code === 'all' ? null : bookInfo(r.code);
       state.book = info ? info.code : 'all';

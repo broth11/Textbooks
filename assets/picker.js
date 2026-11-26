@@ -14,7 +14,7 @@
   var PUBS = ['Haese', 'Pearson', 'Both'];
   var KEY = 'ibt-picker-v1';
   var P = { course: 'MAA', pub: 'Both', sel: { MAA: {}, MAI: {} } };
-  var cur = 'landing', loaded = false, pageEl = null;
+  var cur = 'landing', loaded = false, pageEl = null, step = 1, reveal = null;
 
   // ---------- persistence
   function loadStore() {
@@ -38,13 +38,33 @@
   function shortCode(c) { return c.replace(/^AA /, ''); }
   function fullCode(c, course) { return c === 'PK' ? c : (course === 'MAA' ? 'AA ' + c : c); }
   function dc(c) { return c === 'PK' ? 'MYP' : shortCode(c).replace('AHL', 'HL'); }
-  function dcLong(c) { return c === 'PK' ? 'Previous Knowledge - MYP' : dc(c); }
+  function dcLong(c) { return c === 'PK' ? 'Prior Knowledge - MYP' : dc(c); }
   function levelOf(c) { return /AHL/.test(c) ? 'HL' : 'SL'; }
   function strandOf(c) { var m = /(\d+)\.\d+/.exec(c); return m ? +m[1] : 0; }
   function pubOf(ch) { return T().bookOf(ch).indexOf('PE') === 0 ? 'Pearson' : 'Haese'; }
   function pubOk(ch, pub) { return pub === 'Both' || pubOf(ch) === pub; }
   function pubName(pub) { return pub === 'Both' ? 'Haese and Pearson' : pub; }
-  function label(c) { return c === 'PK' ? 'Previous Knowledge - MYP' : ((S().syllabus[c] || {}).label || ''); }
+  // A chapter belongs to a course when one of its examples carries a code of that course (PK alone does not count).
+  function chInCourse(ch, course) { return ch.examples.some(function (ex) { return ex.codes.some(function (c) { return c !== 'PK' && inCourse(c, course); }); }); }
+  function courseBooks(course, pub) {
+    var out = [], seen = {};
+    S().chapters.forEach(function (ch) {
+      if (!chInCourse(ch, course) || (pub && !pubOk(ch, pub))) return;
+      var k = T().bookOf(ch);
+      if (!seen[k]) { seen[k] = { code: k, name: ch.book, pub: pubOf(ch), examples: 0 }; out.push(seen[k]); }
+      seen[k].examples += ch.examples.length;
+    });
+    return out;
+  }
+  // Publishers that have books for this course; "Both" only when there are two.
+  function pubsFor(course) {
+    var have = {}; courseBooks(course).forEach(function (b) { have[b.pub] = true; });
+    var out = ['Haese', 'Pearson'].filter(function (p) { return have[p]; });
+    if (out.length > 1) out.push('Both');
+    return out;
+  }
+  function fixPub() { var ps = pubsFor(P.course); if (ps.indexOf(P.pub) < 0) P.pub = ps[ps.length - 1] || 'Both'; }
+  function label(c) { return c === 'PK' ? 'Prior Knowledge - MYP' : ((S().syllabus[c] || {}).label || ''); }
   function validCode(c) { return c === 'PK' || !!S().syllabus[c]; }
   function courseCodes(course) {
     return Object.keys(S().syllabus).filter(function (c) { return c !== 'PK' && inCourse(c, course); }).sort(T().codeCmp);
@@ -93,8 +113,9 @@
   }
   function levelSets(M) {
     return [
+      { id: 'PK', name: 'Prior Knowledge', set: M.pk.on ? [M.pk] : [] },
       { id: 'SL', name: 'SL', set: M.rows.filter(function (d) { return d.on && d.level === 'SL'; }) },
-      { id: 'SLHL', name: 'SL + HL', set: M.all.filter(function (d) { return d.on; }) },
+      { id: 'SLHL', name: 'SL+HL', set: M.rows.filter(function (d) { return d.on; }) },
       { id: 'HL', name: 'HL Only', set: M.rows.filter(function (d) { return d.on && d.level === 'HL'; }) }
     ];
   }
@@ -106,22 +127,37 @@
     }).join('') + '</div>';
   }
   function courseSeg() { return seg(['MAA', 'MAI'].map(function (c) { return { v: c, name: c, on: P.course === c }; }), 'course'); }
-  function pubSeg() { return seg(PUBS.map(function (p) { return { v: p, name: p, on: P.pub === p }; }), 'pub'); }
+  function pubSeg() { return seg(pubsFor(P.course).map(function (p) { return { v: p, name: p, on: P.pub === p }; }), 'pub'); }
 
   // ---------- html: landing
   function landingHtml() {
     var chapters = S().chapters.length, ex = 0, bk = {};
     S().chapters.forEach(function (ch) { ex += ch.examples.length; bk[T().bookOf(ch)] = 1; });
+    function card(act, v, on, big, name, blurb, foot) {
+      return '<button type="button" class="pg-card' + (on ? ' on' : '') + '" aria-pressed="' + on + '" data-act="' + act + '" data-v="' + esc(v) + '" data-fk="' + act + ':' + esc(v) + '"><span class="pg-cid">' + esc(big) + '</span><span class="pg-cname">' + esc(name) + '</span><span class="pg-cblurb">' + esc(blurb) + '</span><span class="pg-cbooks">' + esc(foot) + '</span></button>';
+    }
     var cards = ['MAI', 'MAA'].map(function (id) {
-      var c = COURSES[id], on = P.course === id;
-      return '<button type="button" class="pg-card' + (on ? ' on' : '') + '" aria-pressed="' + on + '" data-act="course" data-v="' + id + '" data-fk="card:' + id + '"><span class="pg-cid">' + id + '</span><span class="pg-cname">' + esc(c.name) + '</span><span class="pg-cblurb">' + esc(c.blurb) + '</span><span class="pg-cbooks">' + esc(c.books) + '</span></button>';
+      var c = COURSES[id];
+      return card('course', id, step > 1 && P.course === id, id, c.name, c.blurb, c.books);
     }).join('');
-    return '<div class="pg pg-land">' +
+    var h = '<div class="pg pg-land">' +
       '<header><div class="pg-kicker">Worked examples by syllabus topic</div><h1>IB Textbooks</h1><p class="pg-sub">Every worked example from the Haese and Pearson books, found by the IB syllabus topic it teaches.</p></header>' +
-      '<section aria-labelledby="pg-s1"><h2 id="pg-s1">1. Choose your course</h2><div class="pg-cards">' + cards + '</div></section>' +
-      '<section aria-labelledby="pg-s2"><h2 id="pg-s2">2. Choose your publisher</h2>' + pubSeg() + '</section>' +
-      '<section class="pg-actions"><a class="pg-cta" href="' + esc(mapHash()) + '">Choose topics &rarr;</a></section>' +
-      '<footer>' + Object.keys(bk).length + ' books, ' + chapters + ' chapters, ' + ex.toLocaleString('en-US') + ' worked examples. MAI and MAA syllabus codes attached to every example.</footer></div>';
+      '<section aria-labelledby="pg-s1"><h2 id="pg-s1">1. Choose your course</h2><div class="pg-cards">' + cards + '</div></section>';
+    if (step > 1) {
+      var pcards = pubsFor(P.course).map(function (p) {
+        var bs = courseBooks(P.course, p), n = 0; bs.forEach(function (b) { n += b.examples; });
+        var big = p === 'Both' ? 'Both' : p, name = p === 'Both' ? 'Haese and Pearson' : p + ' books';
+        return card('pub', p, step > 2 && P.pub === p, big, name, bs.map(function (b) { return b.name; }).join(', '), bs.length + ' book' + (bs.length === 1 ? '' : 's') + ', ' + n.toLocaleString('en-US') + ' worked examples');
+      }).join('');
+      h += '<section class="pg-step" id="pg-step2" aria-labelledby="pg-s2"><h2 id="pg-s2">2. Choose your publisher</h2><div class="pg-cards pg-row">' + pcards + '</div></section>';
+    }
+    if (step > 2) {
+      h += '<section class="pg-step" id="pg-step3" aria-labelledby="pg-s3"><h2 id="pg-s3">3. Choose how to find your examples</h2><div class="pg-cards">' +
+        card('way', 'syllabus', false, 'Syllabus', 'Choose topics by syllabus', 'Tick the IB syllabus topics you need and see every worked example for them.', P.course + ' · ' + pubName(P.pub)) +
+        card('way', 'chapter', false, 'Chapter', 'By textbook chapter', 'Pick a textbook, then a chapter, and work through its examples in book order.', P.course + ' · ' + pubName(P.pub)) +
+        '</div></section>';
+    }
+    return h + '<footer>' + Object.keys(bk).length + ' books, ' + chapters + ' chapters, ' + ex.toLocaleString('en-US') + ' worked examples. MAI and MAA syllabus codes attached to every example.</footer></div>';
   }
 
   // ---------- html: map
@@ -143,10 +179,11 @@
       return { v: l.id, name: l.name, on: on };
     });
     var h = '<div class="pg pg-map"><header class="pg-mhead"><div><h1>Choose your topics</h1></div><div class="pg-ctl">' + courseSeg() + pubSeg() + '</div></header>';
-    h += '<section class="pg-tools" aria-label="Selection tools"><div class="pg-whole"><span>Whole course</span>' + seg(lv, 'level') + '</div><div class="pg-sum"><div><b>' + M.picked.length + '</b> topic' + (M.picked.length === 1 ? '' : 's') + ' ticked, <b>' + ms.length + '</b> example' + (ms.length === 1 ? '' : 's') + '</div>' +
+    h += '<section class="pg-tools" aria-label="Selection tools"><div class="pg-whole"><span>Quick Select</span>' + seg(lv, 'level') + '</div><div class="pg-sum"><div><b>' + M.picked.length + '</b> topic' + (M.picked.length === 1 ? '' : 's') + ' ticked, <b>' + ms.length + '</b> example' + (ms.length === 1 ? '' : 's') + '</div>' +
       '<button type="button" class="pg-clear" data-act="clear" data-fk="clear"' + (M.picked.length ? '' : ' disabled') + '>Clear selections</button>' +
       (ms.length ? '<a class="pg-go" href="' + esc(topicsHash(M.course, M.pub, sel)) + '">Show examples &rarr;</a>' : '<span class="pg-go off" aria-disabled="true">Show examples &rarr;</span>') + '</div></section>';
-    h += '<section class="pg-pk" aria-label="Previous knowledge"><div class="pg-pkt">Previous knowledge</div><div class="pg-pktile">' + tileHtml(M.pk, sel) + '</div><div class="pg-pkn">Skills from before the IB syllabus that the books revisit. Included when you choose SL + HL.</div></section>';
+    h += '<section class="pg-strand pg-strand-pk">' + headHtml('pg-bar', 'pk', '', 'pk', [M.pk], sel, true, 'Prior Knowledge') + '<div class="pg-cols">' +
+      '<div class="pg-col">' + headHtml('pg-chead lv-PK', 'pk', '', 'pkcol', [M.pk], sel, false, 'MYP') + '<div class="pg-tiles">' + tileHtml(M.pk, sel) + '</div></div></div></section>';
     STRANDS.forEach(function (title, i) {
       var all = M.rows.filter(function (d) { return d.strand === i + 1; });
       var sl = all.filter(function (d) { return d.level === 'SL'; }), hl = all.filter(function (d) { return d.level === 'HL'; });
@@ -165,13 +202,17 @@
     pageEl.innerHTML = cur === 'landing' ? landingHtml() : mapHtml();
     if (fk) { var els = pageEl.querySelectorAll('[data-fk]'); for (var i = 0; i < els.length; i++) if (els[i].getAttribute('data-fk') === fk) { els[i].focus({ preventScroll: true }); break; } }
     window.scrollTo(0, y);
+    if (reveal) { var r = document.getElementById(reveal); reveal = null; if (r) r.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); }
   }
   function syncUrl() { try { history.replaceState(null, '', mapHash()); } catch (e) { /* ignore */ } }
   document.addEventListener('click', function (e) {
     var t = e.target.closest ? e.target.closest('#page [data-act]') : null;
     if (!t || t.disabled) return;
     var a = t.getAttribute('data-act'), v = t.getAttribute('data-v'), M, n;
-    if (a === 'course') { P.course = v; }
+    if (a === 'course' && cur === 'landing') { P.course = v; fixPub(); step = 2; reveal = 'pg-step2'; }
+    else if (a === 'pub' && cur === 'landing') { P.pub = v; step = 3; reveal = 'pg-step3'; }
+    else if (a === 'way') { save(); location.hash = v === 'syllabus' ? mapHash() : '#/books/' + P.course + '/' + P.pub; return; }
+    else if (a === 'course') { P.course = v; fixPub(); }
     else if (a === 'pub') { P.pub = v; }
     else if (a === 'level') {
       M = model();
@@ -181,6 +222,7 @@
       if (!on) ls.set.forEach(function (d) { P.sel[P.course][d.code] = true; });
     }
     else if (a === 'clear') { P.sel[P.course] = {}; }
+    else if (a === 'pk') { M = model(); toggleList([M.pk]); }
     else if (a === 'strand') { n = +t.getAttribute('data-n'); M = model(); toggleList(M.rows.filter(function (d) { return d.strand === n; })); }
     else if (a === 'col') { n = +t.getAttribute('data-n'); var lvl = t.getAttribute('data-lv'); M = model(); toggleList(M.rows.filter(function (d) { return d.strand === n && d.level === lvl; })); }
     else if (a === 'tile') { M = model(); var code = t.getAttribute('data-code'); toggleList(M.all.filter(function (d) { return d.code === code; })); }
@@ -199,8 +241,8 @@
         P.sel[r.course] = {};
         r.codes.forEach(function (s) { var c = fullCode(s, r.course); if (validCode(c)) P.sel[r.course][c] = true; });
       }
-      save();
-    } else { cur = 'landing'; }
+      fixPub(); save();
+    } else { cur = 'landing'; step = 1; }
     document.body.className = 'pg-mode';
     pageEl = document.getElementById('page'); pageEl.hidden = false;
     render(); window.scrollTo(0, 0);
@@ -259,5 +301,5 @@
     return h;
   }
 
-  window.IBPicker = { groupOf: groupOf, show: show, hide: hide, topicsView: topicsView, topicsPanel: topicsPanel, itemCodes: itemCodes };
+  window.IBPicker = { courseBooks: courseBooks, pubName: pubName, groupOf: groupOf, show: show, hide: hide, topicsView: topicsView, topicsPanel: topicsPanel, itemCodes: itemCodes };
 })();
